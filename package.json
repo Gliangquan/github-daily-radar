@@ -1,0 +1,8 @@
+{
+  "name": "github-daily-radar",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-readme.mjs"
+  }
+}
