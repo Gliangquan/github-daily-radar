@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-03-11T00:59:34.995Z
+Updated: 2026-03-12T00:56:45.050Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | karpathy/autoresearch | Python | 22783 | [Open](https://github.com/karpathy/autoresearch) |
-| 2 | HKUDS/CLI-Anything | Python | 2539 | [Open](https://github.com/HKUDS/CLI-Anything) |
-| 3 | twostraws/SwiftUI-Agent-Skill | Unknown | 1751 | [Open](https://github.com/twostraws/SwiftUI-Agent-Skill) |
-| 4 | jackwener/twitter-cli | Python | 1431 | [Open](https://github.com/jackwener/twitter-cli) |
-| 5 | BigBodyCobain/Shadowbroker | TypeScript | 1405 | [Open](https://github.com/BigBodyCobain/Shadowbroker) |
-| 6 | cyxzdev/Uncodixfy | Unknown | 1353 | [Open](https://github.com/cyxzdev/Uncodixfy) |
-| 7 | ParthJadhav/app-store-screenshots | Unknown | 962 | [Open](https://github.com/ParthJadhav/app-store-screenshots) |
-| 8 | FreedomIntelligence/OpenClaw-Medical-Skills | Python | 919 | [Open](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) |
-| 9 | op7418/Claude-to-IM-skill | TypeScript | 832 | [Open](https://github.com/op7418/Claude-to-IM-skill) |
-| 10 | imbue-bit/OpenClaw-PwnKit | Python | 675 | [Open](https://github.com/imbue-bit/OpenClaw-PwnKit) |
+| 1 | karpathy/autoresearch | Python | 26229 | [Open](https://github.com/karpathy/autoresearch) |
+| 2 | HKUDS/CLI-Anything | Python | 5332 | [Open](https://github.com/HKUDS/CLI-Anything) |
+| 3 | tanweai/pua | TypeScript | 2865 | [Open](https://github.com/tanweai/pua) |
+| 4 | ParthJadhav/app-store-screenshots | Unknown | 1845 | [Open](https://github.com/ParthJadhav/app-store-screenshots) |
+| 5 | cyxzdev/Uncodixfy | Unknown | 1415 | [Open](https://github.com/cyxzdev/Uncodixfy) |
+| 6 | FreedomIntelligence/OpenClaw-Medical-Skills | Python | 1001 | [Open](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) |
+| 7 | imbue-bit/OpenClaw-PwnKit | Python | 695 | [Open](https://github.com/imbue-bit/OpenClaw-PwnKit) |
+| 8 | jackwener/xiaohongshu-cli | Python | 658 | [Open](https://github.com/jackwener/xiaohongshu-cli) |
+| 9 | knowsuchagency/mcp2cli | Python | 621 | [Open](https://github.com/knowsuchagency/mcp2cli) |
+| 10 | photon-hq/qclaw-wechat-client | TypeScript | 614 | [Open](https://github.com/photon-hq/qclaw-wechat-client) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
