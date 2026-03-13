@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-03-12T00:56:45.050Z
+Updated: 2026-03-13T01:01:59.671Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | karpathy/autoresearch | Python | 26229 | [Open](https://github.com/karpathy/autoresearch) |
-| 2 | HKUDS/CLI-Anything | Python | 5332 | [Open](https://github.com/HKUDS/CLI-Anything) |
-| 3 | tanweai/pua | TypeScript | 2865 | [Open](https://github.com/tanweai/pua) |
-| 4 | ParthJadhav/app-store-screenshots | Unknown | 1845 | [Open](https://github.com/ParthJadhav/app-store-screenshots) |
-| 5 | cyxzdev/Uncodixfy | Unknown | 1415 | [Open](https://github.com/cyxzdev/Uncodixfy) |
-| 6 | FreedomIntelligence/OpenClaw-Medical-Skills | Python | 1001 | [Open](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) |
-| 7 | imbue-bit/OpenClaw-PwnKit | Python | 695 | [Open](https://github.com/imbue-bit/OpenClaw-PwnKit) |
-| 8 | jackwener/xiaohongshu-cli | Python | 658 | [Open](https://github.com/jackwener/xiaohongshu-cli) |
-| 9 | knowsuchagency/mcp2cli | Python | 621 | [Open](https://github.com/knowsuchagency/mcp2cli) |
-| 10 | photon-hq/qclaw-wechat-client | TypeScript | 614 | [Open](https://github.com/photon-hq/qclaw-wechat-client) |
+| 1 | HKUDS/CLI-Anything | Python | 8838 | [Open](https://github.com/HKUDS/CLI-Anything) |
+| 2 | tanweai/pua | HTML | 5180 | [Open](https://github.com/tanweai/pua) |
+| 3 | garrytan/gstack | TypeScript | 2646 | [Open](https://github.com/garrytan/gstack) |
+| 4 | ParthJadhav/app-store-screenshots | Unknown | 2187 | [Open](https://github.com/ParthJadhav/app-store-screenshots) |
+| 5 | FreedomIntelligence/OpenClaw-Medical-Skills | Python | 1077 | [Open](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) |
+| 6 | jackwener/xiaohongshu-cli | Python | 783 | [Open](https://github.com/jackwener/xiaohongshu-cli) |
+| 7 | gsd-build/gsd-2 | TypeScript | 777 | [Open](https://github.com/gsd-build/gsd-2) |
+| 8 | larksuite/openclaw-lark | TypeScript | 741 | [Open](https://github.com/larksuite/openclaw-lark) |
+| 9 | photon-hq/qclaw-wechat-client | TypeScript | 702 | [Open](https://github.com/photon-hq/qclaw-wechat-client) |
+| 10 | knowsuchagency/mcp2cli | Python | 690 | [Open](https://github.com/knowsuchagency/mcp2cli) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
