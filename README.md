@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-03-13T01:01:59.671Z
+Updated: 2026-03-14T01:01:27.948Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | HKUDS/CLI-Anything | Python | 8838 | [Open](https://github.com/HKUDS/CLI-Anything) |
-| 2 | tanweai/pua | HTML | 5180 | [Open](https://github.com/tanweai/pua) |
-| 3 | garrytan/gstack | TypeScript | 2646 | [Open](https://github.com/garrytan/gstack) |
-| 4 | ParthJadhav/app-store-screenshots | Unknown | 2187 | [Open](https://github.com/ParthJadhav/app-store-screenshots) |
-| 5 | FreedomIntelligence/OpenClaw-Medical-Skills | Python | 1077 | [Open](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) |
-| 6 | jackwener/xiaohongshu-cli | Python | 783 | [Open](https://github.com/jackwener/xiaohongshu-cli) |
-| 7 | gsd-build/gsd-2 | TypeScript | 777 | [Open](https://github.com/gsd-build/gsd-2) |
-| 8 | larksuite/openclaw-lark | TypeScript | 741 | [Open](https://github.com/larksuite/openclaw-lark) |
-| 9 | photon-hq/qclaw-wechat-client | TypeScript | 702 | [Open](https://github.com/photon-hq/qclaw-wechat-client) |
-| 10 | knowsuchagency/mcp2cli | Python | 690 | [Open](https://github.com/knowsuchagency/mcp2cli) |
+| 1 | HKUDS/CLI-Anything | Python | 11681 | [Open](https://github.com/HKUDS/CLI-Anything) |
+| 2 | tanweai/pua | TypeScript | 6604 | [Open](https://github.com/tanweai/pua) |
+| 3 | garrytan/gstack | TypeScript | 6118 | [Open](https://github.com/garrytan/gstack) |
+| 4 | davebcn87/pi-autoresearch | TypeScript | 1156 | [Open](https://github.com/davebcn87/pi-autoresearch) |
+| 5 | FreedomIntelligence/OpenClaw-Medical-Skills | Python | 1124 | [Open](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) |
+| 6 | gsd-build/gsd-2 | TypeScript | 988 | [Open](https://github.com/gsd-build/gsd-2) |
+| 7 | TianyiDataScience/openclaw-control-center | TypeScript | 985 | [Open](https://github.com/TianyiDataScience/openclaw-control-center) |
+| 8 | aiming-lab/MetaClaw | Python | 976 | [Open](https://github.com/aiming-lab/MetaClaw) |
+| 9 | jackwener/xiaohongshu-cli | Python | 919 | [Open](https://github.com/jackwener/xiaohongshu-cli) |
+| 10 | NawfalMotii79/PLFM_RADAR | C | 844 | [Open](https://github.com/NawfalMotii79/PLFM_RADAR) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
