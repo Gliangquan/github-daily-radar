@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-03-14T01:01:27.948Z
+Updated: 2026-03-15T01:11:44.497Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | HKUDS/CLI-Anything | Python | 11681 | [Open](https://github.com/HKUDS/CLI-Anything) |
-| 2 | tanweai/pua | TypeScript | 6604 | [Open](https://github.com/tanweai/pua) |
-| 3 | garrytan/gstack | TypeScript | 6118 | [Open](https://github.com/garrytan/gstack) |
-| 4 | davebcn87/pi-autoresearch | TypeScript | 1156 | [Open](https://github.com/davebcn87/pi-autoresearch) |
-| 5 | FreedomIntelligence/OpenClaw-Medical-Skills | Python | 1124 | [Open](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) |
-| 6 | gsd-build/gsd-2 | TypeScript | 988 | [Open](https://github.com/gsd-build/gsd-2) |
-| 7 | TianyiDataScience/openclaw-control-center | TypeScript | 985 | [Open](https://github.com/TianyiDataScience/openclaw-control-center) |
-| 8 | aiming-lab/MetaClaw | Python | 976 | [Open](https://github.com/aiming-lab/MetaClaw) |
-| 9 | jackwener/xiaohongshu-cli | Python | 919 | [Open](https://github.com/jackwener/xiaohongshu-cli) |
-| 10 | NawfalMotii79/PLFM_RADAR | C | 844 | [Open](https://github.com/NawfalMotii79/PLFM_RADAR) |
+| 1 | garrytan/gstack | TypeScript | 10529 | [Open](https://github.com/garrytan/gstack) |
+| 2 | davebcn87/pi-autoresearch | TypeScript | 1594 | [Open](https://github.com/davebcn87/pi-autoresearch) |
+| 3 | TianyiDataScience/openclaw-control-center | TypeScript | 1412 | [Open](https://github.com/TianyiDataScience/openclaw-control-center) |
+| 4 | gsd-build/gsd-2 | TypeScript | 1153 | [Open](https://github.com/gsd-build/gsd-2) |
+| 5 | aiming-lab/MetaClaw | Python | 1137 | [Open](https://github.com/aiming-lab/MetaClaw) |
+| 6 | knowsuchagency/mcp2cli | Python | 957 | [Open](https://github.com/knowsuchagency/mcp2cli) |
+| 7 | pasky/chrome-cdp-skill | JavaScript | 941 | [Open](https://github.com/pasky/chrome-cdp-skill) |
+| 8 | larksuite/openclaw-lark | TypeScript | 912 | [Open](https://github.com/larksuite/openclaw-lark) |
+| 9 | wanshuiyin/Auto-claude-code-research-in-sleep | Python | 866 | [Open](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) |
+| 10 | chrisworsey55/atlas-gic | Unknown | 780 | [Open](https://github.com/chrisworsey55/atlas-gic) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
