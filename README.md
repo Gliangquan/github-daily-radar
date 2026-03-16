@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-03-15T01:11:44.497Z
+Updated: 2026-03-16T01:12:04.495Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | garrytan/gstack | TypeScript | 10529 | [Open](https://github.com/garrytan/gstack) |
-| 2 | davebcn87/pi-autoresearch | TypeScript | 1594 | [Open](https://github.com/davebcn87/pi-autoresearch) |
-| 3 | TianyiDataScience/openclaw-control-center | TypeScript | 1412 | [Open](https://github.com/TianyiDataScience/openclaw-control-center) |
-| 4 | gsd-build/gsd-2 | TypeScript | 1153 | [Open](https://github.com/gsd-build/gsd-2) |
-| 5 | aiming-lab/MetaClaw | Python | 1137 | [Open](https://github.com/aiming-lab/MetaClaw) |
-| 6 | knowsuchagency/mcp2cli | Python | 957 | [Open](https://github.com/knowsuchagency/mcp2cli) |
-| 7 | pasky/chrome-cdp-skill | JavaScript | 941 | [Open](https://github.com/pasky/chrome-cdp-skill) |
-| 8 | larksuite/openclaw-lark | TypeScript | 912 | [Open](https://github.com/larksuite/openclaw-lark) |
-| 9 | wanshuiyin/Auto-claude-code-research-in-sleep | Python | 866 | [Open](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) |
-| 10 | chrisworsey55/atlas-gic | Unknown | 780 | [Open](https://github.com/chrisworsey55/atlas-gic) |
+| 1 | garrytan/gstack | TypeScript | 13988 | [Open](https://github.com/garrytan/gstack) |
+| 2 | davebcn87/pi-autoresearch | TypeScript | 1851 | [Open](https://github.com/davebcn87/pi-autoresearch) |
+| 3 | TianyiDataScience/openclaw-control-center | TypeScript | 1714 | [Open](https://github.com/TianyiDataScience/openclaw-control-center) |
+| 4 | pasky/chrome-cdp-skill | JavaScript | 1495 | [Open](https://github.com/pasky/chrome-cdp-skill) |
+| 5 | gsd-build/gsd-2 | TypeScript | 1360 | [Open](https://github.com/gsd-build/gsd-2) |
+| 6 | wanshuiyin/Auto-claude-code-research-in-sleep | Python | 1288 | [Open](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) |
+| 7 | novatic14/MANPADS-System-Launcher-and-Rocket | Unknown | 956 | [Open](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) |
+| 8 | skernelx/tavily-key-generator | Python | 900 | [Open](https://github.com/skernelx/tavily-key-generator) |
+| 9 | Narcooo/inkos | TypeScript | 805 | [Open](https://github.com/Narcooo/inkos) |
+| 10 | chrisworsey55/atlas-gic | Unknown | 802 | [Open](https://github.com/chrisworsey55/atlas-gic) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
