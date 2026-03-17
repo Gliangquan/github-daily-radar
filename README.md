@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-03-16T01:12:04.495Z
+Updated: 2026-03-17T01:04:07.455Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | garrytan/gstack | TypeScript | 13988 | [Open](https://github.com/garrytan/gstack) |
-| 2 | davebcn87/pi-autoresearch | TypeScript | 1851 | [Open](https://github.com/davebcn87/pi-autoresearch) |
-| 3 | TianyiDataScience/openclaw-control-center | TypeScript | 1714 | [Open](https://github.com/TianyiDataScience/openclaw-control-center) |
-| 4 | pasky/chrome-cdp-skill | JavaScript | 1495 | [Open](https://github.com/pasky/chrome-cdp-skill) |
-| 5 | gsd-build/gsd-2 | TypeScript | 1360 | [Open](https://github.com/gsd-build/gsd-2) |
-| 6 | wanshuiyin/Auto-claude-code-research-in-sleep | Python | 1288 | [Open](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) |
-| 7 | novatic14/MANPADS-System-Launcher-and-Rocket | Unknown | 956 | [Open](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) |
-| 8 | skernelx/tavily-key-generator | Python | 900 | [Open](https://github.com/skernelx/tavily-key-generator) |
-| 9 | Narcooo/inkos | TypeScript | 805 | [Open](https://github.com/Narcooo/inkos) |
-| 10 | chrisworsey55/atlas-gic | Unknown | 802 | [Open](https://github.com/chrisworsey55/atlas-gic) |
+| 1 | garrytan/gstack | TypeScript | 17213 | [Open](https://github.com/garrytan/gstack) |
+| 2 | davebcn87/pi-autoresearch | TypeScript | 1987 | [Open](https://github.com/davebcn87/pi-autoresearch) |
+| 3 | TianyiDataScience/openclaw-control-center | TypeScript | 1887 | [Open](https://github.com/TianyiDataScience/openclaw-control-center) |
+| 4 | pasky/chrome-cdp-skill | JavaScript | 1869 | [Open](https://github.com/pasky/chrome-cdp-skill) |
+| 5 | THU-MAIC/OpenMAIC | TypeScript | 1858 | [Open](https://github.com/THU-MAIC/OpenMAIC) |
+| 6 | calesthio/Crucix | JavaScript | 1844 | [Open](https://github.com/calesthio/Crucix) |
+| 7 | gsd-build/gsd-2 | TypeScript | 1543 | [Open](https://github.com/gsd-build/gsd-2) |
+| 8 | aiming-lab/AutoResearchClaw | Python | 1420 | [Open](https://github.com/aiming-lab/AutoResearchClaw) |
+| 9 | novatic14/MANPADS-System-Launcher-and-Rocket | Unknown | 1390 | [Open](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) |
+| 10 | Narcooo/inkos | TypeScript | 1143 | [Open](https://github.com/Narcooo/inkos) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
