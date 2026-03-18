@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-03-17T01:04:07.455Z
+Updated: 2026-03-18T01:08:02.570Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | garrytan/gstack | TypeScript | 17213 | [Open](https://github.com/garrytan/gstack) |
-| 2 | davebcn87/pi-autoresearch | TypeScript | 1987 | [Open](https://github.com/davebcn87/pi-autoresearch) |
-| 3 | TianyiDataScience/openclaw-control-center | TypeScript | 1887 | [Open](https://github.com/TianyiDataScience/openclaw-control-center) |
-| 4 | pasky/chrome-cdp-skill | JavaScript | 1869 | [Open](https://github.com/pasky/chrome-cdp-skill) |
-| 5 | THU-MAIC/OpenMAIC | TypeScript | 1858 | [Open](https://github.com/THU-MAIC/OpenMAIC) |
-| 6 | calesthio/Crucix | JavaScript | 1844 | [Open](https://github.com/calesthio/Crucix) |
-| 7 | gsd-build/gsd-2 | TypeScript | 1543 | [Open](https://github.com/gsd-build/gsd-2) |
-| 8 | aiming-lab/AutoResearchClaw | Python | 1420 | [Open](https://github.com/aiming-lab/AutoResearchClaw) |
-| 9 | novatic14/MANPADS-System-Launcher-and-Rocket | Unknown | 1390 | [Open](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) |
-| 10 | Narcooo/inkos | TypeScript | 1143 | [Open](https://github.com/Narcooo/inkos) |
+| 1 | NVIDIA/NemoClaw | TypeScript | 4223 | [Open](https://github.com/NVIDIA/NemoClaw) |
+| 2 | aiming-lab/AutoResearchClaw | Python | 4120 | [Open](https://github.com/aiming-lab/AutoResearchClaw) |
+| 3 | calesthio/Crucix | JavaScript | 3053 | [Open](https://github.com/calesthio/Crucix) |
+| 4 | webadderall/Recordly | TypeScript | 2346 | [Open](https://github.com/webadderall/Recordly) |
+| 5 | pasky/chrome-cdp-skill | JavaScript | 2056 | [Open](https://github.com/pasky/chrome-cdp-skill) |
+| 6 | Narcooo/inkos | TypeScript | 1435 | [Open](https://github.com/Narcooo/inkos) |
+| 7 | MoonshotAI/Attention-Residuals | Unknown | 1387 | [Open](https://github.com/MoonshotAI/Attention-Residuals) |
+| 8 | jackwener/opencli | TypeScript | 1359 | [Open](https://github.com/jackwener/opencli) |
+| 9 | skernelx/tavily-key-generator | Python | 1270 | [Open](https://github.com/skernelx/tavily-key-generator) |
+| 10 | uditgoenka/autoresearch | Shell | 1170 | [Open](https://github.com/uditgoenka/autoresearch) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
