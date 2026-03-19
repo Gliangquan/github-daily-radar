@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-03-18T01:08:02.570Z
+Updated: 2026-03-19T01:07:23.956Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | NVIDIA/NemoClaw | TypeScript | 4223 | [Open](https://github.com/NVIDIA/NemoClaw) |
-| 2 | aiming-lab/AutoResearchClaw | Python | 4120 | [Open](https://github.com/aiming-lab/AutoResearchClaw) |
-| 3 | calesthio/Crucix | JavaScript | 3053 | [Open](https://github.com/calesthio/Crucix) |
-| 4 | webadderall/Recordly | TypeScript | 2346 | [Open](https://github.com/webadderall/Recordly) |
-| 5 | pasky/chrome-cdp-skill | JavaScript | 2056 | [Open](https://github.com/pasky/chrome-cdp-skill) |
-| 6 | Narcooo/inkos | TypeScript | 1435 | [Open](https://github.com/Narcooo/inkos) |
-| 7 | MoonshotAI/Attention-Residuals | Unknown | 1387 | [Open](https://github.com/MoonshotAI/Attention-Residuals) |
-| 8 | jackwener/opencli | TypeScript | 1359 | [Open](https://github.com/jackwener/opencli) |
-| 9 | skernelx/tavily-key-generator | Python | 1270 | [Open](https://github.com/skernelx/tavily-key-generator) |
-| 10 | uditgoenka/autoresearch | Shell | 1170 | [Open](https://github.com/uditgoenka/autoresearch) |
+| 1 | NVIDIA/NemoClaw | JavaScript | 8349 | [Open](https://github.com/NVIDIA/NemoClaw) |
+| 2 | aiming-lab/AutoResearchClaw | Python | 6216 | [Open](https://github.com/aiming-lab/AutoResearchClaw) |
+| 3 | calesthio/Crucix | JavaScript | 4470 | [Open](https://github.com/calesthio/Crucix) |
+| 4 | pasky/chrome-cdp-skill | JavaScript | 2203 | [Open](https://github.com/pasky/chrome-cdp-skill) |
+| 5 | jackwener/opencli | TypeScript | 1840 | [Open](https://github.com/jackwener/opencli) |
+| 6 | MoonshotAI/Attention-Residuals | Unknown | 1806 | [Open](https://github.com/MoonshotAI/Attention-Residuals) |
+| 7 | uditgoenka/autoresearch | Shell | 1383 | [Open](https://github.com/uditgoenka/autoresearch) |
+| 8 | skernelx/tavily-key-generator | Python | 1307 | [Open](https://github.com/skernelx/tavily-key-generator) |
+| 9 | Infatoshi/OpenSquirrel | Rust | 1089 | [Open](https://github.com/Infatoshi/OpenSquirrel) |
+| 10 | HKUDS/ClawTeam | Python | 1026 | [Open](https://github.com/HKUDS/ClawTeam) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
