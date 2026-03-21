@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-03-20T01:03:31.429Z
+Updated: 2026-03-21T00:59:22.714Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | NVIDIA/NemoClaw | JavaScript | 12580 | [Open](https://github.com/NVIDIA/NemoClaw) |
-| 2 | aiming-lab/AutoResearchClaw | Python | 6778 | [Open](https://github.com/aiming-lab/AutoResearchClaw) |
-| 3 | calesthio/Crucix | JavaScript | 5168 | [Open](https://github.com/calesthio/Crucix) |
-| 4 | jackwener/opencli | TypeScript | 2418 | [Open](https://github.com/jackwener/opencli) |
-| 5 | MoonshotAI/Attention-Residuals | Unknown | 2006 | [Open](https://github.com/MoonshotAI/Attention-Residuals) |
-| 6 | HKUDS/ClawTeam | Python | 1681 | [Open](https://github.com/HKUDS/ClawTeam) |
-| 7 | VoltAgent/awesome-codex-subagents | Unknown | 1498 | [Open](https://github.com/VoltAgent/awesome-codex-subagents) |
-| 8 | skernelx/tavily-key-generator | Python | 1331 | [Open](https://github.com/skernelx/tavily-key-generator) |
-| 9 | Infatoshi/OpenSquirrel | Rust | 1135 | [Open](https://github.com/Infatoshi/OpenSquirrel) |
-| 10 | Lum1104/Understand-Anything | TypeScript | 1075 | [Open](https://github.com/Lum1104/Understand-Anything) |
+| 1 | NVIDIA/NemoClaw | JavaScript | 14323 | [Open](https://github.com/NVIDIA/NemoClaw) |
+| 2 | aiming-lab/AutoResearchClaw | Python | 7125 | [Open](https://github.com/aiming-lab/AutoResearchClaw) |
+| 3 | MoonshotAI/Attention-Residuals | Unknown | 2242 | [Open](https://github.com/MoonshotAI/Attention-Residuals) |
+| 4 | HKUDS/ClawTeam | Python | 2082 | [Open](https://github.com/HKUDS/ClawTeam) |
+| 5 | VoltAgent/awesome-codex-subagents | Unknown | 1830 | [Open](https://github.com/VoltAgent/awesome-codex-subagents) |
+| 6 | zerobootdev/zeroboot | Rust | 1405 | [Open](https://github.com/zerobootdev/zeroboot) |
+| 7 | Lum1104/Understand-Anything | TypeScript | 1364 | [Open](https://github.com/Lum1104/Understand-Anything) |
+| 8 | cnlimiter/codex-manager | Python | 1243 | [Open](https://github.com/cnlimiter/codex-manager) |
+| 9 | Infatoshi/OpenSquirrel | Rust | 1184 | [Open](https://github.com/Infatoshi/OpenSquirrel) |
+| 10 | lcoutodemos/clui-cc | TypeScript | 915 | [Open](https://github.com/lcoutodemos/clui-cc) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
