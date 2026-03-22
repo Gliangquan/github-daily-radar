@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-03-21T00:59:22.714Z
+Updated: 2026-03-22T01:06:50.997Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | NVIDIA/NemoClaw | JavaScript | 14323 | [Open](https://github.com/NVIDIA/NemoClaw) |
-| 2 | aiming-lab/AutoResearchClaw | Python | 7125 | [Open](https://github.com/aiming-lab/AutoResearchClaw) |
-| 3 | MoonshotAI/Attention-Residuals | Unknown | 2242 | [Open](https://github.com/MoonshotAI/Attention-Residuals) |
-| 4 | HKUDS/ClawTeam | Python | 2082 | [Open](https://github.com/HKUDS/ClawTeam) |
-| 5 | VoltAgent/awesome-codex-subagents | Unknown | 1830 | [Open](https://github.com/VoltAgent/awesome-codex-subagents) |
-| 6 | zerobootdev/zeroboot | Rust | 1405 | [Open](https://github.com/zerobootdev/zeroboot) |
-| 7 | Lum1104/Understand-Anything | TypeScript | 1364 | [Open](https://github.com/Lum1104/Understand-Anything) |
-| 8 | cnlimiter/codex-manager | Python | 1243 | [Open](https://github.com/cnlimiter/codex-manager) |
-| 9 | Infatoshi/OpenSquirrel | Rust | 1184 | [Open](https://github.com/Infatoshi/OpenSquirrel) |
-| 10 | lcoutodemos/clui-cc | TypeScript | 915 | [Open](https://github.com/lcoutodemos/clui-cc) |
+| 1 | HKUDS/ClawTeam | Python | 2472 | [Open](https://github.com/HKUDS/ClawTeam) |
+| 2 | VoltAgent/awesome-codex-subagents | Unknown | 1981 | [Open](https://github.com/VoltAgent/awesome-codex-subagents) |
+| 3 | lcoutodemos/clui-cc | TypeScript | 966 | [Open](https://github.com/lcoutodemos/clui-cc) |
+| 4 | mattprusak/autoresearch-genealogy | Unknown | 841 | [Open](https://github.com/mattprusak/autoresearch-genealogy) |
+| 5 | lxf746/any-auto-register | Python | 796 | [Open](https://github.com/lxf746/any-auto-register) |
+| 6 | math-inc/OpenGauss | Python | 776 | [Open](https://github.com/math-inc/OpenGauss) |
+| 7 | frank890417/taiwan-md | Astro | 698 | [Open](https://github.com/frank890417/taiwan-md) |
+| 8 | BryanLunduke/DoesItAgeVerify | Unknown | 618 | [Open](https://github.com/BryanLunduke/DoesItAgeVerify) |
+| 9 | truongduy2611/app-store-preflight-skills | Unknown | 602 | [Open](https://github.com/truongduy2611/app-store-preflight-skills) |
+| 10 | nv-tlabs/kimodo | Python | 583 | [Open](https://github.com/nv-tlabs/kimodo) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
