@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-03-22T01:06:50.997Z
+Updated: 2026-03-23T01:07:51.990Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | HKUDS/ClawTeam | Python | 2472 | [Open](https://github.com/HKUDS/ClawTeam) |
-| 2 | VoltAgent/awesome-codex-subagents | Unknown | 1981 | [Open](https://github.com/VoltAgent/awesome-codex-subagents) |
-| 3 | lcoutodemos/clui-cc | TypeScript | 966 | [Open](https://github.com/lcoutodemos/clui-cc) |
-| 4 | mattprusak/autoresearch-genealogy | Unknown | 841 | [Open](https://github.com/mattprusak/autoresearch-genealogy) |
-| 5 | lxf746/any-auto-register | Python | 796 | [Open](https://github.com/lxf746/any-auto-register) |
-| 6 | math-inc/OpenGauss | Python | 776 | [Open](https://github.com/math-inc/OpenGauss) |
-| 7 | frank890417/taiwan-md | Astro | 698 | [Open](https://github.com/frank890417/taiwan-md) |
-| 8 | BryanLunduke/DoesItAgeVerify | Unknown | 618 | [Open](https://github.com/BryanLunduke/DoesItAgeVerify) |
-| 9 | truongduy2611/app-store-preflight-skills | Unknown | 602 | [Open](https://github.com/truongduy2611/app-store-preflight-skills) |
-| 10 | nv-tlabs/kimodo | Python | 583 | [Open](https://github.com/nv-tlabs/kimodo) |
+| 1 | HKUDS/ClawTeam | Python | 2831 | [Open](https://github.com/HKUDS/ClawTeam) |
+| 2 | VoltAgent/awesome-codex-subagents | Unknown | 2070 | [Open](https://github.com/VoltAgent/awesome-codex-subagents) |
+| 3 | MiniMax-AI/skills | C# | 1787 | [Open](https://github.com/MiniMax-AI/skills) |
+| 4 | danveloper/flash-moe | Objective-C | 1208 | [Open](https://github.com/danveloper/flash-moe) |
+| 5 | math-inc/OpenGauss | Python | 1019 | [Open](https://github.com/math-inc/OpenGauss) |
+| 6 | lxf746/any-auto-register | Python | 979 | [Open](https://github.com/lxf746/any-auto-register) |
+| 7 | dontbesilent2025/dbskill | Unknown | 896 | [Open](https://github.com/dontbesilent2025/dbskill) |
+| 8 | mattprusak/autoresearch-genealogy | Unknown | 877 | [Open](https://github.com/mattprusak/autoresearch-genealogy) |
+| 9 | truongduy2611/app-store-preflight-skills | Unknown | 833 | [Open](https://github.com/truongduy2611/app-store-preflight-skills) |
+| 10 | frank890417/taiwan-md | Astro | 724 | [Open](https://github.com/frank890417/taiwan-md) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
