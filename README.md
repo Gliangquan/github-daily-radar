@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-03-25T01:06:11.169Z
+Updated: 2026-03-26T01:11:34.695Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | dontbesilent2025/dbskill | Unknown | 1419 | [Open](https://github.com/dontbesilent2025/dbskill) |
-| 2 | louislva/claude-peers-mcp | TypeScript | 1117 | [Open](https://github.com/louislva/claude-peers-mcp) |
-| 3 | zarazhangrui/codebase-to-course | Unknown | 1086 | [Open](https://github.com/zarazhangrui/codebase-to-course) |
-| 4 | math-inc/OpenGauss | Python | 1076 | [Open](https://github.com/math-inc/OpenGauss) |
-| 5 | slavingia/skills | Unknown | 1063 | [Open](https://github.com/slavingia/skills) |
-| 6 | truongduy2611/app-store-preflight-skills | Unknown | 923 | [Open](https://github.com/truongduy2611/app-store-preflight-skills) |
-| 7 | wong2/weixin-agent-sdk | TypeScript | 851 | [Open](https://github.com/wong2/weixin-agent-sdk) |
-| 8 | ghostty-org/ghostling | C | 802 | [Open](https://github.com/ghostty-org/ghostling) |
-| 9 | dou-jiang/codex-console | Python | 800 | [Open](https://github.com/dou-jiang/codex-console) |
-| 10 | ccbkkb/MicroWARP | Shell | 676 | [Open](https://github.com/ccbkkb/MicroWARP) |
+| 1 | slavingia/skills | Unknown | 2475 | [Open](https://github.com/slavingia/skills) |
+| 2 | dontbesilent2025/dbskill | Unknown | 1541 | [Open](https://github.com/dontbesilent2025/dbskill) |
+| 3 | zarazhangrui/codebase-to-course | Unknown | 1501 | [Open](https://github.com/zarazhangrui/codebase-to-course) |
+| 4 | louislva/claude-peers-mcp | TypeScript | 1201 | [Open](https://github.com/louislva/claude-peers-mcp) |
+| 5 | dou-jiang/codex-console | Python | 930 | [Open](https://github.com/dou-jiang/codex-console) |
+| 6 | wong2/weixin-agent-sdk | TypeScript | 891 | [Open](https://github.com/wong2/weixin-agent-sdk) |
+| 7 | HKUDS/OpenSpace | Python | 871 | [Open](https://github.com/HKUDS/OpenSpace) |
+| 8 | ghostty-org/ghostling | C | 830 | [Open](https://github.com/ghostty-org/ghostling) |
+| 9 | opa334/darksword-kexploit | Objective-C | 775 | [Open](https://github.com/opa334/darksword-kexploit) |
+| 10 | GAIR-NLP/daVinci-MagiHuman | Python | 767 | [Open](https://github.com/GAIR-NLP/daVinci-MagiHuman) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
