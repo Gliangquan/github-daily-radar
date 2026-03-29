@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-03-28T01:05:12.164Z
+Updated: 2026-03-29T01:14:10.617Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | slavingia/skills | Unknown | 4457 | [Open](https://github.com/slavingia/skills) |
-| 2 | zarazhangrui/codebase-to-course | Unknown | 2062 | [Open](https://github.com/zarazhangrui/codebase-to-course) |
-| 3 | HKUDS/OpenSpace | Python | 1469 | [Open](https://github.com/HKUDS/OpenSpace) |
-| 4 | alvinunreal/awesome-opensource-ai | Unknown | 1458 | [Open](https://github.com/alvinunreal/awesome-opensource-ai) |
-| 5 | magnum6actual/flipoff | JavaScript | 1331 | [Open](https://github.com/magnum6actual/flipoff) |
-| 6 | GAIR-NLP/daVinci-MagiHuman | Python | 1013 | [Open](https://github.com/GAIR-NLP/daVinci-MagiHuman) |
-| 7 | CoderLuii/HolyClaude | Dockerfile | 965 | [Open](https://github.com/CoderLuii/HolyClaude) |
-| 8 | opa334/darksword-kexploit | Objective-C | 956 | [Open](https://github.com/opa334/darksword-kexploit) |
-| 9 | wong2/weixin-agent-sdk | TypeScript | 932 | [Open](https://github.com/wong2/weixin-agent-sdk) |
-| 10 | nashsu/opencli-rs | Rust | 896 | [Open](https://github.com/nashsu/opencli-rs) |
+| 1 | slavingia/skills | Unknown | 4985 | [Open](https://github.com/slavingia/skills) |
+| 2 | magnum6actual/flipoff | JavaScript | 2057 | [Open](https://github.com/magnum6actual/flipoff) |
+| 3 | HKUDS/OpenSpace | Python | 1937 | [Open](https://github.com/HKUDS/OpenSpace) |
+| 4 | alvinunreal/awesome-opensource-ai | Unknown | 1744 | [Open](https://github.com/alvinunreal/awesome-opensource-ai) |
+| 5 | larksuite/cli | Go | 1687 | [Open](https://github.com/larksuite/cli) |
+| 6 | elder-plinius/G0DM0D3 | TypeScript | 1494 | [Open](https://github.com/elder-plinius/G0DM0D3) |
+| 7 | opa334/darksword-kexploit | Objective-C | 991 | [Open](https://github.com/opa334/darksword-kexploit) |
+| 8 | nashsu/opencli-rs | Rust | 931 | [Open](https://github.com/nashsu/opencli-rs) |
+| 9 | LimHyungTae/Awesome-PhD-CV | TeX | 830 | [Open](https://github.com/LimHyungTae/Awesome-PhD-CV) |
+| 10 | jxnxts/mcp-brasil | Python | 828 | [Open](https://github.com/jxnxts/mcp-brasil) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
