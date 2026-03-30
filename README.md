@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-03-29T01:14:10.617Z
+Updated: 2026-03-30T01:15:06.748Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | slavingia/skills | Unknown | 4985 | [Open](https://github.com/slavingia/skills) |
-| 2 | magnum6actual/flipoff | JavaScript | 2057 | [Open](https://github.com/magnum6actual/flipoff) |
-| 3 | HKUDS/OpenSpace | Python | 1937 | [Open](https://github.com/HKUDS/OpenSpace) |
-| 4 | alvinunreal/awesome-opensource-ai | Unknown | 1744 | [Open](https://github.com/alvinunreal/awesome-opensource-ai) |
-| 5 | larksuite/cli | Go | 1687 | [Open](https://github.com/larksuite/cli) |
-| 6 | elder-plinius/G0DM0D3 | TypeScript | 1494 | [Open](https://github.com/elder-plinius/G0DM0D3) |
-| 7 | opa334/darksword-kexploit | Objective-C | 991 | [Open](https://github.com/opa334/darksword-kexploit) |
-| 8 | nashsu/opencli-rs | Rust | 931 | [Open](https://github.com/nashsu/opencli-rs) |
-| 9 | LimHyungTae/Awesome-PhD-CV | TeX | 830 | [Open](https://github.com/LimHyungTae/Awesome-PhD-CV) |
-| 10 | jxnxts/mcp-brasil | Python | 828 | [Open](https://github.com/jxnxts/mcp-brasil) |
+| 1 | larksuite/cli | Go | 3003 | [Open](https://github.com/larksuite/cli) |
+| 2 | HKUDS/OpenSpace | Python | 2463 | [Open](https://github.com/HKUDS/OpenSpace) |
+| 3 | magnum6actual/flipoff | JavaScript | 2414 | [Open](https://github.com/magnum6actual/flipoff) |
+| 4 | elder-plinius/G0DM0D3 | TypeScript | 1999 | [Open](https://github.com/elder-plinius/G0DM0D3) |
+| 5 | alvinunreal/awesome-opensource-ai | Unknown | 1929 | [Open](https://github.com/alvinunreal/awesome-opensource-ai) |
+| 6 | nashsu/opencli-rs | Rust | 982 | [Open](https://github.com/nashsu/opencli-rs) |
+| 7 | facebookresearch/tribev2 | Jupyter Notebook | 899 | [Open](https://github.com/facebookresearch/tribev2) |
+| 8 | jxnxts/mcp-brasil | Python | 875 | [Open](https://github.com/jxnxts/mcp-brasil) |
+| 9 | LimHyungTae/Awesome-PhD-CV | TeX | 850 | [Open](https://github.com/LimHyungTae/Awesome-PhD-CV) |
+| 10 | oaker-io/wewrite | Python | 845 | [Open](https://github.com/oaker-io/wewrite) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
