@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-03-30T01:15:06.748Z
+Updated: 2026-03-31T01:12:22.031Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | larksuite/cli | Go | 3003 | [Open](https://github.com/larksuite/cli) |
-| 2 | HKUDS/OpenSpace | Python | 2463 | [Open](https://github.com/HKUDS/OpenSpace) |
-| 3 | magnum6actual/flipoff | JavaScript | 2414 | [Open](https://github.com/magnum6actual/flipoff) |
-| 4 | elder-plinius/G0DM0D3 | TypeScript | 1999 | [Open](https://github.com/elder-plinius/G0DM0D3) |
-| 5 | alvinunreal/awesome-opensource-ai | Unknown | 1929 | [Open](https://github.com/alvinunreal/awesome-opensource-ai) |
-| 6 | nashsu/opencli-rs | Rust | 982 | [Open](https://github.com/nashsu/opencli-rs) |
-| 7 | facebookresearch/tribev2 | Jupyter Notebook | 899 | [Open](https://github.com/facebookresearch/tribev2) |
-| 8 | jxnxts/mcp-brasil | Python | 875 | [Open](https://github.com/jxnxts/mcp-brasil) |
-| 9 | LimHyungTae/Awesome-PhD-CV | TeX | 850 | [Open](https://github.com/LimHyungTae/Awesome-PhD-CV) |
-| 10 | oaker-io/wewrite | Python | 845 | [Open](https://github.com/oaker-io/wewrite) |
+| 1 | larksuite/cli | Go | 4657 | [Open](https://github.com/larksuite/cli) |
+| 2 | magnum6actual/flipoff | JavaScript | 2516 | [Open](https://github.com/magnum6actual/flipoff) |
+| 3 | elder-plinius/G0DM0D3 | TypeScript | 2253 | [Open](https://github.com/elder-plinius/G0DM0D3) |
+| 4 | TheTom/turboquant_plus | Python | 1847 | [Open](https://github.com/TheTom/turboquant_plus) |
+| 5 | qiuzhi2046/Qclaw | TypeScript | 1283 | [Open](https://github.com/qiuzhi2046/Qclaw) |
+| 6 | openai/codex-plugin-cc | JavaScript | 1250 | [Open](https://github.com/openai/codex-plugin-cc) |
+| 7 | yetone/voice-input-src | Unknown | 1040 | [Open](https://github.com/yetone/voice-input-src) |
+| 8 | WecomTeam/wecom-cli | Rust | 955 | [Open](https://github.com/WecomTeam/wecom-cli) |
+| 9 | jxnxts/mcp-brasil | Python | 940 | [Open](https://github.com/jxnxts/mcp-brasil) |
+| 10 | oaker-io/wewrite | Python | 934 | [Open](https://github.com/oaker-io/wewrite) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
