@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-03-31T01:12:22.031Z
+Updated: 2026-04-01T01:19:18.442Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | larksuite/cli | Go | 4657 | [Open](https://github.com/larksuite/cli) |
-| 2 | magnum6actual/flipoff | JavaScript | 2516 | [Open](https://github.com/magnum6actual/flipoff) |
-| 3 | elder-plinius/G0DM0D3 | TypeScript | 2253 | [Open](https://github.com/elder-plinius/G0DM0D3) |
-| 4 | TheTom/turboquant_plus | Python | 1847 | [Open](https://github.com/TheTom/turboquant_plus) |
-| 5 | qiuzhi2046/Qclaw | TypeScript | 1283 | [Open](https://github.com/qiuzhi2046/Qclaw) |
-| 6 | openai/codex-plugin-cc | JavaScript | 1250 | [Open](https://github.com/openai/codex-plugin-cc) |
-| 7 | yetone/voice-input-src | Unknown | 1040 | [Open](https://github.com/yetone/voice-input-src) |
-| 8 | WecomTeam/wecom-cli | Rust | 955 | [Open](https://github.com/WecomTeam/wecom-cli) |
-| 9 | jxnxts/mcp-brasil | Python | 940 | [Open](https://github.com/jxnxts/mcp-brasil) |
-| 10 | oaker-io/wewrite | Python | 934 | [Open](https://github.com/oaker-io/wewrite) |
+| 1 | instructkr/claw-code | Rust | 62102 | [Open](https://github.com/instructkr/claw-code) |
+| 2 | openai/codex-plugin-cc | JavaScript | 5742 | [Open](https://github.com/openai/codex-plugin-cc) |
+| 3 | ChinaSiro/claude-code-sourcemap | TypeScript | 4750 | [Open](https://github.com/ChinaSiro/claude-code-sourcemap) |
+| 4 | sanbuphy/claude-code-source-code | TypeScript | 4522 | [Open](https://github.com/sanbuphy/claude-code-source-code) |
+| 5 | titanwings/colleague-skill | Python | 3412 | [Open](https://github.com/titanwings/colleague-skill) |
+| 6 | Kuberwastaken/claude-code | Rust | 3386 | [Open](https://github.com/Kuberwastaken/claude-code) |
+| 7 | magnum6actual/flipoff | JavaScript | 2557 | [Open](https://github.com/magnum6actual/flipoff) |
+| 8 | claude-code-best/claude-code | TypeScript | 1803 | [Open](https://github.com/claude-code-best/claude-code) |
+| 9 | garinasset/leak-check | Python | 1644 | [Open](https://github.com/garinasset/leak-check) |
+| 10 | drona23/claude-token-efficient | Unknown | 1634 | [Open](https://github.com/drona23/claude-token-efficient) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
