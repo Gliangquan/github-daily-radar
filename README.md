@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-01T01:19:18.442Z
+Updated: 2026-04-02T01:09:28.913Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | instructkr/claw-code | Rust | 62102 | [Open](https://github.com/instructkr/claw-code) |
-| 2 | openai/codex-plugin-cc | JavaScript | 5742 | [Open](https://github.com/openai/codex-plugin-cc) |
-| 3 | ChinaSiro/claude-code-sourcemap | TypeScript | 4750 | [Open](https://github.com/ChinaSiro/claude-code-sourcemap) |
-| 4 | sanbuphy/claude-code-source-code | TypeScript | 4522 | [Open](https://github.com/sanbuphy/claude-code-source-code) |
-| 5 | titanwings/colleague-skill | Python | 3412 | [Open](https://github.com/titanwings/colleague-skill) |
-| 6 | Kuberwastaken/claude-code | Rust | 3386 | [Open](https://github.com/Kuberwastaken/claude-code) |
-| 7 | magnum6actual/flipoff | JavaScript | 2557 | [Open](https://github.com/magnum6actual/flipoff) |
-| 8 | claude-code-best/claude-code | TypeScript | 1803 | [Open](https://github.com/claude-code-best/claude-code) |
-| 9 | garinasset/leak-check | Python | 1644 | [Open](https://github.com/garinasset/leak-check) |
-| 10 | drona23/claude-token-efficient | Unknown | 1634 | [Open](https://github.com/drona23/claude-token-efficient) |
+| 1 | instructkr/claw-code | Rust | 121017 | [Open](https://github.com/instructkr/claw-code) |
+| 2 | sanbuphy/learn-coding-agent | Unknown | 10538 | [Open](https://github.com/sanbuphy/learn-coding-agent) |
+| 3 | openai/codex-plugin-cc | JavaScript | 8523 | [Open](https://github.com/openai/codex-plugin-cc) |
+| 4 | claude-code-best/claude-code | TypeScript | 7663 | [Open](https://github.com/claude-code-best/claude-code) |
+| 5 | ChinaSiro/claude-code-sourcemap | TypeScript | 7347 | [Open](https://github.com/ChinaSiro/claude-code-sourcemap) |
+| 6 | Kuberwastaken/claurst | Rust | 6573 | [Open](https://github.com/Kuberwastaken/claurst) |
+| 7 | titanwings/colleague-skill | Python | 4627 | [Open](https://github.com/titanwings/colleague-skill) |
+| 8 | Gitlawb/openclaude | TypeScript | 3528 | [Open](https://github.com/Gitlawb/openclaude) |
+| 9 | tvytlx/ai-agent-deep-dive | Unknown | 3085 | [Open](https://github.com/tvytlx/ai-agent-deep-dive) |
+| 10 | NanmiCoder/claude-code-haha | TypeScript | 2940 | [Open](https://github.com/NanmiCoder/claude-code-haha) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
