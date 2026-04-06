@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-05T01:14:47.388Z
+Updated: 2026-04-06T01:15:17.698Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | ultraworkers/claw-code | Rust | 167208 | [Open](https://github.com/ultraworkers/claw-code) |
-| 2 | Gitlawb/openclaude | TypeScript | 14699 | [Open](https://github.com/Gitlawb/openclaude) |
-| 3 | claude-code-best/claude-code | TypeScript | 13572 | [Open](https://github.com/claude-code-best/claude-code) |
-| 4 | openai/codex-plugin-cc | JavaScript | 11641 | [Open](https://github.com/openai/codex-plugin-cc) |
-| 5 | sanbuphy/learn-coding-agent | Unknown | 11262 | [Open](https://github.com/sanbuphy/learn-coding-agent) |
-| 6 | VoltAgent/awesome-design-md | HTML | 8422 | [Open](https://github.com/VoltAgent/awesome-design-md) |
-| 7 | ChinaSiro/claude-code-sourcemap | TypeScript | 8377 | [Open](https://github.com/ChinaSiro/claude-code-sourcemap) |
-| 8 | Kuberwastaken/claurst | Rust | 8061 | [Open](https://github.com/Kuberwastaken/claurst) |
-| 9 | titanwings/colleague-skill | Python | 7154 | [Open](https://github.com/titanwings/colleague-skill) |
-| 10 | emdash-cms/emdash | TypeScript | 7039 | [Open](https://github.com/emdash-cms/emdash) |
+| 1 | ultraworkers/claw-code | Rust | 170904 | [Open](https://github.com/ultraworkers/claw-code) |
+| 2 | Gitlawb/openclaude | TypeScript | 16457 | [Open](https://github.com/Gitlawb/openclaude) |
+| 3 | VoltAgent/awesome-design-md | HTML | 15111 | [Open](https://github.com/VoltAgent/awesome-design-md) |
+| 4 | claude-code-best/claude-code | TypeScript | 13892 | [Open](https://github.com/claude-code-best/claude-code) |
+| 5 | sanbuphy/learn-coding-agent | Unknown | 11334 | [Open](https://github.com/sanbuphy/learn-coding-agent) |
+| 6 | ChinaSiro/claude-code-sourcemap | TypeScript | 8450 | [Open](https://github.com/ChinaSiro/claude-code-sourcemap) |
+| 7 | Kuberwastaken/claurst | Rust | 8290 | [Open](https://github.com/Kuberwastaken/claurst) |
+| 8 | emdash-cms/emdash | TypeScript | 7435 | [Open](https://github.com/emdash-cms/emdash) |
+| 9 | ultraworkers/claw-code-parity | Rust | 6503 | [Open](https://github.com/ultraworkers/claw-code-parity) |
+| 10 | tvytlx/ai-agent-deep-dive | Python | 5136 | [Open](https://github.com/tvytlx/ai-agent-deep-dive) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
