@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-06T01:15:17.698Z
+Updated: 2026-04-07T01:13:08.813Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | ultraworkers/claw-code | Rust | 170904 | [Open](https://github.com/ultraworkers/claw-code) |
-| 2 | Gitlawb/openclaude | TypeScript | 16457 | [Open](https://github.com/Gitlawb/openclaude) |
-| 3 | VoltAgent/awesome-design-md | HTML | 15111 | [Open](https://github.com/VoltAgent/awesome-design-md) |
-| 4 | claude-code-best/claude-code | TypeScript | 13892 | [Open](https://github.com/claude-code-best/claude-code) |
-| 5 | sanbuphy/learn-coding-agent | Unknown | 11334 | [Open](https://github.com/sanbuphy/learn-coding-agent) |
-| 6 | ChinaSiro/claude-code-sourcemap | TypeScript | 8450 | [Open](https://github.com/ChinaSiro/claude-code-sourcemap) |
-| 7 | Kuberwastaken/claurst | Rust | 8290 | [Open](https://github.com/Kuberwastaken/claurst) |
-| 8 | emdash-cms/emdash | TypeScript | 7435 | [Open](https://github.com/emdash-cms/emdash) |
-| 9 | ultraworkers/claw-code-parity | Rust | 6503 | [Open](https://github.com/ultraworkers/claw-code-parity) |
-| 10 | tvytlx/ai-agent-deep-dive | Python | 5136 | [Open](https://github.com/tvytlx/ai-agent-deep-dive) |
+| 1 | Gitlawb/openclaude | TypeScript | 18038 | [Open](https://github.com/Gitlawb/openclaude) |
+| 2 | santifer/career-ops | Go | 11242 | [Open](https://github.com/santifer/career-ops) |
+| 3 | emdash-cms/emdash | TypeScript | 7821 | [Open](https://github.com/emdash-cms/emdash) |
+| 4 | ultraworkers/claw-code-parity | Rust | 6545 | [Open](https://github.com/ultraworkers/claw-code-parity) |
+| 5 | HKUDS/OpenHarness | Python | 6247 | [Open](https://github.com/HKUDS/OpenHarness) |
+| 6 | JuliusBrussee/caveman | Python | 4158 | [Open](https://github.com/JuliusBrussee/caveman) |
+| 7 | kevinrgu/autoagent | Python | 3586 | [Open](https://github.com/kevinrgu/autoagent) |
+| 8 | 0xGF/boneyard | TypeScript | 3115 | [Open](https://github.com/0xGF/boneyard) |
+| 9 | safishamsi/graphify | Python | 1960 | [Open](https://github.com/safishamsi/graphify) |
+| 10 | alchaincyf/nuwa-skill | Unknown | 1473 | [Open](https://github.com/alchaincyf/nuwa-skill) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
