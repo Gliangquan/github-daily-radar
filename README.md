@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-09T01:03:59.532Z
+Updated: 2026-04-10T01:15:08.013Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | milla-jovovich/mempalace | Python | 27274 | [Open](https://github.com/milla-jovovich/mempalace) |
-| 2 | santifer/career-ops | JavaScript | 24524 | [Open](https://github.com/santifer/career-ops) |
-| 3 | safishamsi/graphify | Python | 12785 | [Open](https://github.com/safishamsi/graphify) |
-| 4 | JuliusBrussee/caveman | Python | 7503 | [Open](https://github.com/JuliusBrussee/caveman) |
-| 5 | alchaincyf/nuwa-skill | Python | 3839 | [Open](https://github.com/alchaincyf/nuwa-skill) |
-| 6 | farzaa/clicky | Swift | 2228 | [Open](https://github.com/farzaa/clicky) |
-| 7 | GitFrog1111/badclaude | HTML | 1493 | [Open](https://github.com/GitFrog1111/badclaude) |
-| 8 | LaurieWired/tailslayer | C++ | 1371 | [Open](https://github.com/LaurieWired/tailslayer) |
-| 9 | afar1/fieldtheory-cli | TypeScript | 1251 | [Open](https://github.com/afar1/fieldtheory-cli) |
-| 10 | KKKKhazix/khazix-skills | Unknown | 1170 | [Open](https://github.com/KKKKhazix/khazix-skills) |
+| 1 | milla-jovovich/mempalace | Python | 35744 | [Open](https://github.com/milla-jovovich/mempalace) |
+| 2 | santifer/career-ops | JavaScript | 27716 | [Open](https://github.com/santifer/career-ops) |
+| 3 | JuliusBrussee/caveman | Python | 8837 | [Open](https://github.com/JuliusBrussee/caveman) |
+| 4 | alchaincyf/nuwa-skill | Python | 5497 | [Open](https://github.com/alchaincyf/nuwa-skill) |
+| 5 | farzaa/clicky | Swift | 3148 | [Open](https://github.com/farzaa/clicky) |
+| 6 | alchaincyf/zhangxuefeng-skill | Unknown | 1978 | [Open](https://github.com/alchaincyf/zhangxuefeng-skill) |
+| 7 | xixu-me/awesome-persona-distill-skills | JavaScript | 1767 | [Open](https://github.com/xixu-me/awesome-persona-distill-skills) |
+| 8 | GitFrog1111/badclaude | HTML | 1763 | [Open](https://github.com/GitFrog1111/badclaude) |
+| 9 | LaurieWired/tailslayer | C++ | 1667 | [Open](https://github.com/LaurieWired/tailslayer) |
+| 10 | hotcoffeeshake/tong-jincheng-skill | Unknown | 1415 | [Open](https://github.com/hotcoffeeshake/tong-jincheng-skill) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
