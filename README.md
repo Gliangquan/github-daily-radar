@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-10T01:15:08.013Z
+Updated: 2026-04-11T01:10:21.382Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | milla-jovovich/mempalace | Python | 35744 | [Open](https://github.com/milla-jovovich/mempalace) |
-| 2 | santifer/career-ops | JavaScript | 27716 | [Open](https://github.com/santifer/career-ops) |
-| 3 | JuliusBrussee/caveman | Python | 8837 | [Open](https://github.com/JuliusBrussee/caveman) |
-| 4 | alchaincyf/nuwa-skill | Python | 5497 | [Open](https://github.com/alchaincyf/nuwa-skill) |
-| 5 | farzaa/clicky | Swift | 3148 | [Open](https://github.com/farzaa/clicky) |
-| 6 | alchaincyf/zhangxuefeng-skill | Unknown | 1978 | [Open](https://github.com/alchaincyf/zhangxuefeng-skill) |
-| 7 | xixu-me/awesome-persona-distill-skills | JavaScript | 1767 | [Open](https://github.com/xixu-me/awesome-persona-distill-skills) |
-| 8 | GitFrog1111/badclaude | HTML | 1763 | [Open](https://github.com/GitFrog1111/badclaude) |
-| 9 | LaurieWired/tailslayer | C++ | 1667 | [Open](https://github.com/LaurieWired/tailslayer) |
-| 10 | hotcoffeeshake/tong-jincheng-skill | Unknown | 1415 | [Open](https://github.com/hotcoffeeshake/tong-jincheng-skill) |
+| 1 | milla-jovovich/mempalace | Python | 40066 | [Open](https://github.com/milla-jovovich/mempalace) |
+| 2 | alchaincyf/nuwa-skill | Python | 6613 | [Open](https://github.com/alchaincyf/nuwa-skill) |
+| 3 | farzaa/clicky | Swift | 3566 | [Open](https://github.com/farzaa/clicky) |
+| 4 | alchaincyf/zhangxuefeng-skill | Unknown | 3102 | [Open](https://github.com/alchaincyf/zhangxuefeng-skill) |
+| 5 | xixu-me/awesome-persona-distill-skills | JavaScript | 2844 | [Open](https://github.com/xixu-me/awesome-persona-distill-skills) |
+| 6 | garrytan/gbrain | TypeScript | 2471 | [Open](https://github.com/garrytan/gbrain) |
+| 7 | LaurieWired/tailslayer | C++ | 1909 | [Open](https://github.com/LaurieWired/tailslayer) |
+| 8 | hotcoffeeshake/tong-jincheng-skill | Unknown | 1518 | [Open](https://github.com/hotcoffeeshake/tong-jincheng-skill) |
+| 9 | alchaincyf/hermes-agent-orange-book | Unknown | 1514 | [Open](https://github.com/alchaincyf/hermes-agent-orange-book) |
+| 10 | KKKKhazix/khazix-skills | Unknown | 1426 | [Open](https://github.com/KKKKhazix/khazix-skills) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
