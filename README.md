@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-12T01:18:46.324Z
+Updated: 2026-04-13T01:20:37.846Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | farzaa/clicky | Swift | 3779 | [Open](https://github.com/farzaa/clicky) |
-| 2 | xixu-me/awesome-persona-distill-skills | JavaScript | 3175 | [Open](https://github.com/xixu-me/awesome-persona-distill-skills) |
-| 3 | alchaincyf/hermes-agent-orange-book | Unknown | 1869 | [Open](https://github.com/alchaincyf/hermes-agent-orange-book) |
-| 4 | KKKKhazix/khazix-skills | Unknown | 1584 | [Open](https://github.com/KKKKhazix/khazix-skills) |
-| 5 | mattmireles/gemma-tuner-multimodal | Python | 1195 | [Open](https://github.com/mattmireles/gemma-tuner-multimodal) |
-| 6 | yizhiyanhua-ai/fireworks-tech-graph | Shell | 977 | [Open](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) |
-| 7 | phuryn/claude-usage | Python | 851 | [Open](https://github.com/phuryn/claude-usage) |
-| 8 | wxtsky/CodeIsland | Swift | 835 | [Open](https://github.com/wxtsky/CodeIsland) |
-| 9 | adamlyttleapps/claude-skill-app-onboarding-questionnaire | Unknown | 740 | [Open](https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire) |
-| 10 | nashsu/llm_wiki | TypeScript | 718 | [Open](https://github.com/nashsu/llm_wiki) |
+| 1 | farzaa/clicky | Swift | 3946 | [Open](https://github.com/farzaa/clicky) |
+| 2 | alchaincyf/hermes-agent-orange-book | Unknown | 2112 | [Open](https://github.com/alchaincyf/hermes-agent-orange-book) |
+| 3 | yizhiyanhua-ai/fireworks-tech-graph | Python | 1569 | [Open](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) |
+| 4 | mattmireles/gemma-tuner-multimodal | Python | 1231 | [Open](https://github.com/mattmireles/gemma-tuner-multimodal) |
+| 5 | nashsu/llm_wiki | TypeScript | 921 | [Open](https://github.com/nashsu/llm_wiki) |
+| 6 | QLHazyCoder/codex-oauth-automation-extension | JavaScript | 892 | [Open](https://github.com/QLHazyCoder/codex-oauth-automation-extension) |
+| 7 | phuryn/claude-usage | Python | 878 | [Open](https://github.com/phuryn/claude-usage) |
+| 8 | joeynyc/hermes-hudui | Python | 699 | [Open](https://github.com/joeynyc/hermes-hudui) |
+| 9 | AgriciDaniel/claude-obsidian | Shell | 660 | [Open](https://github.com/AgriciDaniel/claude-obsidian) |
+| 10 | vyfor/rattles | Rust | 619 | [Open](https://github.com/vyfor/rattles) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
