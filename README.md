@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-13T01:20:37.846Z
+Updated: 2026-04-14T01:19:28.603Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | farzaa/clicky | Swift | 3946 | [Open](https://github.com/farzaa/clicky) |
-| 2 | alchaincyf/hermes-agent-orange-book | Unknown | 2112 | [Open](https://github.com/alchaincyf/hermes-agent-orange-book) |
-| 3 | yizhiyanhua-ai/fireworks-tech-graph | Python | 1569 | [Open](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) |
-| 4 | mattmireles/gemma-tuner-multimodal | Python | 1231 | [Open](https://github.com/mattmireles/gemma-tuner-multimodal) |
-| 5 | nashsu/llm_wiki | TypeScript | 921 | [Open](https://github.com/nashsu/llm_wiki) |
-| 6 | QLHazyCoder/codex-oauth-automation-extension | JavaScript | 892 | [Open](https://github.com/QLHazyCoder/codex-oauth-automation-extension) |
-| 7 | phuryn/claude-usage | Python | 878 | [Open](https://github.com/phuryn/claude-usage) |
-| 8 | joeynyc/hermes-hudui | Python | 699 | [Open](https://github.com/joeynyc/hermes-hudui) |
-| 9 | AgriciDaniel/claude-obsidian | Shell | 660 | [Open](https://github.com/AgriciDaniel/claude-obsidian) |
-| 10 | vyfor/rattles | Rust | 619 | [Open](https://github.com/vyfor/rattles) |
+| 1 | alchaincyf/hermes-agent-orange-book | Unknown | 2287 | [Open](https://github.com/alchaincyf/hermes-agent-orange-book) |
+| 2 | yizhiyanhua-ai/fireworks-tech-graph | Python | 2031 | [Open](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) |
+| 3 | QLHazyCoder/codex-oauth-automation-extension | JavaScript | 1191 | [Open](https://github.com/QLHazyCoder/codex-oauth-automation-extension) |
+| 4 | nashsu/llm_wiki | TypeScript | 1135 | [Open](https://github.com/nashsu/llm_wiki) |
+| 5 | momenbasel/PureMac | Swift | 903 | [Open](https://github.com/momenbasel/PureMac) |
+| 6 | joeynyc/hermes-hudui | Python | 833 | [Open](https://github.com/joeynyc/hermes-hudui) |
+| 7 | vyfor/rattles | Rust | 803 | [Open](https://github.com/vyfor/rattles) |
+| 8 | hexiecs/talk-normal | Shell | 685 | [Open](https://github.com/hexiecs/talk-normal) |
+| 9 | obdev/littlesnitch-linux | Rust | 650 | [Open](https://github.com/obdev/littlesnitch-linux) |
+| 10 | whwangovo/pyre-code | Python | 636 | [Open](https://github.com/whwangovo/pyre-code) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
