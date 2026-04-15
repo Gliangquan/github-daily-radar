@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-14T01:19:28.603Z
+Updated: 2026-04-15T01:16:25.830Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | alchaincyf/hermes-agent-orange-book | Unknown | 2287 | [Open](https://github.com/alchaincyf/hermes-agent-orange-book) |
-| 2 | yizhiyanhua-ai/fireworks-tech-graph | Python | 2031 | [Open](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) |
-| 3 | QLHazyCoder/codex-oauth-automation-extension | JavaScript | 1191 | [Open](https://github.com/QLHazyCoder/codex-oauth-automation-extension) |
-| 4 | nashsu/llm_wiki | TypeScript | 1135 | [Open](https://github.com/nashsu/llm_wiki) |
-| 5 | momenbasel/PureMac | Swift | 903 | [Open](https://github.com/momenbasel/PureMac) |
-| 6 | joeynyc/hermes-hudui | Python | 833 | [Open](https://github.com/joeynyc/hermes-hudui) |
-| 7 | vyfor/rattles | Rust | 803 | [Open](https://github.com/vyfor/rattles) |
-| 8 | hexiecs/talk-normal | Shell | 685 | [Open](https://github.com/hexiecs/talk-normal) |
-| 9 | obdev/littlesnitch-linux | Rust | 650 | [Open](https://github.com/obdev/littlesnitch-linux) |
-| 10 | whwangovo/pyre-code | Python | 636 | [Open](https://github.com/whwangovo/pyre-code) |
+| 1 | yizhiyanhua-ai/fireworks-tech-graph | Python | 2446 | [Open](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) |
+| 2 | QLHazyCoder/codex-oauth-automation-extension | JavaScript | 1370 | [Open](https://github.com/QLHazyCoder/codex-oauth-automation-extension) |
+| 3 | AgentSeal/codeburn | TypeScript | 882 | [Open](https://github.com/AgentSeal/codeburn) |
+| 4 | joeynyc/hermes-hudui | TypeScript | 882 | [Open](https://github.com/joeynyc/hermes-hudui) |
+| 5 | vyfor/rattles | Rust | 852 | [Open](https://github.com/vyfor/rattles) |
+| 6 | OpenMOSS/MOSS-TTS-Nano | Python | 741 | [Open](https://github.com/OpenMOSS/MOSS-TTS-Nano) |
+| 7 | sterlingcrispin/nothing-ever-happens | Python | 710 | [Open](https://github.com/sterlingcrispin/nothing-ever-happens) |
+| 8 | whwangovo/pyre-code | Python | 685 | [Open](https://github.com/whwangovo/pyre-code) |
+| 9 | Mouseww/anything-analyzer | TypeScript | 640 | [Open](https://github.com/Mouseww/anything-analyzer) |
+| 10 | hamen/material-3-skill | Unknown | 605 | [Open](https://github.com/hamen/material-3-skill) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
