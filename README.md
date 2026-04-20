@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-19T01:21:53.608Z
+Updated: 2026-04-20T01:21:41.388Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | getagentseal/codeburn | TypeScript | 2717 | [Open](https://github.com/getagentseal/codeburn) |
-| 2 | Robbyant/lingbot-map | Python | 1893 | [Open](https://github.com/Robbyant/lingbot-map) |
-| 3 | vercel-labs/wterm | TypeScript | 1554 | [Open](https://github.com/vercel-labs/wterm) |
-| 4 | Nightmare-Eclipse/RedSun | C++ | 1500 | [Open](https://github.com/Nightmare-Eclipse/RedSun) |
-| 5 | alchaincyf/darwin-skill | HTML | 1191 | [Open](https://github.com/alchaincyf/darwin-skill) |
-| 6 | lewislulu/html-ppt-skill | HTML | 1143 | [Open](https://github.com/lewislulu/html-ppt-skill) |
-| 7 | Manavarya09/design-extract | JavaScript | 1007 | [Open](https://github.com/Manavarya09/design-extract) |
-| 8 | BuilderPulse/BuilderPulse | Unknown | 929 | [Open](https://github.com/BuilderPulse/BuilderPulse) |
-| 9 | sogonov/anubis | Kotlin | 913 | [Open](https://github.com/sogonov/anubis) |
-| 10 | WeaveMindAI/weft | Rust | 834 | [Open](https://github.com/WeaveMindAI/weft) |
+| 1 | Robbyant/lingbot-map | Python | 2646 | [Open](https://github.com/Robbyant/lingbot-map) |
+| 2 | browser-use/browser-harness | Python | 2219 | [Open](https://github.com/browser-use/browser-harness) |
+| 3 | vercel-labs/wterm | TypeScript | 2078 | [Open](https://github.com/vercel-labs/wterm) |
+| 4 | Nightmare-Eclipse/RedSun | C++ | 1573 | [Open](https://github.com/Nightmare-Eclipse/RedSun) |
+| 5 | kyegomez/OpenMythos | Python | 1459 | [Open](https://github.com/kyegomez/OpenMythos) |
+| 6 | lewislulu/html-ppt-skill | HTML | 1428 | [Open](https://github.com/lewislulu/html-ppt-skill) |
+| 7 | Manavarya09/design-extract | JavaScript | 1089 | [Open](https://github.com/Manavarya09/design-extract) |
+| 8 | BuilderPulse/BuilderPulse | Unknown | 965 | [Open](https://github.com/BuilderPulse/BuilderPulse) |
+| 9 | WeaveMindAI/weft | Rust | 880 | [Open](https://github.com/WeaveMindAI/weft) |
+| 10 | wbh604/UZI-Skill | Python | 802 | [Open](https://github.com/wbh604/UZI-Skill) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
