@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-20T01:21:41.388Z
+Updated: 2026-04-21T01:18:55.426Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | Robbyant/lingbot-map | Python | 2646 | [Open](https://github.com/Robbyant/lingbot-map) |
-| 2 | browser-use/browser-harness | Python | 2219 | [Open](https://github.com/browser-use/browser-harness) |
-| 3 | vercel-labs/wterm | TypeScript | 2078 | [Open](https://github.com/vercel-labs/wterm) |
-| 4 | Nightmare-Eclipse/RedSun | C++ | 1573 | [Open](https://github.com/Nightmare-Eclipse/RedSun) |
-| 5 | kyegomez/OpenMythos | Python | 1459 | [Open](https://github.com/kyegomez/OpenMythos) |
-| 6 | lewislulu/html-ppt-skill | HTML | 1428 | [Open](https://github.com/lewislulu/html-ppt-skill) |
-| 7 | Manavarya09/design-extract | JavaScript | 1089 | [Open](https://github.com/Manavarya09/design-extract) |
-| 8 | BuilderPulse/BuilderPulse | Unknown | 965 | [Open](https://github.com/BuilderPulse/BuilderPulse) |
-| 9 | WeaveMindAI/weft | Rust | 880 | [Open](https://github.com/WeaveMindAI/weft) |
-| 10 | wbh604/UZI-Skill | Python | 802 | [Open](https://github.com/wbh604/UZI-Skill) |
+| 1 | kyegomez/OpenMythos | Python | 4244 | [Open](https://github.com/kyegomez/OpenMythos) |
+| 2 | browser-use/browser-harness | Python | 3583 | [Open](https://github.com/browser-use/browser-harness) |
+| 3 | Robbyant/lingbot-map | Python | 3267 | [Open](https://github.com/Robbyant/lingbot-map) |
+| 4 | lewislulu/html-ppt-skill | HTML | 1653 | [Open](https://github.com/lewislulu/html-ppt-skill) |
+| 5 | Nightmare-Eclipse/RedSun | C++ | 1642 | [Open](https://github.com/Nightmare-Eclipse/RedSun) |
+| 6 | Manavarya09/design-extract | JavaScript | 1155 | [Open](https://github.com/Manavarya09/design-extract) |
+| 7 | wbh604/UZI-Skill | Python | 968 | [Open](https://github.com/wbh604/UZI-Skill) |
+| 8 | cathrynlavery/diagram-design | HTML | 961 | [Open](https://github.com/cathrynlavery/diagram-design) |
+| 9 | WeaveMindAI/weft | Rust | 911 | [Open](https://github.com/WeaveMindAI/weft) |
+| 10 | EvoLinkAI/awesome-gpt-image-2-prompts | Unknown | 839 | [Open](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
