@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-21T01:18:55.426Z
+Updated: 2026-04-22T01:17:20.612Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | kyegomez/OpenMythos | Python | 4244 | [Open](https://github.com/kyegomez/OpenMythos) |
-| 2 | browser-use/browser-harness | Python | 3583 | [Open](https://github.com/browser-use/browser-harness) |
-| 3 | Robbyant/lingbot-map | Python | 3267 | [Open](https://github.com/Robbyant/lingbot-map) |
-| 4 | lewislulu/html-ppt-skill | HTML | 1653 | [Open](https://github.com/lewislulu/html-ppt-skill) |
-| 5 | Nightmare-Eclipse/RedSun | C++ | 1642 | [Open](https://github.com/Nightmare-Eclipse/RedSun) |
-| 6 | Manavarya09/design-extract | JavaScript | 1155 | [Open](https://github.com/Manavarya09/design-extract) |
-| 7 | wbh604/UZI-Skill | Python | 968 | [Open](https://github.com/wbh604/UZI-Skill) |
-| 8 | cathrynlavery/diagram-design | HTML | 961 | [Open](https://github.com/cathrynlavery/diagram-design) |
-| 9 | WeaveMindAI/weft | Rust | 911 | [Open](https://github.com/WeaveMindAI/weft) |
-| 10 | EvoLinkAI/awesome-gpt-image-2-prompts | Unknown | 839 | [Open](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) |
+| 1 | kyegomez/OpenMythos | Python | 6950 | [Open](https://github.com/kyegomez/OpenMythos) |
+| 2 | browser-use/browser-harness | Python | 4443 | [Open](https://github.com/browser-use/browser-harness) |
+| 3 | alchaincyf/huashu-design | HTML | 3029 | [Open](https://github.com/alchaincyf/huashu-design) |
+| 4 | tw93/Kami | HTML | 1577 | [Open](https://github.com/tw93/Kami) |
+| 5 | cathrynlavery/diagram-design | HTML | 1354 | [Open](https://github.com/cathrynlavery/diagram-design) |
+| 6 | EvoLinkAI/awesome-gpt-image-2-prompts | Python | 1152 | [Open](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) |
+| 7 | wbh604/UZI-Skill | Python | 1079 | [Open](https://github.com/wbh604/UZI-Skill) |
+| 8 | VoltAgent/awesome-claude-design | Unknown | 1024 | [Open](https://github.com/VoltAgent/awesome-claude-design) |
+| 9 | bwjoke/BTC-Trading-Since-2020 | Unknown | 809 | [Open](https://github.com/bwjoke/BTC-Trading-Since-2020) |
+| 10 | SteveTheKiller/KillerPDF | C# | 639 | [Open](https://github.com/SteveTheKiller/KillerPDF) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
