@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-22T01:17:20.612Z
+Updated: 2026-04-23T01:22:32.687Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | kyegomez/OpenMythos | Python | 6950 | [Open](https://github.com/kyegomez/OpenMythos) |
-| 2 | browser-use/browser-harness | Python | 4443 | [Open](https://github.com/browser-use/browser-harness) |
-| 3 | alchaincyf/huashu-design | HTML | 3029 | [Open](https://github.com/alchaincyf/huashu-design) |
-| 4 | tw93/Kami | HTML | 1577 | [Open](https://github.com/tw93/Kami) |
-| 5 | cathrynlavery/diagram-design | HTML | 1354 | [Open](https://github.com/cathrynlavery/diagram-design) |
-| 6 | EvoLinkAI/awesome-gpt-image-2-prompts | Python | 1152 | [Open](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) |
-| 7 | wbh604/UZI-Skill | Python | 1079 | [Open](https://github.com/wbh604/UZI-Skill) |
-| 8 | VoltAgent/awesome-claude-design | Unknown | 1024 | [Open](https://github.com/VoltAgent/awesome-claude-design) |
-| 9 | bwjoke/BTC-Trading-Since-2020 | Unknown | 809 | [Open](https://github.com/bwjoke/BTC-Trading-Since-2020) |
-| 10 | SteveTheKiller/KillerPDF | C# | 639 | [Open](https://github.com/SteveTheKiller/KillerPDF) |
+| 1 | kyegomez/OpenMythos | Python | 8881 | [Open](https://github.com/kyegomez/OpenMythos) |
+| 2 | browser-use/browser-harness | Python | 5052 | [Open](https://github.com/browser-use/browser-harness) |
+| 3 | alchaincyf/huashu-design | HTML | 4464 | [Open](https://github.com/alchaincyf/huashu-design) |
+| 4 | tw93/Kami | HTML | 2554 | [Open](https://github.com/tw93/Kami) |
+| 5 | EvoLinkAI/awesome-gpt-image-2-prompts | Python | 1749 | [Open](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) |
+| 6 | OpenCoworkAI/open-codesign | TypeScript | 1256 | [Open](https://github.com/OpenCoworkAI/open-codesign) |
+| 7 | VoltAgent/awesome-claude-design | Unknown | 1210 | [Open](https://github.com/VoltAgent/awesome-claude-design) |
+| 8 | the-hidden-fish/advisor-ledger | Python | 875 | [Open](https://github.com/the-hidden-fish/advisor-ledger) |
+| 9 | bwjoke/BTC-Trading-Since-2020 | Unknown | 819 | [Open](https://github.com/bwjoke/BTC-Trading-Since-2020) |
+| 10 | golbin/hop | TypeScript | 813 | [Open](https://github.com/golbin/hop) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
