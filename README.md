@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-23T01:22:32.687Z
+Updated: 2026-04-24T01:22:08.474Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | kyegomez/OpenMythos | Python | 8881 | [Open](https://github.com/kyegomez/OpenMythos) |
-| 2 | browser-use/browser-harness | Python | 5052 | [Open](https://github.com/browser-use/browser-harness) |
-| 3 | alchaincyf/huashu-design | HTML | 4464 | [Open](https://github.com/alchaincyf/huashu-design) |
-| 4 | tw93/Kami | HTML | 2554 | [Open](https://github.com/tw93/Kami) |
-| 5 | EvoLinkAI/awesome-gpt-image-2-prompts | Python | 1749 | [Open](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) |
-| 6 | OpenCoworkAI/open-codesign | TypeScript | 1256 | [Open](https://github.com/OpenCoworkAI/open-codesign) |
-| 7 | VoltAgent/awesome-claude-design | Unknown | 1210 | [Open](https://github.com/VoltAgent/awesome-claude-design) |
-| 8 | the-hidden-fish/advisor-ledger | Python | 875 | [Open](https://github.com/the-hidden-fish/advisor-ledger) |
-| 9 | bwjoke/BTC-Trading-Since-2020 | Unknown | 819 | [Open](https://github.com/bwjoke/BTC-Trading-Since-2020) |
-| 10 | golbin/hop | TypeScript | 813 | [Open](https://github.com/golbin/hop) |
+| 1 | kyegomez/OpenMythos | Python | 9717 | [Open](https://github.com/kyegomez/OpenMythos) |
+| 2 | alchaincyf/huashu-design | HTML | 5452 | [Open](https://github.com/alchaincyf/huashu-design) |
+| 3 | tw93/Kami | HTML | 2894 | [Open](https://github.com/tw93/Kami) |
+| 4 | EvoLinkAI/awesome-gpt-image-2-prompts | Python | 2723 | [Open](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) |
+| 5 | OpenCoworkAI/open-codesign | TypeScript | 1896 | [Open](https://github.com/OpenCoworkAI/open-codesign) |
+| 6 | VoltAgent/awesome-claude-design | Unknown | 1412 | [Open](https://github.com/VoltAgent/awesome-claude-design) |
+| 7 | the-hidden-fish/advisor-ledger | Python | 1025 | [Open](https://github.com/the-hidden-fish/advisor-ledger) |
+| 8 | 432539/gpt2api | Go | 931 | [Open](https://github.com/432539/gpt2api) |
+| 9 | golbin/hop | TypeScript | 920 | [Open](https://github.com/golbin/hop) |
+| 10 | masterking32/MasterHttpRelayVPN | Python | 903 | [Open](https://github.com/masterking32/MasterHttpRelayVPN) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
