@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-24T01:22:08.474Z
+Updated: 2026-04-25T01:15:21.230Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | kyegomez/OpenMythos | Python | 9717 | [Open](https://github.com/kyegomez/OpenMythos) |
-| 2 | alchaincyf/huashu-design | HTML | 5452 | [Open](https://github.com/alchaincyf/huashu-design) |
-| 3 | tw93/Kami | HTML | 2894 | [Open](https://github.com/tw93/Kami) |
-| 4 | EvoLinkAI/awesome-gpt-image-2-prompts | Python | 2723 | [Open](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) |
-| 5 | OpenCoworkAI/open-codesign | TypeScript | 1896 | [Open](https://github.com/OpenCoworkAI/open-codesign) |
-| 6 | VoltAgent/awesome-claude-design | Unknown | 1412 | [Open](https://github.com/VoltAgent/awesome-claude-design) |
-| 7 | the-hidden-fish/advisor-ledger | Python | 1025 | [Open](https://github.com/the-hidden-fish/advisor-ledger) |
-| 8 | 432539/gpt2api | Go | 931 | [Open](https://github.com/432539/gpt2api) |
-| 9 | golbin/hop | TypeScript | 920 | [Open](https://github.com/golbin/hop) |
-| 10 | masterking32/MasterHttpRelayVPN | Python | 903 | [Open](https://github.com/masterking32/MasterHttpRelayVPN) |
+| 1 | alchaincyf/huashu-design | HTML | 6091 | [Open](https://github.com/alchaincyf/huashu-design) |
+| 2 | tw93/Kami | HTML | 3046 | [Open](https://github.com/tw93/Kami) |
+| 3 | op7418/guizang-ppt-skill | HTML | 1928 | [Open](https://github.com/op7418/guizang-ppt-skill) |
+| 4 | deepseek-ai/TileKernels | Python | 1071 | [Open](https://github.com/deepseek-ai/TileKernels) |
+| 5 | the-hidden-fish/advisor-ledger | Python | 1058 | [Open](https://github.com/the-hidden-fish/advisor-ledger) |
+| 6 | masterking32/MasterHttpRelayVPN | Python | 1053 | [Open](https://github.com/masterking32/MasterHttpRelayVPN) |
+| 7 | ConardLi/web-design-skill | CSS | 1009 | [Open](https://github.com/ConardLi/web-design-skill) |
+| 8 | golbin/hop | TypeScript | 992 | [Open](https://github.com/golbin/hop) |
+| 9 | leigest519/OpenGame | TypeScript | 974 | [Open](https://github.com/leigest519/OpenGame) |
+| 10 | Einsia/OpenChronicle | Python | 783 | [Open](https://github.com/Einsia/OpenChronicle) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
