@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-25T01:15:21.230Z
+Updated: 2026-04-26T01:24:18.273Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | alchaincyf/huashu-design | HTML | 6091 | [Open](https://github.com/alchaincyf/huashu-design) |
-| 2 | tw93/Kami | HTML | 3046 | [Open](https://github.com/tw93/Kami) |
-| 3 | op7418/guizang-ppt-skill | HTML | 1928 | [Open](https://github.com/op7418/guizang-ppt-skill) |
-| 4 | deepseek-ai/TileKernels | Python | 1071 | [Open](https://github.com/deepseek-ai/TileKernels) |
-| 5 | the-hidden-fish/advisor-ledger | Python | 1058 | [Open](https://github.com/the-hidden-fish/advisor-ledger) |
-| 6 | masterking32/MasterHttpRelayVPN | Python | 1053 | [Open](https://github.com/masterking32/MasterHttpRelayVPN) |
-| 7 | ConardLi/web-design-skill | CSS | 1009 | [Open](https://github.com/ConardLi/web-design-skill) |
-| 8 | golbin/hop | TypeScript | 992 | [Open](https://github.com/golbin/hop) |
-| 9 | leigest519/OpenGame | TypeScript | 974 | [Open](https://github.com/leigest519/OpenGame) |
-| 10 | Einsia/OpenChronicle | Python | 783 | [Open](https://github.com/Einsia/OpenChronicle) |
+| 1 | tw93/Kami | HTML | 3260 | [Open](https://github.com/tw93/Kami) |
+| 2 | op7418/guizang-ppt-skill | HTML | 2696 | [Open](https://github.com/op7418/guizang-ppt-skill) |
+| 3 | masterking32/MasterHttpRelayVPN | Python | 1246 | [Open](https://github.com/masterking32/MasterHttpRelayVPN) |
+| 4 | ConardLi/garden-skills | JavaScript | 1238 | [Open](https://github.com/ConardLi/garden-skills) |
+| 5 | deepseek-ai/TileKernels | Python | 1160 | [Open](https://github.com/deepseek-ai/TileKernels) |
+| 6 | Einsia/OpenChronicle | Python | 1124 | [Open](https://github.com/Einsia/OpenChronicle) |
+| 7 | cosmicstack-labs/mercury-agent | TypeScript | 1110 | [Open](https://github.com/cosmicstack-labs/mercury-agent) |
+| 8 | leigest519/OpenGame | TypeScript | 1086 | [Open](https://github.com/leigest519/OpenGame) |
+| 9 | victorchen96/deepseek_v4_rolepaly_instruct | Unknown | 828 | [Open](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct) |
+| 10 | therealaleph/MasterHttpRelayVPN-RUST | Rust | 645 | [Open](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
