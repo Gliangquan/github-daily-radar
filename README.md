@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-26T01:24:18.273Z
+Updated: 2026-04-27T01:25:16.174Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | tw93/Kami | HTML | 3260 | [Open](https://github.com/tw93/Kami) |
-| 2 | op7418/guizang-ppt-skill | HTML | 2696 | [Open](https://github.com/op7418/guizang-ppt-skill) |
-| 3 | masterking32/MasterHttpRelayVPN | Python | 1246 | [Open](https://github.com/masterking32/MasterHttpRelayVPN) |
-| 4 | ConardLi/garden-skills | JavaScript | 1238 | [Open](https://github.com/ConardLi/garden-skills) |
-| 5 | deepseek-ai/TileKernels | Python | 1160 | [Open](https://github.com/deepseek-ai/TileKernels) |
-| 6 | Einsia/OpenChronicle | Python | 1124 | [Open](https://github.com/Einsia/OpenChronicle) |
-| 7 | cosmicstack-labs/mercury-agent | TypeScript | 1110 | [Open](https://github.com/cosmicstack-labs/mercury-agent) |
-| 8 | leigest519/OpenGame | TypeScript | 1086 | [Open](https://github.com/leigest519/OpenGame) |
-| 9 | victorchen96/deepseek_v4_rolepaly_instruct | Unknown | 828 | [Open](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct) |
-| 10 | therealaleph/MasterHttpRelayVPN-RUST | Rust | 645 | [Open](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) |
+| 1 | op7418/guizang-ppt-skill | HTML | 2999 | [Open](https://github.com/op7418/guizang-ppt-skill) |
+| 2 | Einsia/OpenChronicle | Python | 1422 | [Open](https://github.com/Einsia/OpenChronicle) |
+| 3 | ConardLi/garden-skills | JavaScript | 1382 | [Open](https://github.com/ConardLi/garden-skills) |
+| 4 | deepseek-ai/TileKernels | Python | 1218 | [Open](https://github.com/deepseek-ai/TileKernels) |
+| 5 | victorchen96/deepseek_v4_rolepaly_instruct | Unknown | 1076 | [Open](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct) |
+| 6 | openclaw/clawsweeper | JavaScript | 1004 | [Open](https://github.com/openclaw/clawsweeper) |
+| 7 | therealaleph/MasterHttpRelayVPN-RUST | Rust | 747 | [Open](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) |
+| 8 | Russell-cell/PPT-Design-Prompt | Python | 711 | [Open](https://github.com/Russell-cell/PPT-Design-Prompt) |
+| 9 | GammaLabTechnologies/harmonist | Python | 692 | [Open](https://github.com/GammaLabTechnologies/harmonist) |
+| 10 | earthtojake/text-to-cad | JavaScript | 668 | [Open](https://github.com/earthtojake/text-to-cad) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
