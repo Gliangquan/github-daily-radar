@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-27T01:25:16.174Z
+Updated: 2026-04-28T01:44:41.836Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | op7418/guizang-ppt-skill | HTML | 2999 | [Open](https://github.com/op7418/guizang-ppt-skill) |
-| 2 | Einsia/OpenChronicle | Python | 1422 | [Open](https://github.com/Einsia/OpenChronicle) |
-| 3 | ConardLi/garden-skills | JavaScript | 1382 | [Open](https://github.com/ConardLi/garden-skills) |
-| 4 | deepseek-ai/TileKernels | Python | 1218 | [Open](https://github.com/deepseek-ai/TileKernels) |
-| 5 | victorchen96/deepseek_v4_rolepaly_instruct | Unknown | 1076 | [Open](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct) |
-| 6 | openclaw/clawsweeper | JavaScript | 1004 | [Open](https://github.com/openclaw/clawsweeper) |
-| 7 | therealaleph/MasterHttpRelayVPN-RUST | Rust | 747 | [Open](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) |
-| 8 | Russell-cell/PPT-Design-Prompt | Python | 711 | [Open](https://github.com/Russell-cell/PPT-Design-Prompt) |
-| 9 | GammaLabTechnologies/harmonist | Python | 692 | [Open](https://github.com/GammaLabTechnologies/harmonist) |
-| 10 | earthtojake/text-to-cad | JavaScript | 668 | [Open](https://github.com/earthtojake/text-to-cad) |
+| 1 | op7418/guizang-ppt-skill | HTML | 3450 | [Open](https://github.com/op7418/guizang-ppt-skill) |
+| 2 | victorchen96/deepseek_v4_rolepaly_instruct | Unknown | 1310 | [Open](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct) |
+| 3 | deepseek-ai/TileKernels | Python | 1282 | [Open](https://github.com/deepseek-ai/TileKernels) |
+| 4 | freestylefly/awesome-gpt-image-2 | Unknown | 1276 | [Open](https://github.com/freestylefly/awesome-gpt-image-2) |
+| 5 | openclaw/clawsweeper | JavaScript | 1199 | [Open](https://github.com/openclaw/clawsweeper) |
+| 6 | earthtojake/text-to-cad | JavaScript | 954 | [Open](https://github.com/earthtojake/text-to-cad) |
+| 7 | 0x0funky/agent-sprite-forge | Python | 871 | [Open](https://github.com/0x0funky/agent-sprite-forge) |
+| 8 | Russell-cell/PPT-Design-Prompt | Python | 830 | [Open](https://github.com/Russell-cell/PPT-Design-Prompt) |
+| 9 | wuyoscar/gpt_image_2_skill | Python | 819 | [Open](https://github.com/wuyoscar/gpt_image_2_skill) |
+| 10 | GammaLabTechnologies/harmonist | Python | 748 | [Open](https://github.com/GammaLabTechnologies/harmonist) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
