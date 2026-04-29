@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-28T01:44:41.836Z
+Updated: 2026-04-29T01:47:46.763Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | op7418/guizang-ppt-skill | HTML | 3450 | [Open](https://github.com/op7418/guizang-ppt-skill) |
-| 2 | victorchen96/deepseek_v4_rolepaly_instruct | Unknown | 1310 | [Open](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct) |
-| 3 | deepseek-ai/TileKernels | Python | 1282 | [Open](https://github.com/deepseek-ai/TileKernels) |
-| 4 | freestylefly/awesome-gpt-image-2 | Unknown | 1276 | [Open](https://github.com/freestylefly/awesome-gpt-image-2) |
-| 5 | openclaw/clawsweeper | JavaScript | 1199 | [Open](https://github.com/openclaw/clawsweeper) |
-| 6 | earthtojake/text-to-cad | JavaScript | 954 | [Open](https://github.com/earthtojake/text-to-cad) |
-| 7 | 0x0funky/agent-sprite-forge | Python | 871 | [Open](https://github.com/0x0funky/agent-sprite-forge) |
-| 8 | Russell-cell/PPT-Design-Prompt | Python | 830 | [Open](https://github.com/Russell-cell/PPT-Design-Prompt) |
-| 9 | wuyoscar/gpt_image_2_skill | Python | 819 | [Open](https://github.com/wuyoscar/gpt_image_2_skill) |
-| 10 | GammaLabTechnologies/harmonist | Python | 748 | [Open](https://github.com/GammaLabTechnologies/harmonist) |
+| 1 | op7418/guizang-ppt-skill | HTML | 3837 | [Open](https://github.com/op7418/guizang-ppt-skill) |
+| 2 | freestylefly/awesome-gpt-image-2 | Unknown | 1722 | [Open](https://github.com/freestylefly/awesome-gpt-image-2) |
+| 3 | victorchen96/deepseek_v4_rolepaly_instruct | Unknown | 1459 | [Open](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct) |
+| 4 | nexu-io/open-design | TypeScript | 1332 | [Open](https://github.com/nexu-io/open-design) |
+| 5 | openclaw/clawsweeper | JavaScript | 1277 | [Open](https://github.com/openclaw/clawsweeper) |
+| 6 | 0x0funky/agent-sprite-forge | Python | 1042 | [Open](https://github.com/0x0funky/agent-sprite-forge) |
+| 7 | GammaLabTechnologies/harmonist | Python | 841 | [Open](https://github.com/GammaLabTechnologies/harmonist) |
+| 8 | future-agi/future-agi | Python | 707 | [Open](https://github.com/future-agi/future-agi) |
+| 9 | epoko77-ai/im-not-ai | Python | 594 | [Open](https://github.com/epoko77-ai/im-not-ai) |
+| 10 | alash3al/stash | Go | 515 | [Open](https://github.com/alash3al/stash) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
