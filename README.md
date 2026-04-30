@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-29T01:47:46.763Z
+Updated: 2026-04-30T01:46:08.062Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | op7418/guizang-ppt-skill | HTML | 3837 | [Open](https://github.com/op7418/guizang-ppt-skill) |
-| 2 | freestylefly/awesome-gpt-image-2 | Unknown | 1722 | [Open](https://github.com/freestylefly/awesome-gpt-image-2) |
-| 3 | victorchen96/deepseek_v4_rolepaly_instruct | Unknown | 1459 | [Open](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct) |
-| 4 | nexu-io/open-design | TypeScript | 1332 | [Open](https://github.com/nexu-io/open-design) |
-| 5 | openclaw/clawsweeper | JavaScript | 1277 | [Open](https://github.com/openclaw/clawsweeper) |
-| 6 | 0x0funky/agent-sprite-forge | Python | 1042 | [Open](https://github.com/0x0funky/agent-sprite-forge) |
-| 7 | GammaLabTechnologies/harmonist | Python | 841 | [Open](https://github.com/GammaLabTechnologies/harmonist) |
-| 8 | future-agi/future-agi | Python | 707 | [Open](https://github.com/future-agi/future-agi) |
-| 9 | epoko77-ai/im-not-ai | Python | 594 | [Open](https://github.com/epoko77-ai/im-not-ai) |
-| 10 | alash3al/stash | Go | 515 | [Open](https://github.com/alash3al/stash) |
+| 1 | nexu-io/open-design | TypeScript | 4472 | [Open](https://github.com/nexu-io/open-design) |
+| 2 | freestylefly/awesome-gpt-image-2 | Unknown | 2153 | [Open](https://github.com/freestylefly/awesome-gpt-image-2) |
+| 3 | victorchen96/deepseek_v4_rolepaly_instruct | Unknown | 1521 | [Open](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct) |
+| 4 | cursor/cookbook | TypeScript | 1467 | [Open](https://github.com/cursor/cookbook) |
+| 5 | epoko77-ai/im-not-ai | Python | 643 | [Open](https://github.com/epoko77-ai/im-not-ai) |
+| 6 | alash3al/stash | Go | 559 | [Open](https://github.com/alash3al/stash) |
+| 7 | ps5-linux/ps5-linux-loader | C | 527 | [Open](https://github.com/ps5-linux/ps5-linux-loader) |
+| 8 | NyxTides/ppt-image-first | Python | 427 | [Open](https://github.com/NyxTides/ppt-image-first) |
+| 9 | GENEXIS-AI/chromex | TypeScript | 420 | [Open](https://github.com/GENEXIS-AI/chromex) |
+| 10 | bonused/monthly-bonus-stake | Unknown | 413 | [Open](https://github.com/bonused/monthly-bonus-stake) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
