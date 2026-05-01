@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-04-30T01:46:08.062Z
+Updated: 2026-05-01T01:49:26.951Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | nexu-io/open-design | TypeScript | 4472 | [Open](https://github.com/nexu-io/open-design) |
-| 2 | freestylefly/awesome-gpt-image-2 | Unknown | 2153 | [Open](https://github.com/freestylefly/awesome-gpt-image-2) |
-| 3 | victorchen96/deepseek_v4_rolepaly_instruct | Unknown | 1521 | [Open](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct) |
-| 4 | cursor/cookbook | TypeScript | 1467 | [Open](https://github.com/cursor/cookbook) |
-| 5 | epoko77-ai/im-not-ai | Python | 643 | [Open](https://github.com/epoko77-ai/im-not-ai) |
-| 6 | alash3al/stash | Go | 559 | [Open](https://github.com/alash3al/stash) |
-| 7 | ps5-linux/ps5-linux-loader | C | 527 | [Open](https://github.com/ps5-linux/ps5-linux-loader) |
-| 8 | NyxTides/ppt-image-first | Python | 427 | [Open](https://github.com/NyxTides/ppt-image-first) |
-| 9 | GENEXIS-AI/chromex | TypeScript | 420 | [Open](https://github.com/GENEXIS-AI/chromex) |
-| 10 | bonused/monthly-bonus-stake | Unknown | 413 | [Open](https://github.com/bonused/monthly-bonus-stake) |
+| 1 | nexu-io/open-design | TypeScript | 8380 | [Open](https://github.com/nexu-io/open-design) |
+| 2 | cursor/cookbook | TypeScript | 2635 | [Open](https://github.com/cursor/cookbook) |
+| 3 | freestylefly/awesome-gpt-image-2 | Unknown | 2564 | [Open](https://github.com/freestylefly/awesome-gpt-image-2) |
+| 4 | theori-io/copy-fail-CVE-2026-31431 | Python | 1702 | [Open](https://github.com/theori-io/copy-fail-CVE-2026-31431) |
+| 5 | willchen96/mike | TypeScript | 787 | [Open](https://github.com/willchen96/mike) |
+| 6 | DanOps-1/Gpt-Agreement-Payment | Python | 780 | [Open](https://github.com/DanOps-1/Gpt-Agreement-Payment) |
+| 7 | GENEXIS-AI/chromex | TypeScript | 687 | [Open](https://github.com/GENEXIS-AI/chromex) |
+| 8 | b-nnett/codex-plusplus | TypeScript | 529 | [Open](https://github.com/b-nnett/codex-plusplus) |
+| 9 | Fokkyp/SoftwareCopyright-Skill | Python | 491 | [Open](https://github.com/Fokkyp/SoftwareCopyright-Skill) |
+| 10 | denuitt1/mhr-cfw | Python | 478 | [Open](https://github.com/denuitt1/mhr-cfw) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
