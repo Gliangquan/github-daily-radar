@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-05T01:29:21.521Z
+Updated: 2026-05-06T01:27:58.251Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | theori-io/copy-fail-CVE-2026-31431 | Python | 3171 | [Open](https://github.com/theori-io/copy-fail-CVE-2026-31431) |
-| 2 | willchen96/mike | TypeScript | 2029 | [Open](https://github.com/willchen96/mike) |
-| 3 | darrylmorley/whatcable | Swift | 1723 | [Open](https://github.com/darrylmorley/whatcable) |
-| 4 | aattaran/deepclaude | JavaScript | 1034 | [Open](https://github.com/aattaran/deepclaude) |
-| 5 | mattpocock/dictionary-of-ai-coding | TypeScript | 972 | [Open](https://github.com/mattpocock/dictionary-of-ai-coding) |
-| 6 | wrongly-cuddly-obsession/NTSB_FOIA_MU5735 | Unknown | 886 | [Open](https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735) |
-| 7 | t8y2/dbx | Vue | 846 | [Open](https://github.com/t8y2/dbx) |
-| 8 | Fokkyp/SoftwareCopyright-Skill | Python | 695 | [Open](https://github.com/Fokkyp/SoftwareCopyright-Skill) |
-| 9 | vibeforge1111/keep-codex-fast | Python | 653 | [Open](https://github.com/vibeforge1111/keep-codex-fast) |
-| 10 | EvanBacon/serve-sim | TypeScript | 614 | [Open](https://github.com/EvanBacon/serve-sim) |
+| 1 | darrylmorley/whatcable | Swift | 1946 | [Open](https://github.com/darrylmorley/whatcable) |
+| 2 | aattaran/deepclaude | JavaScript | 1329 | [Open](https://github.com/aattaran/deepclaude) |
+| 3 | mattpocock/dictionary-of-ai-coding | TypeScript | 1068 | [Open](https://github.com/mattpocock/dictionary-of-ai-coding) |
+| 4 | vercel-labs/deepsec | TypeScript | 1067 | [Open](https://github.com/vercel-labs/deepsec) |
+| 5 | wrongly-cuddly-obsession/NTSB_FOIA_MU5735 | Unknown | 940 | [Open](https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735) |
+| 6 | vibeforge1111/keep-codex-fast | Python | 751 | [Open](https://github.com/vibeforge1111/keep-codex-fast) |
+| 7 | tddworks/baguette | Swift | 636 | [Open](https://github.com/tddworks/baguette) |
+| 8 | Tommy-yw/RunbookHermes | Python | 516 | [Open](https://github.com/Tommy-yw/RunbookHermes) |
+| 9 | WeritoP/BetterNitroDiscord | Unknown | 462 | [Open](https://github.com/WeritoP/BetterNitroDiscord) |
+| 10 | WeritoP/FL-STUDIO-PATCHER | Unknown | 461 | [Open](https://github.com/WeritoP/FL-STUDIO-PATCHER) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
