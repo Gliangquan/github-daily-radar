@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-06T01:27:58.251Z
+Updated: 2026-05-07T01:46:07.364Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | darrylmorley/whatcable | Swift | 1946 | [Open](https://github.com/darrylmorley/whatcable) |
-| 2 | aattaran/deepclaude | JavaScript | 1329 | [Open](https://github.com/aattaran/deepclaude) |
-| 3 | mattpocock/dictionary-of-ai-coding | TypeScript | 1068 | [Open](https://github.com/mattpocock/dictionary-of-ai-coding) |
-| 4 | vercel-labs/deepsec | TypeScript | 1067 | [Open](https://github.com/vercel-labs/deepsec) |
-| 5 | wrongly-cuddly-obsession/NTSB_FOIA_MU5735 | Unknown | 940 | [Open](https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735) |
-| 6 | vibeforge1111/keep-codex-fast | Python | 751 | [Open](https://github.com/vibeforge1111/keep-codex-fast) |
-| 7 | tddworks/baguette | Swift | 636 | [Open](https://github.com/tddworks/baguette) |
-| 8 | Tommy-yw/RunbookHermes | Python | 516 | [Open](https://github.com/Tommy-yw/RunbookHermes) |
-| 9 | WeritoP/BetterNitroDiscord | Unknown | 462 | [Open](https://github.com/WeritoP/BetterNitroDiscord) |
-| 10 | WeritoP/FL-STUDIO-PATCHER | Unknown | 461 | [Open](https://github.com/WeritoP/FL-STUDIO-PATCHER) |
+| 1 | darrylmorley/whatcable | Swift | 2053 | [Open](https://github.com/darrylmorley/whatcable) |
+| 2 | aattaran/deepclaude | JavaScript | 1491 | [Open](https://github.com/aattaran/deepclaude) |
+| 3 | mattpocock/dictionary-of-ai-coding | TypeScript | 1154 | [Open](https://github.com/mattpocock/dictionary-of-ai-coding) |
+| 4 | vibeforge1111/keep-codex-fast | Python | 816 | [Open](https://github.com/vibeforge1111/keep-codex-fast) |
+| 5 | XBuilderLAB/cheat-on-content | Python | 778 | [Open](https://github.com/XBuilderLAB/cheat-on-content) |
+| 6 | jherrodthomas/automotive-skills-suite | Unknown | 731 | [Open](https://github.com/jherrodthomas/automotive-skills-suite) |
+| 7 | crafter-station/petdex | TypeScript | 727 | [Open](https://github.com/crafter-station/petdex) |
+| 8 | tddworks/baguette | Swift | 692 | [Open](https://github.com/tddworks/baguette) |
+| 9 | raiyanyahya/how-to-train-your-gpt | Jupyter Notebook | 581 | [Open](https://github.com/raiyanyahya/how-to-train-your-gpt) |
+| 10 | Kappaemme-git/codex-startup-pressure-test-skill | JavaScript | 561 | [Open](https://github.com/Kappaemme-git/codex-startup-pressure-test-skill) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
