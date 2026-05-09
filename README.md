@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-08T01:49:23.844Z
+Updated: 2026-05-09T01:45:04.443Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | aattaran/deepclaude | JavaScript | 1596 | [Open](https://github.com/aattaran/deepclaude) |
-| 2 | yaojingang/yao-open-prompts | Python | 1133 | [Open](https://github.com/yaojingang/yao-open-prompts) |
-| 3 | XBuilderLAB/cheat-on-content | Python | 1031 | [Open](https://github.com/XBuilderLAB/cheat-on-content) |
-| 4 | strukto-ai/mirage | TypeScript | 1007 | [Open](https://github.com/strukto-ai/mirage) |
-| 5 | crafter-station/petdex | TypeScript | 962 | [Open](https://github.com/crafter-station/petdex) |
-| 6 | vibeforge1111/keep-codex-fast | Python | 874 | [Open](https://github.com/vibeforge1111/keep-codex-fast) |
-| 7 | Kappaemme-git/codex-startup-pressure-test-skill | JavaScript | 707 | [Open](https://github.com/Kappaemme-git/codex-startup-pressure-test-skill) |
-| 8 | raiyanyahya/how-to-train-your-gpt | Jupyter Notebook | 690 | [Open](https://github.com/raiyanyahya/how-to-train-your-gpt) |
-| 9 | V4bel/dirtyfrag | C | 648 | [Open](https://github.com/V4bel/dirtyfrag) |
-| 10 | lightseekorg/tokenspeed | Python | 645 | [Open](https://github.com/lightseekorg/tokenspeed) |
+| 1 | V4bel/dirtyfrag | C | 2894 | [Open](https://github.com/V4bel/dirtyfrag) |
+| 2 | antirez/ds4 | C | 2476 | [Open](https://github.com/antirez/ds4) |
+| 3 | aattaran/deepclaude | JavaScript | 1642 | [Open](https://github.com/aattaran/deepclaude) |
+| 4 | strukto-ai/mirage | TypeScript | 1449 | [Open](https://github.com/strukto-ai/mirage) |
+| 5 | yaojingang/yao-open-prompts | Python | 1376 | [Open](https://github.com/yaojingang/yao-open-prompts) |
+| 6 | XBuilderLAB/cheat-on-content | Shell | 1216 | [Open](https://github.com/XBuilderLAB/cheat-on-content) |
+| 7 | MayersScott/rkn-block-checker | Python | 799 | [Open](https://github.com/MayersScott/rkn-block-checker) |
+| 8 | lightseekorg/tokenspeed | Python | 785 | [Open](https://github.com/lightseekorg/tokenspeed) |
+| 9 | raiyanyahya/how-to-train-your-gpt | Jupyter Notebook | 765 | [Open](https://github.com/raiyanyahya/how-to-train-your-gpt) |
+| 10 | Kappaemme-git/codex-startup-pressure-test-skill | JavaScript | 727 | [Open](https://github.com/Kappaemme-git/codex-startup-pressure-test-skill) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
