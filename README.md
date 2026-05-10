@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-09T01:45:04.443Z
+Updated: 2026-05-10T01:45:46.542Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | V4bel/dirtyfrag | C | 2894 | [Open](https://github.com/V4bel/dirtyfrag) |
-| 2 | antirez/ds4 | C | 2476 | [Open](https://github.com/antirez/ds4) |
-| 3 | aattaran/deepclaude | JavaScript | 1642 | [Open](https://github.com/aattaran/deepclaude) |
-| 4 | strukto-ai/mirage | TypeScript | 1449 | [Open](https://github.com/strukto-ai/mirage) |
-| 5 | yaojingang/yao-open-prompts | Python | 1376 | [Open](https://github.com/yaojingang/yao-open-prompts) |
-| 6 | XBuilderLAB/cheat-on-content | Shell | 1216 | [Open](https://github.com/XBuilderLAB/cheat-on-content) |
-| 7 | MayersScott/rkn-block-checker | Python | 799 | [Open](https://github.com/MayersScott/rkn-block-checker) |
-| 8 | lightseekorg/tokenspeed | Python | 785 | [Open](https://github.com/lightseekorg/tokenspeed) |
-| 9 | raiyanyahya/how-to-train-your-gpt | Jupyter Notebook | 765 | [Open](https://github.com/raiyanyahya/how-to-train-your-gpt) |
-| 10 | Kappaemme-git/codex-startup-pressure-test-skill | JavaScript | 727 | [Open](https://github.com/Kappaemme-git/codex-startup-pressure-test-skill) |
+| 1 | antirez/ds4 | C | 4516 | [Open](https://github.com/antirez/ds4) |
+| 2 | V4bel/dirtyfrag | C | 3647 | [Open](https://github.com/V4bel/dirtyfrag) |
+| 3 | vercel-labs/zero-native | Zig | 1656 | [Open](https://github.com/vercel-labs/zero-native) |
+| 4 | strukto-ai/mirage | TypeScript | 1632 | [Open](https://github.com/strukto-ai/mirage) |
+| 5 | yaojingang/yao-open-prompts | Python | 1490 | [Open](https://github.com/yaojingang/yao-open-prompts) |
+| 6 | XBuilderLAB/cheat-on-content | Shell | 1426 | [Open](https://github.com/XBuilderLAB/cheat-on-content) |
+| 7 | lightseekorg/tokenspeed | Python | 858 | [Open](https://github.com/lightseekorg/tokenspeed) |
+| 8 | zarazhangrui/beautiful-html-templates | HTML | 604 | [Open](https://github.com/zarazhangrui/beautiful-html-templates) |
+| 9 | WenyuChiou/awesome-agentic-ai-zh | Python | 537 | [Open](https://github.com/WenyuChiou/awesome-agentic-ai-zh) |
+| 10 | zzzhhh1/Sing-Flare-Auto | Dockerfile | 488 | [Open](https://github.com/zzzhhh1/Sing-Flare-Auto) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
