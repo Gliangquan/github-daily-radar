@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-11T01:53:11.186Z
+Updated: 2026-05-12T01:48:43.355Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | antirez/ds4 | C | 6257 | [Open](https://github.com/antirez/ds4) |
-| 2 | V4bel/dirtyfrag | C | 4026 | [Open](https://github.com/V4bel/dirtyfrag) |
-| 3 | vercel-labs/zero-native | Zig | 2314 | [Open](https://github.com/vercel-labs/zero-native) |
-| 4 | strukto-ai/mirage | TypeScript | 1796 | [Open](https://github.com/strukto-ai/mirage) |
-| 5 | XBuilderLAB/cheat-on-content | Shell | 1559 | [Open](https://github.com/XBuilderLAB/cheat-on-content) |
-| 6 | yaojingang/yao-open-prompts | Python | 1558 | [Open](https://github.com/yaojingang/yao-open-prompts) |
-| 7 | lightseekorg/tokenspeed | Python | 907 | [Open](https://github.com/lightseekorg/tokenspeed) |
-| 8 | huangserva/3DCellForge | JavaScript | 774 | [Open](https://github.com/huangserva/3DCellForge) |
-| 9 | zarazhangrui/beautiful-html-templates | HTML | 735 | [Open](https://github.com/zarazhangrui/beautiful-html-templates) |
-| 10 | BigPizzaV3/CodexPlusPlus | Python | 708 | [Open](https://github.com/BigPizzaV3/CodexPlusPlus) |
+| 1 | antirez/ds4 | C | 7416 | [Open](https://github.com/antirez/ds4) |
+| 2 | V4bel/dirtyfrag | C | 4202 | [Open](https://github.com/V4bel/dirtyfrag) |
+| 3 | vercel-labs/zero-native | Zig | 2655 | [Open](https://github.com/vercel-labs/zero-native) |
+| 4 | strukto-ai/mirage | TypeScript | 1945 | [Open](https://github.com/strukto-ai/mirage) |
+| 5 | yaojingang/yao-open-prompts | Python | 1629 | [Open](https://github.com/yaojingang/yao-open-prompts) |
+| 6 | huangserva/3DCellForge | JavaScript | 1410 | [Open](https://github.com/huangserva/3DCellForge) |
+| 7 | BigPizzaV3/CodexPlusPlus | Python | 1045 | [Open](https://github.com/BigPizzaV3/CodexPlusPlus) |
+| 8 | lightseekorg/tokenspeed | Python | 945 | [Open](https://github.com/lightseekorg/tokenspeed) |
+| 9 | thakur-works/DarkGPT | Unknown | 532 | [Open](https://github.com/thakur-works/DarkGPT) |
+| 10 | thakur-works/Velocity-Executor | Unknown | 528 | [Open](https://github.com/thakur-works/Velocity-Executor) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
