@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-13T01:53:20.407Z
+Updated: 2026-05-14T01:56:07.681Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | V4bel/dirtyfrag | C | 4331 | [Open](https://github.com/V4bel/dirtyfrag) |
-| 2 | vercel-labs/zero-native | Zig | 2958 | [Open](https://github.com/vercel-labs/zero-native) |
-| 3 | huangserva/3DCellForge | JavaScript | 1711 | [Open](https://github.com/huangserva/3DCellForge) |
-| 4 | FULU-Foundation/OrcaSlicer-bambulab | C++ | 1186 | [Open](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) |
-| 5 | haydenbleasel/files-sdk | TypeScript | 569 | [Open](https://github.com/haydenbleasel/files-sdk) |
-| 6 | thakur-works/DarkGPT | Unknown | 532 | [Open](https://github.com/thakur-works/DarkGPT) |
-| 7 | ywnd1144/Gopay_plus_automatic | Python | 529 | [Open](https://github.com/ywnd1144/Gopay_plus_automatic) |
-| 8 | thakur-works/Velocity-Executor | Unknown | 528 | [Open](https://github.com/thakur-works/Velocity-Executor) |
-| 9 | RadianceToadAmend/Fortnite-Cheats-2026 | Unknown | 521 | [Open](https://github.com/RadianceToadAmend/Fortnite-Cheats-2026) |
-| 10 | RadianceToadAmend/ARC-Raiders-External-Tool | C++ | 521 | [Open](https://github.com/RadianceToadAmend/ARC-Raiders-External-Tool) |
+| 1 | vercel-labs/zero-native | Zig | 3293 | [Open](https://github.com/vercel-labs/zero-native) |
+| 2 | FULU-Foundation/OrcaSlicer-bambulab | C++ | 2963 | [Open](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) |
+| 3 | huangserva/3DCellForge | JavaScript | 1813 | [Open](https://github.com/huangserva/3DCellForge) |
+| 4 | Nightmare-Eclipse/YellowKey | Unknown | 1003 | [Open](https://github.com/Nightmare-Eclipse/YellowKey) |
+| 5 | ywnd1144/Gopay_plus_automatic | Python | 715 | [Open](https://github.com/ywnd1144/Gopay_plus_automatic) |
+| 6 | HermannBjorgvin/Clawdmeter | C | 685 | [Open](https://github.com/HermannBjorgvin/Clawdmeter) |
+| 7 | haydenbleasel/files-sdk | TypeScript | 645 | [Open](https://github.com/haydenbleasel/files-sdk) |
+| 8 | thakur-works/DarkGPT | Unknown | 534 | [Open](https://github.com/thakur-works/DarkGPT) |
+| 9 | patchfighterway90/cs2-external-overlay | Python | 533 | [Open](https://github.com/patchfighterway90/cs2-external-overlay) |
+| 10 | thakur-works/Velocity-Executor | Unknown | 528 | [Open](https://github.com/thakur-works/Velocity-Executor) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
