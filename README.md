@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-14T01:56:07.681Z
+Updated: 2026-05-15T01:54:05.725Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | vercel-labs/zero-native | Zig | 3293 | [Open](https://github.com/vercel-labs/zero-native) |
-| 2 | FULU-Foundation/OrcaSlicer-bambulab | C++ | 2963 | [Open](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) |
-| 3 | huangserva/3DCellForge | JavaScript | 1813 | [Open](https://github.com/huangserva/3DCellForge) |
-| 4 | Nightmare-Eclipse/YellowKey | Unknown | 1003 | [Open](https://github.com/Nightmare-Eclipse/YellowKey) |
-| 5 | ywnd1144/Gopay_plus_automatic | Python | 715 | [Open](https://github.com/ywnd1144/Gopay_plus_automatic) |
-| 6 | HermannBjorgvin/Clawdmeter | C | 685 | [Open](https://github.com/HermannBjorgvin/Clawdmeter) |
-| 7 | haydenbleasel/files-sdk | TypeScript | 645 | [Open](https://github.com/haydenbleasel/files-sdk) |
-| 8 | thakur-works/DarkGPT | Unknown | 534 | [Open](https://github.com/thakur-works/DarkGPT) |
-| 9 | patchfighterway90/cs2-external-overlay | Python | 533 | [Open](https://github.com/patchfighterway90/cs2-external-overlay) |
-| 10 | thakur-works/Velocity-Executor | Unknown | 528 | [Open](https://github.com/thakur-works/Velocity-Executor) |
+| 1 | FULU-Foundation/OrcaSlicer-bambulab | C++ | 4073 | [Open](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) |
+| 2 | huangserva/3DCellForge | JavaScript | 2012 | [Open](https://github.com/huangserva/3DCellForge) |
+| 3 | Nightmare-Eclipse/YellowKey | Unknown | 1759 | [Open](https://github.com/Nightmare-Eclipse/YellowKey) |
+| 4 | nexu-io/html-anything | HTML | 966 | [Open](https://github.com/nexu-io/html-anything) |
+| 5 | HermannBjorgvin/Clawdmeter | C | 869 | [Open](https://github.com/HermannBjorgvin/Clawdmeter) |
+| 6 | ywnd1144/Gopay_plus_automatic | Python | 793 | [Open](https://github.com/ywnd1144/Gopay_plus_automatic) |
+| 7 | simonlin1212/a-stock-data | Unknown | 708 | [Open](https://github.com/simonlin1212/a-stock-data) |
+| 8 | TencentARC/Pixal3D | Python | 640 | [Open](https://github.com/TencentARC/Pixal3D) |
+| 9 | cclank/cell-architecture-studio | TypeScript | 569 | [Open](https://github.com/cclank/cell-architecture-studio) |
+| 10 | thakur-works/DarkGPT | Unknown | 535 | [Open](https://github.com/thakur-works/DarkGPT) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
