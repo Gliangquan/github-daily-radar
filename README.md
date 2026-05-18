@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-17T01:50:59.645Z
+Updated: 2026-05-18T02:01:01.411Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | FULU-Foundation/OrcaSlicer-bambulab | C++ | 5364 | [Open](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) |
-| 2 | Nightmare-Eclipse/YellowKey | Unknown | 2853 | [Open](https://github.com/Nightmare-Eclipse/YellowKey) |
-| 3 | nexu-io/html-anything | HTML | 2462 | [Open](https://github.com/nexu-io/html-anything) |
-| 4 | yetone/native-feel-skill | Unknown | 1230 | [Open](https://github.com/yetone/native-feel-skill) |
-| 5 | HermannBjorgvin/Clawdmeter | C | 1086 | [Open](https://github.com/HermannBjorgvin/Clawdmeter) |
-| 6 | vercel-labs/zero | C | 1041 | [Open](https://github.com/vercel-labs/zero) |
-| 7 | simonlin1212/a-stock-data | Unknown | 993 | [Open](https://github.com/simonlin1212/a-stock-data) |
-| 8 | ywnd1144/Gopay_plus_automatic | Python | 902 | [Open](https://github.com/ywnd1144/Gopay_plus_automatic) |
-| 9 | DepthFirstDisclosures/Nginx-Rift | Python | 646 | [Open](https://github.com/DepthFirstDisclosures/Nginx-Rift) |
-| 10 | DenisSergeevitch/agents-best-practices | Unknown | 579 | [Open](https://github.com/DenisSergeevitch/agents-best-practices) |
+| 1 | Nightmare-Eclipse/YellowKey | Unknown | 3160 | [Open](https://github.com/Nightmare-Eclipse/YellowKey) |
+| 2 | vercel-labs/zero | C | 1709 | [Open](https://github.com/vercel-labs/zero) |
+| 3 | yetone/native-feel-skill | Unknown | 1278 | [Open](https://github.com/yetone/native-feel-skill) |
+| 4 | ywnd1144/Gopay_plus_automatic | Python | 921 | [Open](https://github.com/ywnd1144/Gopay_plus_automatic) |
+| 5 | DenisSergeevitch/agents-best-practices | Unknown | 721 | [Open](https://github.com/DenisSergeevitch/agents-best-practices) |
+| 6 | DepthFirstDisclosures/Nginx-Rift | Python | 673 | [Open](https://github.com/DepthFirstDisclosures/Nginx-Rift) |
+| 7 | facebookresearch/vggt-omega | Python | 645 | [Open](https://github.com/facebookresearch/vggt-omega) |
+| 8 | Kappaemme-git/codex-complexity-optimizer | Python | 635 | [Open](https://github.com/Kappaemme-git/codex-complexity-optimizer) |
+| 9 | yaassin12/DeepSeek-V4-Pro-App | C++ | 606 | [Open](https://github.com/yaassin12/DeepSeek-V4-Pro-App) |
+| 10 | chrisbanes/skills | Unknown | 604 | [Open](https://github.com/chrisbanes/skills) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
