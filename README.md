@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-18T02:01:01.411Z
+Updated: 2026-05-19T02:00:05.137Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | Nightmare-Eclipse/YellowKey | Unknown | 3160 | [Open](https://github.com/Nightmare-Eclipse/YellowKey) |
-| 2 | vercel-labs/zero | C | 1709 | [Open](https://github.com/vercel-labs/zero) |
-| 3 | yetone/native-feel-skill | Unknown | 1278 | [Open](https://github.com/yetone/native-feel-skill) |
-| 4 | ywnd1144/Gopay_plus_automatic | Python | 921 | [Open](https://github.com/ywnd1144/Gopay_plus_automatic) |
-| 5 | DenisSergeevitch/agents-best-practices | Unknown | 721 | [Open](https://github.com/DenisSergeevitch/agents-best-practices) |
-| 6 | DepthFirstDisclosures/Nginx-Rift | Python | 673 | [Open](https://github.com/DepthFirstDisclosures/Nginx-Rift) |
-| 7 | facebookresearch/vggt-omega | Python | 645 | [Open](https://github.com/facebookresearch/vggt-omega) |
-| 8 | Kappaemme-git/codex-complexity-optimizer | Python | 635 | [Open](https://github.com/Kappaemme-git/codex-complexity-optimizer) |
-| 9 | yaassin12/DeepSeek-V4-Pro-App | C++ | 606 | [Open](https://github.com/yaassin12/DeepSeek-V4-Pro-App) |
-| 10 | chrisbanes/skills | Unknown | 604 | [Open](https://github.com/chrisbanes/skills) |
+| 1 | vercel-labs/zero | C | 2306 | [Open](https://github.com/vercel-labs/zero) |
+| 2 | yetone/native-feel-skill | Unknown | 1310 | [Open](https://github.com/yetone/native-feel-skill) |
+| 3 | facebookresearch/vggt-omega | Python | 987 | [Open](https://github.com/facebookresearch/vggt-omega) |
+| 4 | DenisSergeevitch/agents-best-practices | Unknown | 816 | [Open](https://github.com/DenisSergeevitch/agents-best-practices) |
+| 5 | DuskMosquito/Lossless-Scaling-Desktop-2026 | C | 776 | [Open](https://github.com/DuskMosquito/Lossless-Scaling-Desktop-2026) |
+| 6 | Kappaemme-git/codex-complexity-optimizer | Python | 750 | [Open](https://github.com/Kappaemme-git/codex-complexity-optimizer) |
+| 7 | boona13/mykonos-island-voxels | JavaScript | 639 | [Open](https://github.com/boona13/mykonos-island-voxels) |
+| 8 | Juwluuu/Subnautica-2-Release | C++ | 621 | [Open](https://github.com/Juwluuu/Subnautica-2-Release) |
+| 9 | DARKHOLEUM/VoidStrap-For-Roblox | C# | 614 | [Open](https://github.com/DARKHOLEUM/VoidStrap-For-Roblox) |
+| 10 | snoozinjs/Delta-exec | C++ | 599 | [Open](https://github.com/snoozinjs/Delta-exec) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
