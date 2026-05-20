@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-19T02:00:05.137Z
+Updated: 2026-05-20T01:59:55.296Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | vercel-labs/zero | C | 2306 | [Open](https://github.com/vercel-labs/zero) |
-| 2 | yetone/native-feel-skill | Unknown | 1310 | [Open](https://github.com/yetone/native-feel-skill) |
-| 3 | facebookresearch/vggt-omega | Python | 987 | [Open](https://github.com/facebookresearch/vggt-omega) |
-| 4 | DenisSergeevitch/agents-best-practices | Unknown | 816 | [Open](https://github.com/DenisSergeevitch/agents-best-practices) |
-| 5 | DuskMosquito/Lossless-Scaling-Desktop-2026 | C | 776 | [Open](https://github.com/DuskMosquito/Lossless-Scaling-Desktop-2026) |
-| 6 | Kappaemme-git/codex-complexity-optimizer | Python | 750 | [Open](https://github.com/Kappaemme-git/codex-complexity-optimizer) |
-| 7 | boona13/mykonos-island-voxels | JavaScript | 639 | [Open](https://github.com/boona13/mykonos-island-voxels) |
-| 8 | Juwluuu/Subnautica-2-Release | C++ | 621 | [Open](https://github.com/Juwluuu/Subnautica-2-Release) |
-| 9 | DARKHOLEUM/VoidStrap-For-Roblox | C# | 614 | [Open](https://github.com/DARKHOLEUM/VoidStrap-For-Roblox) |
-| 10 | snoozinjs/Delta-exec | C++ | 599 | [Open](https://github.com/snoozinjs/Delta-exec) |
+| 1 | vercel-labs/zerolang | C | 3262 | [Open](https://github.com/vercel-labs/zerolang) |
+| 2 | yetone/native-feel-skill | Unknown | 1335 | [Open](https://github.com/yetone/native-feel-skill) |
+| 3 | facebookresearch/vggt-omega | Python | 1222 | [Open](https://github.com/facebookresearch/vggt-omega) |
+| 4 | DenisSergeevitch/agents-best-practices | Unknown | 853 | [Open](https://github.com/DenisSergeevitch/agents-best-practices) |
+| 5 | Kappaemme-git/codex-complexity-optimizer | Python | 788 | [Open](https://github.com/Kappaemme-git/codex-complexity-optimizer) |
+| 6 | DuskMosquito/Lossless-Scaling-Desktop-2026 | C | 778 | [Open](https://github.com/DuskMosquito/Lossless-Scaling-Desktop-2026) |
+| 7 | Doorman11991/smallcode | JavaScript | 727 | [Open](https://github.com/Doorman11991/smallcode) |
+| 8 | cdanielc293/Jenny-Mod-All-Versions | C# | 670 | [Open](https://github.com/cdanielc293/Jenny-Mod-All-Versions) |
+| 9 | boona13/mykonos-island-voxels | JavaScript | 663 | [Open](https://github.com/boona13/mykonos-island-voxels) |
+| 10 | Juwluuu/Subnautica-2-Release | C++ | 644 | [Open](https://github.com/Juwluuu/Subnautica-2-Release) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
