@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-22T02:01:04.331Z
+Updated: 2026-05-23T01:51:28.854Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | FoundZiGu/GuJumpgate | JavaScript | 1454 | [Open](https://github.com/FoundZiGu/GuJumpgate) |
-| 2 | thananon/9arm-skills | Shell | 1167 | [Open](https://github.com/thananon/9arm-skills) |
-| 3 | Doorman11991/smallcode | JavaScript | 1083 | [Open](https://github.com/Doorman11991/smallcode) |
-| 4 | sapientinc/HRM-Text | Python | 631 | [Open](https://github.com/sapientinc/HRM-Text) |
-| 5 | xw7872081123/wallpaper-engine-steam | TypeScript | 618 | [Open](https://github.com/xw7872081123/wallpaper-engine-steam) |
-| 6 | BasZ4ll/Stable-Diffusion-WebUI | TypeScript | 598 | [Open](https://github.com/BasZ4ll/Stable-Diffusion-WebUI) |
-| 7 | arnabchoudhury404/hydra-launcher | TypeScript | 596 | [Open](https://github.com/arnabchoudhury404/hydra-launcher) |
-| 8 | Flizorules05/ROM-MGBA-Pokemon-Emulator-PC | Unknown | 595 | [Open](https://github.com/Flizorules05/ROM-MGBA-Pokemon-Emulator-PC) |
-| 9 | Sunislazi/rbxfpsunlocker-boost-More-240FPS | TypeScript | 592 | [Open](https://github.com/Sunislazi/rbxfpsunlocker-boost-More-240FPS) |
-| 10 | ZoyaMalhotra/DualSenseX-DSX-Steam-Edition | C++ | 587 | [Open](https://github.com/ZoyaMalhotra/DualSenseX-DSX-Steam-Edition) |
+| 1 | FoundZiGu/GuJumpgate | JavaScript | 1769 | [Open](https://github.com/FoundZiGu/GuJumpgate) |
+| 2 | thananon/9arm-skills | Shell | 1528 | [Open](https://github.com/thananon/9arm-skills) |
+| 3 | Doorman11991/smallcode | JavaScript | 1228 | [Open](https://github.com/Doorman11991/smallcode) |
+| 4 | datawhalechina/Agent-Learning-Hub | HTML | 1093 | [Open](https://github.com/datawhalechina/Agent-Learning-Hub) |
+| 5 | sapientinc/HRM-Text | Python | 650 | [Open](https://github.com/sapientinc/HRM-Text) |
+| 6 | kageroumado/phosphene | Swift | 597 | [Open](https://github.com/kageroumado/phosphene) |
+| 7 | xw7872081123/wallpaper-engine-steam | TypeScript | 454 | [Open](https://github.com/xw7872081123/wallpaper-engine-steam) |
+| 8 | lynote-ai/humanize-text | Python | 454 | [Open](https://github.com/lynote-ai/humanize-text) |
+| 9 | LiuMengxuan04/shushu-internship-tool | Python | 437 | [Open](https://github.com/LiuMengxuan04/shushu-internship-tool) |
+| 10 | evilsocket/audit | Python | 435 | [Open](https://github.com/evilsocket/audit) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
