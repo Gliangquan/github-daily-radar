@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-23T01:51:28.854Z
+Updated: 2026-05-24T01:58:10.183Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | FoundZiGu/GuJumpgate | JavaScript | 1769 | [Open](https://github.com/FoundZiGu/GuJumpgate) |
-| 2 | thananon/9arm-skills | Shell | 1528 | [Open](https://github.com/thananon/9arm-skills) |
-| 3 | Doorman11991/smallcode | JavaScript | 1228 | [Open](https://github.com/Doorman11991/smallcode) |
-| 4 | datawhalechina/Agent-Learning-Hub | HTML | 1093 | [Open](https://github.com/datawhalechina/Agent-Learning-Hub) |
-| 5 | sapientinc/HRM-Text | Python | 650 | [Open](https://github.com/sapientinc/HRM-Text) |
-| 6 | kageroumado/phosphene | Swift | 597 | [Open](https://github.com/kageroumado/phosphene) |
-| 7 | xw7872081123/wallpaper-engine-steam | TypeScript | 454 | [Open](https://github.com/xw7872081123/wallpaper-engine-steam) |
-| 8 | lynote-ai/humanize-text | Python | 454 | [Open](https://github.com/lynote-ai/humanize-text) |
-| 9 | LiuMengxuan04/shushu-internship-tool | Python | 437 | [Open](https://github.com/LiuMengxuan04/shushu-internship-tool) |
-| 10 | evilsocket/audit | Python | 435 | [Open](https://github.com/evilsocket/audit) |
+| 1 | FoundZiGu/GuJumpgate | JavaScript | 2060 | [Open](https://github.com/FoundZiGu/GuJumpgate) |
+| 2 | thananon/9arm-skills | Shell | 1864 | [Open](https://github.com/thananon/9arm-skills) |
+| 3 | Doorman11991/smallcode | JavaScript | 1321 | [Open](https://github.com/Doorman11991/smallcode) |
+| 4 | perplexityai/bumblebee | Go | 1294 | [Open](https://github.com/perplexityai/bumblebee) |
+| 5 | sapientinc/HRM-Text | Python | 677 | [Open](https://github.com/sapientinc/HRM-Text) |
+| 6 | kageroumado/phosphene | Swift | 627 | [Open](https://github.com/kageroumado/phosphene) |
+| 7 | lynote-ai/humanize-text | Python | 558 | [Open](https://github.com/lynote-ai/humanize-text) |
+| 8 | xw7872081123/wallpaper-engine-steam | TypeScript | 455 | [Open](https://github.com/xw7872081123/wallpaper-engine-steam) |
+| 9 | basketikun/infinite-canvas | TypeScript | 454 | [Open](https://github.com/basketikun/infinite-canvas) |
+| 10 | evilsocket/audit | Python | 446 | [Open](https://github.com/evilsocket/audit) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
