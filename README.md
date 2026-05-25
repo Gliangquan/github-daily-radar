@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-24T01:58:10.183Z
+Updated: 2026-05-25T02:05:16.896Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | FoundZiGu/GuJumpgate | JavaScript | 2060 | [Open](https://github.com/FoundZiGu/GuJumpgate) |
-| 2 | thananon/9arm-skills | Shell | 1864 | [Open](https://github.com/thananon/9arm-skills) |
-| 3 | Doorman11991/smallcode | JavaScript | 1321 | [Open](https://github.com/Doorman11991/smallcode) |
-| 4 | perplexityai/bumblebee | Go | 1294 | [Open](https://github.com/perplexityai/bumblebee) |
-| 5 | sapientinc/HRM-Text | Python | 677 | [Open](https://github.com/sapientinc/HRM-Text) |
-| 6 | kageroumado/phosphene | Swift | 627 | [Open](https://github.com/kageroumado/phosphene) |
-| 7 | lynote-ai/humanize-text | Python | 558 | [Open](https://github.com/lynote-ai/humanize-text) |
-| 8 | xw7872081123/wallpaper-engine-steam | TypeScript | 455 | [Open](https://github.com/xw7872081123/wallpaper-engine-steam) |
-| 9 | basketikun/infinite-canvas | TypeScript | 454 | [Open](https://github.com/basketikun/infinite-canvas) |
-| 10 | evilsocket/audit | Python | 446 | [Open](https://github.com/evilsocket/audit) |
+| 1 | FoundZiGu/GuJumpgate | JavaScript | 2343 | [Open](https://github.com/FoundZiGu/GuJumpgate) |
+| 2 | perplexityai/bumblebee | Go | 2174 | [Open](https://github.com/perplexityai/bumblebee) |
+| 3 | thananon/9arm-skills | Shell | 1996 | [Open](https://github.com/thananon/9arm-skills) |
+| 4 | kageroumado/phosphene | Swift | 654 | [Open](https://github.com/kageroumado/phosphene) |
+| 5 | open-gsd/get-shit-done-redux | JavaScript | 573 | [Open](https://github.com/open-gsd/get-shit-done-redux) |
+| 6 | Tong89/smartNode | Python | 512 | [Open](https://github.com/Tong89/smartNode) |
+| 7 | 0xSero/codex-shim | Python | 475 | [Open](https://github.com/0xSero/codex-shim) |
+| 8 | Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock | Unknown | 429 | [Open](https://github.com/Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock) |
+| 9 | jskblue/Tomodachi-Island-Life-Remastered | Unknown | 424 | [Open](https://github.com/jskblue/Tomodachi-Island-Life-Remastered) |
+| 10 | NicoleK-M/Spoof-Matrix-Hardware | Unknown | 423 | [Open](https://github.com/NicoleK-M/Spoof-Matrix-Hardware) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
