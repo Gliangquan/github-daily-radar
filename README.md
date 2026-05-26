@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-25T02:05:16.896Z
+Updated: 2026-05-26T01:56:15.265Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | FoundZiGu/GuJumpgate | JavaScript | 2343 | [Open](https://github.com/FoundZiGu/GuJumpgate) |
-| 2 | perplexityai/bumblebee | Go | 2174 | [Open](https://github.com/perplexityai/bumblebee) |
-| 3 | thananon/9arm-skills | Shell | 1996 | [Open](https://github.com/thananon/9arm-skills) |
-| 4 | kageroumado/phosphene | Swift | 654 | [Open](https://github.com/kageroumado/phosphene) |
-| 5 | open-gsd/get-shit-done-redux | JavaScript | 573 | [Open](https://github.com/open-gsd/get-shit-done-redux) |
-| 6 | Tong89/smartNode | Python | 512 | [Open](https://github.com/Tong89/smartNode) |
-| 7 | 0xSero/codex-shim | Python | 475 | [Open](https://github.com/0xSero/codex-shim) |
-| 8 | Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock | Unknown | 429 | [Open](https://github.com/Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock) |
-| 9 | jskblue/Tomodachi-Island-Life-Remastered | Unknown | 424 | [Open](https://github.com/jskblue/Tomodachi-Island-Life-Remastered) |
-| 10 | NicoleK-M/Spoof-Matrix-Hardware | Unknown | 423 | [Open](https://github.com/NicoleK-M/Spoof-Matrix-Hardware) |
+| 1 | perplexityai/bumblebee | Go | 2586 | [Open](https://github.com/perplexityai/bumblebee) |
+| 2 | thananon/9arm-skills | Shell | 2173 | [Open](https://github.com/thananon/9arm-skills) |
+| 3 | open-gsd/get-shit-done-redux | JavaScript | 859 | [Open](https://github.com/open-gsd/get-shit-done-redux) |
+| 4 | Tong89/smartNode | Python | 707 | [Open](https://github.com/Tong89/smartNode) |
+| 5 | kageroumado/phosphene | Swift | 673 | [Open](https://github.com/kageroumado/phosphene) |
+| 6 | 0xSero/codex-shim | Python | 593 | [Open](https://github.com/0xSero/codex-shim) |
+| 7 | run-liyi/wechatpay | JavaScript | 538 | [Open](https://github.com/run-liyi/wechatpay) |
+| 8 | MoonshotAI/kimi-code | TypeScript | 511 | [Open](https://github.com/MoonshotAI/kimi-code) |
+| 9 | zhaoyue4810/pianke | Python | 400 | [Open](https://github.com/zhaoyue4810/pianke) |
+| 10 | Unclecheng-li/poc-lab | C | 364 | [Open](https://github.com/Unclecheng-li/poc-lab) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
