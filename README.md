@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-26T01:56:15.265Z
+Updated: 2026-05-27T02:04:56.409Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | perplexityai/bumblebee | Go | 2586 | [Open](https://github.com/perplexityai/bumblebee) |
-| 2 | thananon/9arm-skills | Shell | 2173 | [Open](https://github.com/thananon/9arm-skills) |
-| 3 | open-gsd/get-shit-done-redux | JavaScript | 859 | [Open](https://github.com/open-gsd/get-shit-done-redux) |
-| 4 | Tong89/smartNode | Python | 707 | [Open](https://github.com/Tong89/smartNode) |
-| 5 | kageroumado/phosphene | Swift | 673 | [Open](https://github.com/kageroumado/phosphene) |
-| 6 | 0xSero/codex-shim | Python | 593 | [Open](https://github.com/0xSero/codex-shim) |
-| 7 | run-liyi/wechatpay | JavaScript | 538 | [Open](https://github.com/run-liyi/wechatpay) |
-| 8 | MoonshotAI/kimi-code | TypeScript | 511 | [Open](https://github.com/MoonshotAI/kimi-code) |
-| 9 | zhaoyue4810/pianke | Python | 400 | [Open](https://github.com/zhaoyue4810/pianke) |
-| 10 | Unclecheng-li/poc-lab | C | 364 | [Open](https://github.com/Unclecheng-li/poc-lab) |
+| 1 | Tong89/smartNode | Python | 1139 | [Open](https://github.com/Tong89/smartNode) |
+| 2 | open-gsd/get-shit-done-redux | JavaScript | 1106 | [Open](https://github.com/open-gsd/get-shit-done-redux) |
+| 3 | run-liyi/wechatpay | JavaScript | 807 | [Open](https://github.com/run-liyi/wechatpay) |
+| 4 | MoonshotAI/kimi-code | TypeScript | 729 | [Open](https://github.com/MoonshotAI/kimi-code) |
+| 5 | 0xSero/codex-shim | Python | 636 | [Open](https://github.com/0xSero/codex-shim) |
+| 6 | zhaoyue4810/pianke | Python | 438 | [Open](https://github.com/zhaoyue4810/pianke) |
+| 7 | ShinyaTomitsuka/arbitrage-trading-bot | TypeScript | 340 | [Open](https://github.com/ShinyaTomitsuka/arbitrage-trading-bot) |
+| 8 | md0070/polymarket-trading-bot | TypeScript | 316 | [Open](https://github.com/md0070/polymarket-trading-bot) |
+| 9 | XingYu-Zhong/DeepSeek-GUI | TypeScript | 315 | [Open](https://github.com/XingYu-Zhong/DeepSeek-GUI) |
+| 10 | VILA-Lab/FigMirror | Python | 311 | [Open](https://github.com/VILA-Lab/FigMirror) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
