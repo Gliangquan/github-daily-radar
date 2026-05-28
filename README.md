@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-27T02:04:56.409Z
+Updated: 2026-05-28T01:48:34.390Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | Tong89/smartNode | Python | 1139 | [Open](https://github.com/Tong89/smartNode) |
-| 2 | open-gsd/get-shit-done-redux | JavaScript | 1106 | [Open](https://github.com/open-gsd/get-shit-done-redux) |
-| 3 | run-liyi/wechatpay | JavaScript | 807 | [Open](https://github.com/run-liyi/wechatpay) |
-| 4 | MoonshotAI/kimi-code | TypeScript | 729 | [Open](https://github.com/MoonshotAI/kimi-code) |
-| 5 | 0xSero/codex-shim | Python | 636 | [Open](https://github.com/0xSero/codex-shim) |
-| 6 | zhaoyue4810/pianke | Python | 438 | [Open](https://github.com/zhaoyue4810/pianke) |
-| 7 | ShinyaTomitsuka/arbitrage-trading-bot | TypeScript | 340 | [Open](https://github.com/ShinyaTomitsuka/arbitrage-trading-bot) |
-| 8 | md0070/polymarket-trading-bot | TypeScript | 316 | [Open](https://github.com/md0070/polymarket-trading-bot) |
-| 9 | XingYu-Zhong/DeepSeek-GUI | TypeScript | 315 | [Open](https://github.com/XingYu-Zhong/DeepSeek-GUI) |
-| 10 | VILA-Lab/FigMirror | Python | 311 | [Open](https://github.com/VILA-Lab/FigMirror) |
+| 1 | open-gsd/get-shit-done-redux | JavaScript | 1346 | [Open](https://github.com/open-gsd/get-shit-done-redux) |
+| 2 | MoonshotAI/kimi-code | TypeScript | 889 | [Open](https://github.com/MoonshotAI/kimi-code) |
+| 3 | 0xSero/codex-shim | Python | 660 | [Open](https://github.com/0xSero/codex-shim) |
+| 4 | study8677/awesome-architecture | Vue | 571 | [Open](https://github.com/study8677/awesome-architecture) |
+| 5 | zhaoyue4810/pianke | Python | 502 | [Open](https://github.com/zhaoyue4810/pianke) |
+| 6 | UditAkhourii/adhd | TypeScript | 356 | [Open](https://github.com/UditAkhourii/adhd) |
+| 7 | VILA-Lab/FigMirror | Python | 332 | [Open](https://github.com/VILA-Lab/FigMirror) |
+| 8 | jianshuo/ccglass | JavaScript | 314 | [Open](https://github.com/jianshuo/ccglass) |
+| 9 | yui540/comimi | TypeScript | 312 | [Open](https://github.com/yui540/comimi) |
+| 10 | SigmaTradeLabs/aster-bot | JavaScript | 307 | [Open](https://github.com/SigmaTradeLabs/aster-bot) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
