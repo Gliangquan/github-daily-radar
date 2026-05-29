@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-28T01:48:34.390Z
+Updated: 2026-05-29T01:57:34.340Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | open-gsd/get-shit-done-redux | JavaScript | 1346 | [Open](https://github.com/open-gsd/get-shit-done-redux) |
-| 2 | MoonshotAI/kimi-code | TypeScript | 889 | [Open](https://github.com/MoonshotAI/kimi-code) |
-| 3 | 0xSero/codex-shim | Python | 660 | [Open](https://github.com/0xSero/codex-shim) |
-| 4 | study8677/awesome-architecture | Vue | 571 | [Open](https://github.com/study8677/awesome-architecture) |
-| 5 | zhaoyue4810/pianke | Python | 502 | [Open](https://github.com/zhaoyue4810/pianke) |
-| 6 | UditAkhourii/adhd | TypeScript | 356 | [Open](https://github.com/UditAkhourii/adhd) |
-| 7 | VILA-Lab/FigMirror | Python | 332 | [Open](https://github.com/VILA-Lab/FigMirror) |
-| 8 | jianshuo/ccglass | JavaScript | 314 | [Open](https://github.com/jianshuo/ccglass) |
-| 9 | yui540/comimi | TypeScript | 312 | [Open](https://github.com/yui540/comimi) |
-| 10 | SigmaTradeLabs/aster-bot | JavaScript | 307 | [Open](https://github.com/SigmaTradeLabs/aster-bot) |
+| 1 | op7418/guizang-social-card-skill | HTML | 798 | [Open](https://github.com/op7418/guizang-social-card-skill) |
+| 2 | study8677/awesome-architecture | Vue | 730 | [Open](https://github.com/study8677/awesome-architecture) |
+| 3 | UditAkhourii/adhd | TypeScript | 471 | [Open](https://github.com/UditAkhourii/adhd) |
+| 4 | harrietteehisqu7759383/kms-pico-latest-april-2026 | C# | 448 | [Open](https://github.com/harrietteehisqu7759383/kms-pico-latest-april-2026) |
+| 5 | alfiyahkamilah1239298/WallpaperDownloader-26 | TypeScript | 398 | [Open](https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26) |
+| 6 | FlashML-org/flashlib | Python | 364 | [Open](https://github.com/FlashML-org/flashlib) |
+| 7 | SigmaTradeLabs/aster-bot | JavaScript | 343 | [Open](https://github.com/SigmaTradeLabs/aster-bot) |
+| 8 | Novaquant-labs/hyperliquid-trading-bot | Python | 343 | [Open](https://github.com/Novaquant-labs/hyperliquid-trading-bot) |
+| 9 | cortneymanieri50677828029/RBX-Executor-Version-2026 | C# | 341 | [Open](https://github.com/cortneymanieri50677828029/RBX-Executor-Version-2026) |
+| 10 | Outcome-Signal-Forge/trading-bot | TypeScript | 340 | [Open](https://github.com/Outcome-Signal-Forge/trading-bot) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
