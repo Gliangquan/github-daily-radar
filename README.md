@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-29T01:57:34.340Z
+Updated: 2026-05-30T01:52:39.720Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | op7418/guizang-social-card-skill | HTML | 798 | [Open](https://github.com/op7418/guizang-social-card-skill) |
-| 2 | study8677/awesome-architecture | Vue | 730 | [Open](https://github.com/study8677/awesome-architecture) |
-| 3 | UditAkhourii/adhd | TypeScript | 471 | [Open](https://github.com/UditAkhourii/adhd) |
-| 4 | harrietteehisqu7759383/kms-pico-latest-april-2026 | C# | 448 | [Open](https://github.com/harrietteehisqu7759383/kms-pico-latest-april-2026) |
-| 5 | alfiyahkamilah1239298/WallpaperDownloader-26 | TypeScript | 398 | [Open](https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26) |
-| 6 | FlashML-org/flashlib | Python | 364 | [Open](https://github.com/FlashML-org/flashlib) |
-| 7 | SigmaTradeLabs/aster-bot | JavaScript | 343 | [Open](https://github.com/SigmaTradeLabs/aster-bot) |
-| 8 | Novaquant-labs/hyperliquid-trading-bot | Python | 343 | [Open](https://github.com/Novaquant-labs/hyperliquid-trading-bot) |
-| 9 | cortneymanieri50677828029/RBX-Executor-Version-2026 | C# | 341 | [Open](https://github.com/cortneymanieri50677828029/RBX-Executor-Version-2026) |
-| 10 | Outcome-Signal-Forge/trading-bot | TypeScript | 340 | [Open](https://github.com/Outcome-Signal-Forge/trading-bot) |
+| 1 | op7418/guizang-social-card-skill | HTML | 1170 | [Open](https://github.com/op7418/guizang-social-card-skill) |
+| 2 | helloianneo/ian-xiaohei-illustrations | Unknown | 828 | [Open](https://github.com/helloianneo/ian-xiaohei-illustrations) |
+| 3 | UditAkhourii/adhd | TypeScript | 516 | [Open](https://github.com/UditAkhourii/adhd) |
+| 4 | withkynam/vibecode-pro-max-kit | JavaScript | 507 | [Open](https://github.com/withkynam/vibecode-pro-max-kit) |
+| 5 | harrietteehisqu7759383/kms-pico-latest-april-2026 | C# | 449 | [Open](https://github.com/harrietteehisqu7759383/kms-pico-latest-april-2026) |
+| 6 | Michaelliv/pi-dynamic-workflows | TypeScript | 437 | [Open](https://github.com/Michaelliv/pi-dynamic-workflows) |
+| 7 | baoweise-bot/aimili-vpngate | Python | 406 | [Open](https://github.com/baoweise-bot/aimili-vpngate) |
+| 8 | alfiyahkamilah1239298/WallpaperDownloader-26 | TypeScript | 400 | [Open](https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26) |
+| 9 | Sophomoresty/gemini-web2api | Python | 393 | [Open](https://github.com/Sophomoresty/gemini-web2api) |
+| 10 | FlashML-org/flashlib | Python | 392 | [Open](https://github.com/FlashML-org/flashlib) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
