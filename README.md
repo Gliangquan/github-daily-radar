@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-30T01:52:39.720Z
+Updated: 2026-05-31T02:06:04.285Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | op7418/guizang-social-card-skill | HTML | 1170 | [Open](https://github.com/op7418/guizang-social-card-skill) |
-| 2 | helloianneo/ian-xiaohei-illustrations | Unknown | 828 | [Open](https://github.com/helloianneo/ian-xiaohei-illustrations) |
-| 3 | UditAkhourii/adhd | TypeScript | 516 | [Open](https://github.com/UditAkhourii/adhd) |
-| 4 | withkynam/vibecode-pro-max-kit | JavaScript | 507 | [Open](https://github.com/withkynam/vibecode-pro-max-kit) |
-| 5 | harrietteehisqu7759383/kms-pico-latest-april-2026 | C# | 449 | [Open](https://github.com/harrietteehisqu7759383/kms-pico-latest-april-2026) |
-| 6 | Michaelliv/pi-dynamic-workflows | TypeScript | 437 | [Open](https://github.com/Michaelliv/pi-dynamic-workflows) |
-| 7 | baoweise-bot/aimili-vpngate | Python | 406 | [Open](https://github.com/baoweise-bot/aimili-vpngate) |
-| 8 | alfiyahkamilah1239298/WallpaperDownloader-26 | TypeScript | 400 | [Open](https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26) |
-| 9 | Sophomoresty/gemini-web2api | Python | 393 | [Open](https://github.com/Sophomoresty/gemini-web2api) |
-| 10 | FlashML-org/flashlib | Python | 392 | [Open](https://github.com/FlashML-org/flashlib) |
+| 1 | op7418/guizang-social-card-skill | HTML | 1630 | [Open](https://github.com/op7418/guizang-social-card-skill) |
+| 2 | helloianneo/ian-xiaohei-illustrations | Unknown | 1140 | [Open](https://github.com/helloianneo/ian-xiaohei-illustrations) |
+| 3 | UditAkhourii/adhd | TypeScript | 603 | [Open](https://github.com/UditAkhourii/adhd) |
+| 4 | MatinSenPai/SenPaiScanner | Go | 595 | [Open](https://github.com/MatinSenPai/SenPaiScanner) |
+| 5 | withkynam/vibecode-pro-max-kit | JavaScript | 594 | [Open](https://github.com/withkynam/vibecode-pro-max-kit) |
+| 6 | Michaelliv/pi-dynamic-workflows | TypeScript | 576 | [Open](https://github.com/Michaelliv/pi-dynamic-workflows) |
+| 7 | Sophomoresty/gemini-web2api | Python | 526 | [Open](https://github.com/Sophomoresty/gemini-web2api) |
+| 8 | baoweise-bot/aimili-vpngate | Python | 512 | [Open](https://github.com/baoweise-bot/aimili-vpngate) |
+| 9 | 2aronS/Duel-Agents | TypeScript | 461 | [Open](https://github.com/2aronS/Duel-Agents) |
+| 10 | nv-tlabs/Gamma-World | Unknown | 430 | [Open](https://github.com/nv-tlabs/Gamma-World) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
