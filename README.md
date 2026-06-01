@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-05-31T02:06:04.285Z
+Updated: 2026-06-01T02:14:58.777Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | op7418/guizang-social-card-skill | HTML | 1630 | [Open](https://github.com/op7418/guizang-social-card-skill) |
-| 2 | helloianneo/ian-xiaohei-illustrations | Unknown | 1140 | [Open](https://github.com/helloianneo/ian-xiaohei-illustrations) |
-| 3 | UditAkhourii/adhd | TypeScript | 603 | [Open](https://github.com/UditAkhourii/adhd) |
-| 4 | MatinSenPai/SenPaiScanner | Go | 595 | [Open](https://github.com/MatinSenPai/SenPaiScanner) |
-| 5 | withkynam/vibecode-pro-max-kit | JavaScript | 594 | [Open](https://github.com/withkynam/vibecode-pro-max-kit) |
-| 6 | Michaelliv/pi-dynamic-workflows | TypeScript | 576 | [Open](https://github.com/Michaelliv/pi-dynamic-workflows) |
-| 7 | Sophomoresty/gemini-web2api | Python | 526 | [Open](https://github.com/Sophomoresty/gemini-web2api) |
-| 8 | baoweise-bot/aimili-vpngate | Python | 512 | [Open](https://github.com/baoweise-bot/aimili-vpngate) |
-| 9 | 2aronS/Duel-Agents | TypeScript | 461 | [Open](https://github.com/2aronS/Duel-Agents) |
-| 10 | nv-tlabs/Gamma-World | Unknown | 430 | [Open](https://github.com/nv-tlabs/Gamma-World) |
+| 1 | pewdiepie-archdaemon/odysseus | JavaScript | 8276 | [Open](https://github.com/pewdiepie-archdaemon/odysseus) |
+| 2 | op7418/guizang-social-card-skill | HTML | 2072 | [Open](https://github.com/op7418/guizang-social-card-skill) |
+| 3 | helloianneo/ian-xiaohei-illustrations | Unknown | 1448 | [Open](https://github.com/helloianneo/ian-xiaohei-illustrations) |
+| 4 | GordenSun/GordenPPTSkill | Python | 907 | [Open](https://github.com/GordenSun/GordenPPTSkill) |
+| 5 | Sophomoresty/gemini-web2api | Python | 907 | [Open](https://github.com/Sophomoresty/gemini-web2api) |
+| 6 | MatinSenPai/SenPaiScanner | Go | 803 | [Open](https://github.com/MatinSenPai/SenPaiScanner) |
+| 7 | withkynam/vibecode-pro-max-kit | JavaScript | 668 | [Open](https://github.com/withkynam/vibecode-pro-max-kit) |
+| 8 | Michaelliv/pi-dynamic-workflows | TypeScript | 634 | [Open](https://github.com/Michaelliv/pi-dynamic-workflows) |
+| 9 | 2aronS/Duel-Agents | TypeScript | 574 | [Open](https://github.com/2aronS/Duel-Agents) |
+| 10 | ace-trump-tech/DeltaForce-OBS-Locker | Python | 494 | [Open](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
