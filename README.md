@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-02T02:15:14.595Z
+Updated: 2026-06-03T02:33:41.424Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | pewdiepie-archdaemon/odysseus | JavaScript | 21409 | [Open](https://github.com/pewdiepie-archdaemon/odysseus) |
-| 2 | op7418/guizang-social-card-skill | HTML | 2433 | [Open](https://github.com/op7418/guizang-social-card-skill) |
-| 3 | helloianneo/ian-xiaohei-illustrations | Unknown | 1630 | [Open](https://github.com/helloianneo/ian-xiaohei-illustrations) |
-| 4 | GordenSun/GordenPPTSkill | Python | 1432 | [Open](https://github.com/GordenSun/GordenPPTSkill) |
-| 5 | Sophomoresty/gemini-web2api | Python | 1067 | [Open](https://github.com/Sophomoresty/gemini-web2api) |
-| 6 | MatinSenPai/SenPaiScanner | Go | 857 | [Open](https://github.com/MatinSenPai/SenPaiScanner) |
-| 7 | Michaelliv/pi-dynamic-workflows | TypeScript | 705 | [Open](https://github.com/Michaelliv/pi-dynamic-workflows) |
-| 8 | withkynam/vibecode-pro-max-kit | JavaScript | 700 | [Open](https://github.com/withkynam/vibecode-pro-max-kit) |
-| 9 | asz798838958/aBaiAutoplus | Python | 663 | [Open](https://github.com/asz798838958/aBaiAutoplus) |
-| 10 | 2aronS/Duel-Agents | TypeScript | 640 | [Open](https://github.com/2aronS/Duel-Agents) |
+| 1 | pewdiepie-archdaemon/odysseus | JavaScript | 33804 | [Open](https://github.com/pewdiepie-archdaemon/odysseus) |
+| 2 | Gloridust/WechatOnCloud | TypeScript | 1507 | [Open](https://github.com/Gloridust/WechatOnCloud) |
+| 3 | Sophomoresty/gemini-web2api | Python | 1263 | [Open](https://github.com/Sophomoresty/gemini-web2api) |
+| 4 | asz798838958/aBaiAutoplus | Python | 1071 | [Open](https://github.com/asz798838958/aBaiAutoplus) |
+| 5 | MatinSenPai/SenPaiScanner | Go | 905 | [Open](https://github.com/MatinSenPai/SenPaiScanner) |
+| 6 | b-nnett/goose | Rust | 767 | [Open](https://github.com/b-nnett/goose) |
+| 7 | Michaelliv/pi-dynamic-workflows | TypeScript | 740 | [Open](https://github.com/Michaelliv/pi-dynamic-workflows) |
+| 8 | 2aronS/Duel-Agents | TypeScript | 683 | [Open](https://github.com/2aronS/Duel-Agents) |
+| 9 | ClaudioDrews/memory-os | Python | 641 | [Open](https://github.com/ClaudioDrews/memory-os) |
+| 10 | liyue-aigc/female-portrait-director | Unknown | 488 | [Open](https://github.com/liyue-aigc/female-portrait-director) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
