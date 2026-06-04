@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-03T02:33:41.424Z
+Updated: 2026-06-04T02:29:45.119Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | pewdiepie-archdaemon/odysseus | JavaScript | 33804 | [Open](https://github.com/pewdiepie-archdaemon/odysseus) |
-| 2 | Gloridust/WechatOnCloud | TypeScript | 1507 | [Open](https://github.com/Gloridust/WechatOnCloud) |
-| 3 | Sophomoresty/gemini-web2api | Python | 1263 | [Open](https://github.com/Sophomoresty/gemini-web2api) |
-| 4 | asz798838958/aBaiAutoplus | Python | 1071 | [Open](https://github.com/asz798838958/aBaiAutoplus) |
-| 5 | MatinSenPai/SenPaiScanner | Go | 905 | [Open](https://github.com/MatinSenPai/SenPaiScanner) |
-| 6 | b-nnett/goose | Rust | 767 | [Open](https://github.com/b-nnett/goose) |
-| 7 | Michaelliv/pi-dynamic-workflows | TypeScript | 740 | [Open](https://github.com/Michaelliv/pi-dynamic-workflows) |
-| 8 | 2aronS/Duel-Agents | TypeScript | 683 | [Open](https://github.com/2aronS/Duel-Agents) |
-| 9 | ClaudioDrews/memory-os | Python | 641 | [Open](https://github.com/ClaudioDrews/memory-os) |
-| 10 | liyue-aigc/female-portrait-director | Unknown | 488 | [Open](https://github.com/liyue-aigc/female-portrait-director) |
+| 1 | pewdiepie-archdaemon/odysseus | JavaScript | 44171 | [Open](https://github.com/pewdiepie-archdaemon/odysseus) |
+| 2 | Gloridust/WechatOnCloud | TypeScript | 1948 | [Open](https://github.com/Gloridust/WechatOnCloud) |
+| 3 | b-nnett/goose | Rust | 1474 | [Open](https://github.com/b-nnett/goose) |
+| 4 | asz798838958/aBaiAutoplus | Python | 1402 | [Open](https://github.com/asz798838958/aBaiAutoplus) |
+| 5 | zgwl/chinese-buy-us-stock-guide | Unknown | 1158 | [Open](https://github.com/zgwl/chinese-buy-us-stock-guide) |
+| 6 | cpaczek/skylight | TypeScript | 814 | [Open](https://github.com/cpaczek/skylight) |
+| 7 | ClaudioDrews/memory-os | Python | 760 | [Open](https://github.com/ClaudioDrews/memory-os) |
+| 8 | SenhorH/tab-labeler | TypeScript | 561 | [Open](https://github.com/SenhorH/tab-labeler) |
+| 9 | qiuqiubuchongle-cloud/chokepoint-atlas | Python | 529 | [Open](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas) |
+| 10 | liyue-aigc/female-portrait-director | Unknown | 505 | [Open](https://github.com/liyue-aigc/female-portrait-director) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
