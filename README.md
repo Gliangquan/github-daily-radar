@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-04T02:29:45.119Z
+Updated: 2026-06-05T02:04:23.608Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | pewdiepie-archdaemon/odysseus | JavaScript | 44171 | [Open](https://github.com/pewdiepie-archdaemon/odysseus) |
-| 2 | Gloridust/WechatOnCloud | TypeScript | 1948 | [Open](https://github.com/Gloridust/WechatOnCloud) |
-| 3 | b-nnett/goose | Rust | 1474 | [Open](https://github.com/b-nnett/goose) |
-| 4 | asz798838958/aBaiAutoplus | Python | 1402 | [Open](https://github.com/asz798838958/aBaiAutoplus) |
-| 5 | zgwl/chinese-buy-us-stock-guide | Unknown | 1158 | [Open](https://github.com/zgwl/chinese-buy-us-stock-guide) |
-| 6 | cpaczek/skylight | TypeScript | 814 | [Open](https://github.com/cpaczek/skylight) |
-| 7 | ClaudioDrews/memory-os | Python | 760 | [Open](https://github.com/ClaudioDrews/memory-os) |
-| 8 | SenhorH/tab-labeler | TypeScript | 561 | [Open](https://github.com/SenhorH/tab-labeler) |
-| 9 | qiuqiubuchongle-cloud/chokepoint-atlas | Python | 529 | [Open](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas) |
-| 10 | liyue-aigc/female-portrait-director | Unknown | 505 | [Open](https://github.com/liyue-aigc/female-portrait-director) |
+| 1 | pewdiepie-archdaemon/odysseus | Python | 51431 | [Open](https://github.com/pewdiepie-archdaemon/odysseus) |
+| 2 | zgwl/chinese-buy-us-stock-guide | Unknown | 2771 | [Open](https://github.com/zgwl/chinese-buy-us-stock-guide) |
+| 3 | b-nnett/goose | Rust | 1873 | [Open](https://github.com/b-nnett/goose) |
+| 4 | asz798838958/aBaiAutoplus | Python | 1485 | [Open](https://github.com/asz798838958/aBaiAutoplus) |
+| 5 | cpaczek/skylight | TypeScript | 1225 | [Open](https://github.com/cpaczek/skylight) |
+| 6 | ClaudioDrews/memory-os | Python | 829 | [Open](https://github.com/ClaudioDrews/memory-os) |
+| 7 | qiuqiubuchongle-cloud/chokepoint-atlas | Python | 559 | [Open](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas) |
+| 8 | liyue-aigc/female-portrait-director | Unknown | 510 | [Open](https://github.com/liyue-aigc/female-portrait-director) |
+| 9 | anomalyco/rift | Rust | 506 | [Open](https://github.com/anomalyco/rift) |
+| 10 | SenhorH/tab-labeler | TypeScript | 459 | [Open](https://github.com/SenhorH/tab-labeler) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
