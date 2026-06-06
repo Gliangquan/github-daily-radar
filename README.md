@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-05T02:04:23.608Z
+Updated: 2026-06-06T01:55:44.157Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | pewdiepie-archdaemon/odysseus | Python | 51431 | [Open](https://github.com/pewdiepie-archdaemon/odysseus) |
-| 2 | zgwl/chinese-buy-us-stock-guide | Unknown | 2771 | [Open](https://github.com/zgwl/chinese-buy-us-stock-guide) |
-| 3 | b-nnett/goose | Rust | 1873 | [Open](https://github.com/b-nnett/goose) |
-| 4 | asz798838958/aBaiAutoplus | Python | 1485 | [Open](https://github.com/asz798838958/aBaiAutoplus) |
-| 5 | cpaczek/skylight | TypeScript | 1225 | [Open](https://github.com/cpaczek/skylight) |
-| 6 | ClaudioDrews/memory-os | Python | 829 | [Open](https://github.com/ClaudioDrews/memory-os) |
-| 7 | qiuqiubuchongle-cloud/chokepoint-atlas | Python | 559 | [Open](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas) |
-| 8 | liyue-aigc/female-portrait-director | Unknown | 510 | [Open](https://github.com/liyue-aigc/female-portrait-director) |
-| 9 | anomalyco/rift | Rust | 506 | [Open](https://github.com/anomalyco/rift) |
-| 10 | SenhorH/tab-labeler | TypeScript | 459 | [Open](https://github.com/SenhorH/tab-labeler) |
+| 1 | pewdiepie-archdaemon/odysseus | Python | 55813 | [Open](https://github.com/pewdiepie-archdaemon/odysseus) |
+| 2 | b-nnett/goose | Rust | 2120 | [Open](https://github.com/b-nnett/goose) |
+| 3 | cpaczek/skylight | TypeScript | 1689 | [Open](https://github.com/cpaczek/skylight) |
+| 4 | asz798838958/aBaiAutoplus | Python | 1533 | [Open](https://github.com/asz798838958/aBaiAutoplus) |
+| 5 | ClaudioDrews/memory-os | Python | 882 | [Open](https://github.com/ClaudioDrews/memory-os) |
+| 6 | qiuqiubuchongle-cloud/chokepoint-atlas | Python | 583 | [Open](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas) |
+| 7 | jd-opensource/JoyAI-Echo | Python | 573 | [Open](https://github.com/jd-opensource/JoyAI-Echo) |
+| 8 | anomalyco/rift | Rust | 532 | [Open](https://github.com/anomalyco/rift) |
+| 9 | tastyeffectco/sandboxes | Go | 439 | [Open](https://github.com/tastyeffectco/sandboxes) |
+| 10 | tiantianGPU/reg-factory | Python | 435 | [Open](https://github.com/tiantianGPU/reg-factory) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
