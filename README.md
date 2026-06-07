@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-06T01:55:44.157Z
+Updated: 2026-06-07T02:10:39.654Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | pewdiepie-archdaemon/odysseus | Python | 55813 | [Open](https://github.com/pewdiepie-archdaemon/odysseus) |
-| 2 | b-nnett/goose | Rust | 2120 | [Open](https://github.com/b-nnett/goose) |
-| 3 | cpaczek/skylight | TypeScript | 1689 | [Open](https://github.com/cpaczek/skylight) |
-| 4 | asz798838958/aBaiAutoplus | Python | 1533 | [Open](https://github.com/asz798838958/aBaiAutoplus) |
-| 5 | ClaudioDrews/memory-os | Python | 882 | [Open](https://github.com/ClaudioDrews/memory-os) |
-| 6 | qiuqiubuchongle-cloud/chokepoint-atlas | Python | 583 | [Open](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas) |
-| 7 | jd-opensource/JoyAI-Echo | Python | 573 | [Open](https://github.com/jd-opensource/JoyAI-Echo) |
-| 8 | anomalyco/rift | Rust | 532 | [Open](https://github.com/anomalyco/rift) |
-| 9 | tastyeffectco/sandboxes | Go | 439 | [Open](https://github.com/tastyeffectco/sandboxes) |
-| 10 | tiantianGPU/reg-factory | Python | 435 | [Open](https://github.com/tiantianGPU/reg-factory) |
+| 1 | b-nnett/goose | Rust | 2168 | [Open](https://github.com/b-nnett/goose) |
+| 2 | cpaczek/skylight | TypeScript | 2085 | [Open](https://github.com/cpaczek/skylight) |
+| 3 | jd-opensource/JoyAI-Echo | Python | 716 | [Open](https://github.com/jd-opensource/JoyAI-Echo) |
+| 4 | qiuqiubuchongle-cloud/chokepoint-atlas | Python | 590 | [Open](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas) |
+| 5 | VAST-AI-Research/TripoSplat | Python | 494 | [Open](https://github.com/VAST-AI-Research/TripoSplat) |
+| 6 | tastyeffectco/sandboxes | Go | 471 | [Open](https://github.com/tastyeffectco/sandboxes) |
+| 7 | Jane-xiaoer/xiaoer-videolab | JavaScript | 452 | [Open](https://github.com/Jane-xiaoer/xiaoer-videolab) |
+| 8 | tiantianGPU/reg-factory | Python | 443 | [Open](https://github.com/tiantianGPU/reg-factory) |
+| 9 | Fullive-AI/Anima | Python | 392 | [Open](https://github.com/Fullive-AI/Anima) |
+| 10 | S-Sigdel/vimhjkl | Python | 385 | [Open](https://github.com/S-Sigdel/vimhjkl) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
