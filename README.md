@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-08T02:28:10.734Z
+Updated: 2026-06-09T01:52:52.168Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | cpaczek/skylight | TypeScript | 2269 | [Open](https://github.com/cpaczek/skylight) |
-| 2 | b-nnett/goose | Rust | 2257 | [Open](https://github.com/b-nnett/goose) |
-| 3 | jd-opensource/JoyAI-Echo | Python | 862 | [Open](https://github.com/jd-opensource/JoyAI-Echo) |
-| 4 | tastyeffectco/sandboxd | Go | 497 | [Open](https://github.com/tastyeffectco/sandboxd) |
-| 5 | Jane-xiaoer/xiaoer-videolab | JavaScript | 468 | [Open](https://github.com/Jane-xiaoer/xiaoer-videolab) |
-| 6 | zenhosta/9drive | TypeScript | 405 | [Open](https://github.com/zenhosta/9drive) |
-| 7 | jeff141/meatshell | Rust | 389 | [Open](https://github.com/jeff141/meatshell) |
-| 8 | nevertoday/zhongguo-traditional-colors | JavaScript | 346 | [Open](https://github.com/nevertoday/zhongguo-traditional-colors) |
-| 9 | amElnagdy/guard-skills | Unknown | 330 | [Open](https://github.com/amElnagdy/guard-skills) |
-| 10 | SenhorH/tab-labeler | TypeScript | 328 | [Open](https://github.com/SenhorH/tab-labeler) |
+| 1 | NoopApp/noop | Swift | 534 | [Open](https://github.com/NoopApp/noop) |
+| 2 | diffusionstudio/lottie | TypeScript | 527 | [Open](https://github.com/diffusionstudio/lottie) |
+| 3 | JimLiu/baoyu-design | JavaScript | 525 | [Open](https://github.com/JimLiu/baoyu-design) |
+| 4 | tastyeffectco/sandboxd | Go | 514 | [Open](https://github.com/tastyeffectco/sandboxd) |
+| 5 | Jane-xiaoer/xiaoer-videolab | JavaScript | 482 | [Open](https://github.com/Jane-xiaoer/xiaoer-videolab) |
+| 6 | amElnagdy/guard-skills | Unknown | 470 | [Open](https://github.com/amElnagdy/guard-skills) |
+| 7 | nevertoday/zhongguo-traditional-colors | JavaScript | 451 | [Open](https://github.com/nevertoday/zhongguo-traditional-colors) |
+| 8 | zenhosta/9drive | TypeScript | 449 | [Open](https://github.com/zenhosta/9drive) |
+| 9 | jeff141/meatshell | Rust | 425 | [Open](https://github.com/jeff141/meatshell) |
+| 10 | GordenSun/GordenSuperPPTSkills | Python | 419 | [Open](https://github.com/GordenSun/GordenSuperPPTSkills) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
