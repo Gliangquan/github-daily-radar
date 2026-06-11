@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-10T02:04:03.955Z
+Updated: 2026-06-11T02:15:35.064Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | diffusionstudio/lottie | TypeScript | 1513 | [Open](https://github.com/diffusionstudio/lottie) |
-| 2 | NoopApp/noop | Swift | 1036 | [Open](https://github.com/NoopApp/noop) |
-| 3 | JimLiu/baoyu-design | JavaScript | 640 | [Open](https://github.com/JimLiu/baoyu-design) |
-| 4 | GordenSun/GordenSuperPPTSkills | Python | 616 | [Open](https://github.com/GordenSun/GordenSuperPPTSkills) |
-| 5 | vorpus/performativeUI | TypeScript | 522 | [Open](https://github.com/vorpus/performativeUI) |
-| 6 | amElnagdy/guard-skills | Unknown | 517 | [Open](https://github.com/amElnagdy/guard-skills) |
-| 7 | Jane-xiaoer/xiaoer-videolab | JavaScript | 493 | [Open](https://github.com/Jane-xiaoer/xiaoer-videolab) |
-| 8 | zenhosta/9drive | TypeScript | 473 | [Open](https://github.com/zenhosta/9drive) |
-| 9 | jeff141/meatshell | Rust | 472 | [Open](https://github.com/jeff141/meatshell) |
-| 10 | wy51ai/edulab | HTML | 457 | [Open](https://github.com/wy51ai/edulab) |
+| 1 | NoopApp/noop | Swift | 1395 | [Open](https://github.com/NoopApp/noop) |
+| 2 | MSNightmare/RoguePlanet | C++ | 919 | [Open](https://github.com/MSNightmare/RoguePlanet) |
+| 3 | shadcn/improve | Unknown | 892 | [Open](https://github.com/shadcn/improve) |
+| 4 | XiaomiMiMo/MiMo-Code | TypeScript | 856 | [Open](https://github.com/XiaomiMiMo/MiMo-Code) |
+| 5 | GordenSun/GordenSuperPPTSkills | Python | 731 | [Open](https://github.com/GordenSun/GordenSuperPPTSkills) |
+| 6 | JimLiu/baoyu-design | JavaScript | 694 | [Open](https://github.com/JimLiu/baoyu-design) |
+| 7 | apple/coreai-models | Python | 619 | [Open](https://github.com/apple/coreai-models) |
+| 8 | vorpus/performativeUI | TypeScript | 573 | [Open](https://github.com/vorpus/performativeUI) |
+| 9 | amElnagdy/guard-skills | Unknown | 553 | [Open](https://github.com/amElnagdy/guard-skills) |
+| 10 | Tencent-Hunyuan/UniRL | Python | 442 | [Open](https://github.com/Tencent-Hunyuan/UniRL) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
