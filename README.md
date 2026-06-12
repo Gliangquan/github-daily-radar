@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-11T02:15:35.064Z
+Updated: 2026-06-12T02:11:09.955Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | NoopApp/noop | Swift | 1395 | [Open](https://github.com/NoopApp/noop) |
-| 2 | MSNightmare/RoguePlanet | C++ | 919 | [Open](https://github.com/MSNightmare/RoguePlanet) |
-| 3 | shadcn/improve | Unknown | 892 | [Open](https://github.com/shadcn/improve) |
-| 4 | XiaomiMiMo/MiMo-Code | TypeScript | 856 | [Open](https://github.com/XiaomiMiMo/MiMo-Code) |
-| 5 | GordenSun/GordenSuperPPTSkills | Python | 731 | [Open](https://github.com/GordenSun/GordenSuperPPTSkills) |
-| 6 | JimLiu/baoyu-design | JavaScript | 694 | [Open](https://github.com/JimLiu/baoyu-design) |
-| 7 | apple/coreai-models | Python | 619 | [Open](https://github.com/apple/coreai-models) |
-| 8 | vorpus/performativeUI | TypeScript | 573 | [Open](https://github.com/vorpus/performativeUI) |
-| 9 | amElnagdy/guard-skills | Unknown | 553 | [Open](https://github.com/amElnagdy/guard-skills) |
-| 10 | Tencent-Hunyuan/UniRL | Python | 442 | [Open](https://github.com/Tencent-Hunyuan/UniRL) |
+| 1 | XiaomiMiMo/MiMo-Code | TypeScript | 4797 | [Open](https://github.com/XiaomiMiMo/MiMo-Code) |
+| 2 | shadcn/improve | Unknown | 1861 | [Open](https://github.com/shadcn/improve) |
+| 3 | NoopApp/noop | Swift | 1484 | [Open](https://github.com/NoopApp/noop) |
+| 4 | MSNightmare/RoguePlanet | C++ | 1120 | [Open](https://github.com/MSNightmare/RoguePlanet) |
+| 5 | GordenSun/GordenSuperPPTSkills | Python | 790 | [Open](https://github.com/GordenSun/GordenSuperPPTSkills) |
+| 6 | JimLiu/baoyu-design | JavaScript | 776 | [Open](https://github.com/JimLiu/baoyu-design) |
+| 7 | apple/coreai-models | Python | 744 | [Open](https://github.com/apple/coreai-models) |
+| 8 | vorpus/performativeUI | TypeScript | 612 | [Open](https://github.com/vorpus/performativeUI) |
+| 9 | amElnagdy/guard-skills | Unknown | 571 | [Open](https://github.com/amElnagdy/guard-skills) |
+| 10 | Tencent-Hunyuan/UniRL | Python | 524 | [Open](https://github.com/Tencent-Hunyuan/UniRL) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
