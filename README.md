@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-13T02:04:19.291Z
+Updated: 2026-06-14T02:14:41.734Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | XiaomiMiMo/MiMo-Code | TypeScript | 6914 | [Open](https://github.com/XiaomiMiMo/MiMo-Code) |
-| 2 | shadcn/improve | Unknown | 2446 | [Open](https://github.com/shadcn/improve) |
-| 3 | NoopApp/noop | Swift | 1544 | [Open](https://github.com/NoopApp/noop) |
-| 4 | MSNightmare/RoguePlanet | C++ | 1218 | [Open](https://github.com/MSNightmare/RoguePlanet) |
-| 5 | DietrichGebert/ponytail | JavaScript | 941 | [Open](https://github.com/DietrichGebert/ponytail) |
-| 6 | GordenSun/GordenSuperPPTSkills | Python | 846 | [Open](https://github.com/GordenSun/GordenSuperPPTSkills) |
-| 7 | apple/coreai-models | Swift | 834 | [Open](https://github.com/apple/coreai-models) |
-| 8 | JimLiu/baoyu-design | JavaScript | 830 | [Open](https://github.com/JimLiu/baoyu-design) |
-| 9 | vorpus/performativeUI | TypeScript | 661 | [Open](https://github.com/vorpus/performativeUI) |
-| 10 | SkyBlue997/enableMacosAI | Shell | 566 | [Open](https://github.com/SkyBlue997/enableMacosAI) |
+| 1 | XiaomiMiMo/MiMo-Code | TypeScript | 7964 | [Open](https://github.com/XiaomiMiMo/MiMo-Code) |
+| 2 | shadcn/improve | Unknown | 3439 | [Open](https://github.com/shadcn/improve) |
+| 3 | DietrichGebert/ponytail | JavaScript | 1555 | [Open](https://github.com/DietrichGebert/ponytail) |
+| 4 | MSNightmare/RoguePlanet | C++ | 1253 | [Open](https://github.com/MSNightmare/RoguePlanet) |
+| 5 | SkyBlue997/enableMacosAI | Shell | 1001 | [Open](https://github.com/SkyBlue997/enableMacosAI) |
+| 6 | apple/coreai-models | Swift | 874 | [Open](https://github.com/apple/coreai-models) |
+| 7 | plannotator/effective-html | HTML | 753 | [Open](https://github.com/plannotator/effective-html) |
+| 8 | lenucksi/aur-malware-check | Shell | 605 | [Open](https://github.com/lenucksi/aur-malware-check) |
+| 9 | levy-street/world-of-claudecraft | TypeScript | 600 | [Open](https://github.com/levy-street/world-of-claudecraft) |
+| 10 | Tencent-Hunyuan/UniRL | Python | 580 | [Open](https://github.com/Tencent-Hunyuan/UniRL) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
