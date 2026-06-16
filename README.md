@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-15T02:30:08.942Z
+Updated: 2026-06-16T02:33:45.930Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | XiaomiMiMo/MiMo-Code | TypeScript | 8489 | [Open](https://github.com/XiaomiMiMo/MiMo-Code) |
-| 2 | DietrichGebert/ponytail | JavaScript | 8423 | [Open](https://github.com/DietrichGebert/ponytail) |
-| 3 | shadcn/improve | Unknown | 4381 | [Open](https://github.com/shadcn/improve) |
-| 4 | MSNightmare/RoguePlanet | C++ | 1275 | [Open](https://github.com/MSNightmare/RoguePlanet) |
-| 5 | omnigent-ai/omnigent | Python | 1244 | [Open](https://github.com/omnigent-ai/omnigent) |
-| 6 | SkyBlue997/enableMacosAI | Shell | 1196 | [Open](https://github.com/SkyBlue997/enableMacosAI) |
-| 7 | lenucksi/aur-malware-check | Shell | 894 | [Open](https://github.com/lenucksi/aur-malware-check) |
-| 8 | plannotator/effective-html | HTML | 836 | [Open](https://github.com/plannotator/effective-html) |
-| 9 | levy-street/world-of-claudecraft | TypeScript | 702 | [Open](https://github.com/levy-street/world-of-claudecraft) |
-| 10 | tamnd/kage | Go | 668 | [Open](https://github.com/tamnd/kage) |
+| 1 | DietrichGebert/ponytail | JavaScript | 16892 | [Open](https://github.com/DietrichGebert/ponytail) |
+| 2 | XiaomiMiMo/MiMo-Code | TypeScript | 9056 | [Open](https://github.com/XiaomiMiMo/MiMo-Code) |
+| 3 | shadcn/improve | Unknown | 4884 | [Open](https://github.com/shadcn/improve) |
+| 4 | omnigent-ai/omnigent | Python | 1962 | [Open](https://github.com/omnigent-ai/omnigent) |
+| 5 | tamnd/kage | Go | 1561 | [Open](https://github.com/tamnd/kage) |
+| 6 | SkyBlue997/enableMacosAI | Shell | 1289 | [Open](https://github.com/SkyBlue997/enableMacosAI) |
+| 7 | lenucksi/aur-malware-check | Shell | 1186 | [Open](https://github.com/lenucksi/aur-malware-check) |
+| 8 | levy-street/world-of-claudecraft | TypeScript | 796 | [Open](https://github.com/levy-street/world-of-claudecraft) |
+| 9 | orange2ai/renwei-writing | Unknown | 678 | [Open](https://github.com/orange2ai/renwei-writing) |
+| 10 | loc567/loc567 | C | 659 | [Open](https://github.com/loc567/loc567) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
