@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-16T02:33:45.930Z
+Updated: 2026-06-17T02:30:25.557Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | DietrichGebert/ponytail | JavaScript | 16892 | [Open](https://github.com/DietrichGebert/ponytail) |
-| 2 | XiaomiMiMo/MiMo-Code | TypeScript | 9056 | [Open](https://github.com/XiaomiMiMo/MiMo-Code) |
-| 3 | shadcn/improve | Unknown | 4884 | [Open](https://github.com/shadcn/improve) |
-| 4 | omnigent-ai/omnigent | Python | 1962 | [Open](https://github.com/omnigent-ai/omnigent) |
-| 5 | tamnd/kage | Go | 1561 | [Open](https://github.com/tamnd/kage) |
-| 6 | SkyBlue997/enableMacosAI | Shell | 1289 | [Open](https://github.com/SkyBlue997/enableMacosAI) |
-| 7 | lenucksi/aur-malware-check | Shell | 1186 | [Open](https://github.com/lenucksi/aur-malware-check) |
-| 8 | levy-street/world-of-claudecraft | TypeScript | 796 | [Open](https://github.com/levy-street/world-of-claudecraft) |
-| 9 | orange2ai/renwei-writing | Unknown | 678 | [Open](https://github.com/orange2ai/renwei-writing) |
-| 10 | loc567/loc567 | C | 659 | [Open](https://github.com/loc567/loc567) |
+| 1 | DietrichGebert/ponytail | JavaScript | 25582 | [Open](https://github.com/DietrichGebert/ponytail) |
+| 2 | omnigent-ai/omnigent | Python | 2846 | [Open](https://github.com/omnigent-ai/omnigent) |
+| 3 | tamnd/kage | Go | 1766 | [Open](https://github.com/tamnd/kage) |
+| 4 | lenucksi/aur-malware-check | Shell | 1350 | [Open](https://github.com/lenucksi/aur-malware-check) |
+| 5 | EEliberto/IPA-Download | Swift | 843 | [Open](https://github.com/EEliberto/IPA-Download) |
+| 6 | loc567/loc567 | C | 782 | [Open](https://github.com/loc567/loc567) |
+| 7 | orange2ai/renwei-writing | Unknown | 723 | [Open](https://github.com/orange2ai/renwei-writing) |
+| 8 | joeseesun/qiaomu-goal-meta-skill | Python | 632 | [Open](https://github.com/joeseesun/qiaomu-goal-meta-skill) |
+| 9 | nolangz/pixel2motion | Python | 604 | [Open](https://github.com/nolangz/pixel2motion) |
+| 10 | vorssaint/vorssaint-utils | Swift | 514 | [Open](https://github.com/vorssaint/vorssaint-utils) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
