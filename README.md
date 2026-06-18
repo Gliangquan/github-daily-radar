@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-17T02:30:25.557Z
+Updated: 2026-06-18T02:28:09.512Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | DietrichGebert/ponytail | JavaScript | 25582 | [Open](https://github.com/DietrichGebert/ponytail) |
-| 2 | omnigent-ai/omnigent | Python | 2846 | [Open](https://github.com/omnigent-ai/omnigent) |
-| 3 | tamnd/kage | Go | 1766 | [Open](https://github.com/tamnd/kage) |
-| 4 | lenucksi/aur-malware-check | Shell | 1350 | [Open](https://github.com/lenucksi/aur-malware-check) |
-| 5 | EEliberto/IPA-Download | Swift | 843 | [Open](https://github.com/EEliberto/IPA-Download) |
-| 6 | loc567/loc567 | C | 782 | [Open](https://github.com/loc567/loc567) |
-| 7 | orange2ai/renwei-writing | Unknown | 723 | [Open](https://github.com/orange2ai/renwei-writing) |
-| 8 | joeseesun/qiaomu-goal-meta-skill | Python | 632 | [Open](https://github.com/joeseesun/qiaomu-goal-meta-skill) |
-| 9 | nolangz/pixel2motion | Python | 604 | [Open](https://github.com/nolangz/pixel2motion) |
-| 10 | vorssaint/vorssaint-utils | Swift | 514 | [Open](https://github.com/vorssaint/vorssaint-utils) |
+| 1 | DietrichGebert/ponytail | JavaScript | 32070 | [Open](https://github.com/DietrichGebert/ponytail) |
+| 2 | tamnd/kage | Go | 1866 | [Open](https://github.com/tamnd/kage) |
+| 3 | lenucksi/aur-malware-check | Shell | 1463 | [Open](https://github.com/lenucksi/aur-malware-check) |
+| 4 | EEliberto/IPA-Download | Swift | 1019 | [Open](https://github.com/EEliberto/IPA-Download) |
+| 5 | orange2ai/renwei-writing | Unknown | 770 | [Open](https://github.com/orange2ai/renwei-writing) |
+| 6 | vercel/eve | TypeScript | 726 | [Open](https://github.com/vercel/eve) |
+| 7 | nolangz/pixel2motion | Python | 720 | [Open](https://github.com/nolangz/pixel2motion) |
+| 8 | alchaincyf/loop-engineering-orange-book | Unknown | 629 | [Open](https://github.com/alchaincyf/loop-engineering-orange-book) |
+| 9 | vorssaint/vorssaint-utils | Swift | 600 | [Open](https://github.com/vorssaint/vorssaint-utils) |
+| 10 | SunJaycy/GoldenEye-Recomp | C++ | 530 | [Open](https://github.com/SunJaycy/GoldenEye-Recomp) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
