@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-18T02:28:09.512Z
+Updated: 2026-06-19T02:44:23.819Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | DietrichGebert/ponytail | JavaScript | 32070 | [Open](https://github.com/DietrichGebert/ponytail) |
-| 2 | tamnd/kage | Go | 1866 | [Open](https://github.com/tamnd/kage) |
-| 3 | lenucksi/aur-malware-check | Shell | 1463 | [Open](https://github.com/lenucksi/aur-malware-check) |
-| 4 | EEliberto/IPA-Download | Swift | 1019 | [Open](https://github.com/EEliberto/IPA-Download) |
-| 5 | orange2ai/renwei-writing | Unknown | 770 | [Open](https://github.com/orange2ai/renwei-writing) |
-| 6 | vercel/eve | TypeScript | 726 | [Open](https://github.com/vercel/eve) |
-| 7 | nolangz/pixel2motion | Python | 720 | [Open](https://github.com/nolangz/pixel2motion) |
-| 8 | alchaincyf/loop-engineering-orange-book | Unknown | 629 | [Open](https://github.com/alchaincyf/loop-engineering-orange-book) |
-| 9 | vorssaint/vorssaint-utils | Swift | 600 | [Open](https://github.com/vorssaint/vorssaint-utils) |
-| 10 | SunJaycy/GoldenEye-Recomp | C++ | 530 | [Open](https://github.com/SunJaycy/GoldenEye-Recomp) |
+| 1 | tamnd/kage | Go | 2013 | [Open](https://github.com/tamnd/kage) |
+| 2 | vercel/eve | TypeScript | 1389 | [Open](https://github.com/vercel/eve) |
+| 3 | EEliberto/IPA-Download | Swift | 1072 | [Open](https://github.com/EEliberto/IPA-Download) |
+| 4 | Waishnav/devspace | TypeScript | 894 | [Open](https://github.com/Waishnav/devspace) |
+| 5 | alchaincyf/loop-engineering-orange-book | Unknown | 674 | [Open](https://github.com/alchaincyf/loop-engineering-orange-book) |
+| 6 | Plaer1/junction | TypeScript | 510 | [Open](https://github.com/Plaer1/junction) |
+| 7 | mrtooher/fable-mode | Unknown | 500 | [Open](https://github.com/mrtooher/fable-mode) |
+| 8 | fivetaku/fablize | Python | 478 | [Open](https://github.com/fivetaku/fablize) |
+| 9 | royalbhati/sqltoerdiagram | JavaScript | 467 | [Open](https://github.com/royalbhati/sqltoerdiagram) |
+| 10 | rebel0789/codexpro | TypeScript | 397 | [Open](https://github.com/rebel0789/codexpro) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
