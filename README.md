@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-19T02:44:23.819Z
+Updated: 2026-06-20T02:04:51.233Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | tamnd/kage | Go | 2013 | [Open](https://github.com/tamnd/kage) |
-| 2 | vercel/eve | TypeScript | 1389 | [Open](https://github.com/vercel/eve) |
-| 3 | EEliberto/IPA-Download | Swift | 1072 | [Open](https://github.com/EEliberto/IPA-Download) |
-| 4 | Waishnav/devspace | TypeScript | 894 | [Open](https://github.com/Waishnav/devspace) |
-| 5 | alchaincyf/loop-engineering-orange-book | Unknown | 674 | [Open](https://github.com/alchaincyf/loop-engineering-orange-book) |
-| 6 | Plaer1/junction | TypeScript | 510 | [Open](https://github.com/Plaer1/junction) |
-| 7 | mrtooher/fable-mode | Unknown | 500 | [Open](https://github.com/mrtooher/fable-mode) |
-| 8 | fivetaku/fablize | Python | 478 | [Open](https://github.com/fivetaku/fablize) |
-| 9 | royalbhati/sqltoerdiagram | JavaScript | 467 | [Open](https://github.com/royalbhati/sqltoerdiagram) |
-| 10 | rebel0789/codexpro | TypeScript | 397 | [Open](https://github.com/rebel0789/codexpro) |
+| 1 | tamnd/kage | Go | 2098 | [Open](https://github.com/tamnd/kage) |
+| 2 | vercel/eve | TypeScript | 1650 | [Open](https://github.com/vercel/eve) |
+| 3 | Waishnav/devspace | TypeScript | 1413 | [Open](https://github.com/Waishnav/devspace) |
+| 4 | alchaincyf/loop-engineering-orange-book | Unknown | 702 | [Open](https://github.com/alchaincyf/loop-engineering-orange-book) |
+| 5 | Plaer1/junction | TypeScript | 513 | [Open](https://github.com/Plaer1/junction) |
+| 6 | fivetaku/fablize | Python | 505 | [Open](https://github.com/fivetaku/fablize) |
+| 7 | royalbhati/sqltoerdiagram | HTML | 483 | [Open](https://github.com/royalbhati/sqltoerdiagram) |
+| 8 | rebel0789/codexpro | TypeScript | 447 | [Open](https://github.com/rebel0789/codexpro) |
+| 9 | dongshuyan/compass-skills | Python | 348 | [Open](https://github.com/dongshuyan/compass-skills) |
+| 10 | majidmanzarpour/threejs-game-skills | Python | 344 | [Open](https://github.com/majidmanzarpour/threejs-game-skills) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
