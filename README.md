@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-22T02:31:47.425Z
+Updated: 2026-06-23T01:58:20.687Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | vercel/eve | TypeScript | 2089 | [Open](https://github.com/vercel/eve) |
-| 2 | zhongerxin/Cowart | JavaScript | 1278 | [Open](https://github.com/zhongerxin/Cowart) |
-| 3 | rebel0789/codexpro | JavaScript | 628 | [Open](https://github.com/rebel0789/codexpro) |
-| 4 | Forsy-AI/agent-apprenticeship | Unknown | 609 | [Open](https://github.com/Forsy-AI/agent-apprenticeship) |
-| 5 | Plaer1/junction | TypeScript | 518 | [Open](https://github.com/Plaer1/junction) |
-| 6 | ngrok/webernetes | TypeScript | 482 | [Open](https://github.com/ngrok/webernetes) |
-| 7 | boogu-project/Boogu-Image | Python | 396 | [Open](https://github.com/boogu-project/Boogu-Image) |
-| 8 | MstKail/polymarket-trading-bot-services-polyedge365 | Unknown | 379 | [Open](https://github.com/MstKail/polymarket-trading-bot-services-polyedge365) |
-| 9 | ReulgeApmpetty0O/Back-End-Developer-Interview-Questions | Unknown | 363 | [Open](https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions) |
-| 10 | nnecrkvenuOX/formcms | C# | 361 | [Open](https://github.com/nnecrkvenuOX/formcms) |
+| 1 | zhongerxin/Cowart | JavaScript | 2005 | [Open](https://github.com/zhongerxin/Cowart) |
+| 2 | Forsy-AI/agent-apprenticeship | Unknown | 682 | [Open](https://github.com/Forsy-AI/agent-apprenticeship) |
+| 3 | lyra81604/zhengxi-views | Python | 676 | [Open](https://github.com/lyra81604/zhengxi-views) |
+| 4 | aidenybai/cnfast | TypeScript | 665 | [Open](https://github.com/aidenybai/cnfast) |
+| 5 | kanavtwtgg/birds.cafe | JavaScript | 550 | [Open](https://github.com/kanavtwtgg/birds.cafe) |
+| 6 | Plaer1/junction | TypeScript | 526 | [Open](https://github.com/Plaer1/junction) |
+| 7 | baidu/Unlimited-OCR | Python | 494 | [Open](https://github.com/baidu/Unlimited-OCR) |
+| 8 | MstKail/polymarket-trading-bot-services-polyedge365 | Unknown | 396 | [Open](https://github.com/MstKail/polymarket-trading-bot-services-polyedge365) |
+| 9 | nnecrkvenuOX/formcms | C# | 380 | [Open](https://github.com/nnecrkvenuOX/formcms) |
+| 10 | ReulgeApmpetty0O/Back-End-Developer-Interview-Questions | Unknown | 380 | [Open](https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
