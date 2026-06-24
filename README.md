@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-23T01:58:20.687Z
+Updated: 2026-06-24T01:59:07.104Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | zhongerxin/Cowart | JavaScript | 2005 | [Open](https://github.com/zhongerxin/Cowart) |
-| 2 | Forsy-AI/agent-apprenticeship | Unknown | 682 | [Open](https://github.com/Forsy-AI/agent-apprenticeship) |
-| 3 | lyra81604/zhengxi-views | Python | 676 | [Open](https://github.com/lyra81604/zhengxi-views) |
-| 4 | aidenybai/cnfast | TypeScript | 665 | [Open](https://github.com/aidenybai/cnfast) |
-| 5 | kanavtwtgg/birds.cafe | JavaScript | 550 | [Open](https://github.com/kanavtwtgg/birds.cafe) |
-| 6 | Plaer1/junction | TypeScript | 526 | [Open](https://github.com/Plaer1/junction) |
-| 7 | baidu/Unlimited-OCR | Python | 494 | [Open](https://github.com/baidu/Unlimited-OCR) |
-| 8 | MstKail/polymarket-trading-bot-services-polyedge365 | Unknown | 396 | [Open](https://github.com/MstKail/polymarket-trading-bot-services-polyedge365) |
-| 9 | nnecrkvenuOX/formcms | C# | 380 | [Open](https://github.com/nnecrkvenuOX/formcms) |
-| 10 | ReulgeApmpetty0O/Back-End-Developer-Interview-Questions | Unknown | 380 | [Open](https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions) |
+| 1 | baidu/Unlimited-OCR | Python | 3765 | [Open](https://github.com/baidu/Unlimited-OCR) |
+| 2 | zhongerxin/Cowart | JavaScript | 2381 | [Open](https://github.com/zhongerxin/Cowart) |
+| 3 | lyra81604/zhengxi-views | Python | 921 | [Open](https://github.com/lyra81604/zhengxi-views) |
+| 4 | Forsy-AI/agent-apprenticeship | Unknown | 860 | [Open](https://github.com/Forsy-AI/agent-apprenticeship) |
+| 5 | aidenybai/cnfast | TypeScript | 792 | [Open](https://github.com/aidenybai/cnfast) |
+| 6 | kanavtwtgg/birds.cafe | JavaScript | 717 | [Open](https://github.com/kanavtwtgg/birds.cafe) |
+| 7 | bozhouDev/codex-orange-book | HTML | 546 | [Open](https://github.com/bozhouDev/codex-orange-book) |
+| 8 | sums001/Windows-Copilot-API | Python | 535 | [Open](https://github.com/sums001/Windows-Copilot-API) |
+| 9 | cloudflare/security-audit-skill | JavaScript | 495 | [Open](https://github.com/cloudflare/security-audit-skill) |
+| 10 | raiyanyahya/recall | Python | 418 | [Open](https://github.com/raiyanyahya/recall) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
