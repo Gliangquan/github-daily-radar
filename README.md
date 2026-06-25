@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-24T01:59:07.104Z
+Updated: 2026-06-25T02:01:27.992Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | baidu/Unlimited-OCR | Python | 3765 | [Open](https://github.com/baidu/Unlimited-OCR) |
-| 2 | zhongerxin/Cowart | JavaScript | 2381 | [Open](https://github.com/zhongerxin/Cowart) |
-| 3 | lyra81604/zhengxi-views | Python | 921 | [Open](https://github.com/lyra81604/zhengxi-views) |
-| 4 | Forsy-AI/agent-apprenticeship | Unknown | 860 | [Open](https://github.com/Forsy-AI/agent-apprenticeship) |
-| 5 | aidenybai/cnfast | TypeScript | 792 | [Open](https://github.com/aidenybai/cnfast) |
-| 6 | kanavtwtgg/birds.cafe | JavaScript | 717 | [Open](https://github.com/kanavtwtgg/birds.cafe) |
-| 7 | bozhouDev/codex-orange-book | HTML | 546 | [Open](https://github.com/bozhouDev/codex-orange-book) |
-| 8 | sums001/Windows-Copilot-API | Python | 535 | [Open](https://github.com/sums001/Windows-Copilot-API) |
-| 9 | cloudflare/security-audit-skill | JavaScript | 495 | [Open](https://github.com/cloudflare/security-audit-skill) |
-| 10 | raiyanyahya/recall | Python | 418 | [Open](https://github.com/raiyanyahya/recall) |
+| 1 | bozhouDev/codex-orange-book | HTML | 1471 | [Open](https://github.com/bozhouDev/codex-orange-book) |
+| 2 | lyra81604/zhengxi-views | Python | 990 | [Open](https://github.com/lyra81604/zhengxi-views) |
+| 3 | Forsy-AI/agent-apprenticeship | Unknown | 910 | [Open](https://github.com/Forsy-AI/agent-apprenticeship) |
+| 4 | aidenybai/cnfast | TypeScript | 881 | [Open](https://github.com/aidenybai/cnfast) |
+| 5 | kanavtwtgg/birds.cafe | JavaScript | 767 | [Open](https://github.com/kanavtwtgg/birds.cafe) |
+| 6 | sums001/Windows-Copilot-API | Python | 664 | [Open](https://github.com/sums001/Windows-Copilot-API) |
+| 7 | raiyanyahya/recall | Python | 480 | [Open](https://github.com/raiyanyahya/recall) |
+| 8 | yo-WASSUP/Good-Badminton | Python | 479 | [Open](https://github.com/yo-WASSUP/Good-Badminton) |
+| 9 | overflowy/make-look-scanned | Go | 403 | [Open](https://github.com/overflowy/make-look-scanned) |
+| 10 | HKUDS/AgentSpace | TypeScript | 355 | [Open](https://github.com/HKUDS/AgentSpace) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
