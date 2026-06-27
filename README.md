@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-26T02:02:49.766Z
+Updated: 2026-06-27T01:57:07.908Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | bozhouDev/codex-orange-book | HTML | 1966 | [Open](https://github.com/bozhouDev/codex-orange-book) |
-| 2 | lyra81604/zhengxi-views | Python | 1037 | [Open](https://github.com/lyra81604/zhengxi-views) |
-| 3 | kanavtwtgg/birds.cafe | JavaScript | 788 | [Open](https://github.com/kanavtwtgg/birds.cafe) |
-| 4 | yo-WASSUP/Good-Badminton | Python | 521 | [Open](https://github.com/yo-WASSUP/Good-Badminton) |
-| 5 | BohemiaInteractive/CWR | C++ | 494 | [Open](https://github.com/BohemiaInteractive/CWR) |
-| 6 | QwenLM/Qwen-AgentWorld | Python | 489 | [Open](https://github.com/QwenLM/Qwen-AgentWorld) |
-| 7 | HKUDS/AgentSpace | TypeScript | 422 | [Open](https://github.com/HKUDS/AgentSpace) |
-| 8 | overflowy/make-look-scanned | Go | 415 | [Open](https://github.com/overflowy/make-look-scanned) |
-| 9 | m1ckc3s/claude-status-bar | Swift | 322 | [Open](https://github.com/m1ckc3s/claude-status-bar) |
-| 10 | Yu9191/wloc | JavaScript | 318 | [Open](https://github.com/Yu9191/wloc) |
+| 1 | bozhouDev/codex-orange-book | HTML | 2143 | [Open](https://github.com/bozhouDev/codex-orange-book) |
+| 2 | kanavtwtgg/birds.cafe | JavaScript | 735 | [Open](https://github.com/kanavtwtgg/birds.cafe) |
+| 3 | BohemiaInteractive/CWR | C++ | 624 | [Open](https://github.com/BohemiaInteractive/CWR) |
+| 4 | QwenLM/Qwen-AgentWorld | Python | 568 | [Open](https://github.com/QwenLM/Qwen-AgentWorld) |
+| 5 | benchflow-ai/awesome-evals | Unknown | 465 | [Open](https://github.com/benchflow-ai/awesome-evals) |
+| 6 | Yu9191/wloc | JavaScript | 462 | [Open](https://github.com/Yu9191/wloc) |
+| 7 | winsznx/theeleven | TypeScript | 458 | [Open](https://github.com/winsznx/theeleven) |
+| 8 | HKUDS/AgentSpace | TypeScript | 453 | [Open](https://github.com/HKUDS/AgentSpace) |
+| 9 | m1ckc3s/claude-status-bar | Swift | 360 | [Open](https://github.com/m1ckc3s/claude-status-bar) |
+| 10 | Th0rgal/open_oura | Rust | 342 | [Open](https://github.com/Th0rgal/open_oura) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
