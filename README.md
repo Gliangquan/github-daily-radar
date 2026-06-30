@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-06-29T02:07:42.101Z
+Updated: 2026-06-30T02:02:22.314Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | bozhouDev/codex-orange-book | HTML | 2286 | [Open](https://github.com/bozhouDev/codex-orange-book) |
-| 2 | deepseek-ai/DeepSpec | Python | 2264 | [Open](https://github.com/deepseek-ai/DeepSpec) |
-| 3 | bikini/exploitarium | Python | 2193 | [Open](https://github.com/bikini/exploitarium) |
-| 4 | Yu9191/wloc | JavaScript | 1101 | [Open](https://github.com/Yu9191/wloc) |
-| 5 | winsznx/theeleven | TypeScript | 697 | [Open](https://github.com/winsznx/theeleven) |
-| 6 | benchflow-ai/awesome-evals | Unknown | 564 | [Open](https://github.com/benchflow-ai/awesome-evals) |
-| 7 | AlexandrosGounis/pdfx | TypeScript | 490 | [Open](https://github.com/AlexandrosGounis/pdfx) |
-| 8 | goehou/tabbit-toy | JavaScript | 379 | [Open](https://github.com/goehou/tabbit-toy) |
-| 9 | Pluviobyte/video-production-skills | Python | 364 | [Open](https://github.com/Pluviobyte/video-production-skills) |
-| 10 | playPlumtown/Plumtown | JavaScript | 358 | [Open](https://github.com/playPlumtown/Plumtown) |
+| 1 | deepseek-ai/DeepSpec | Python | 3906 | [Open](https://github.com/deepseek-ai/DeepSpec) |
+| 2 | Yu9191/wloc | JavaScript | 1516 | [Open](https://github.com/Yu9191/wloc) |
+| 3 | Krishnagangwal/CS-Fundamentals | Unknown | 960 | [Open](https://github.com/Krishnagangwal/CS-Fundamentals) |
+| 4 | winsznx/theeleven | TypeScript | 715 | [Open](https://github.com/winsznx/theeleven) |
+| 5 | baairon/torlink | TypeScript | 673 | [Open](https://github.com/baairon/torlink) |
+| 6 | benchflow-ai/awesome-evals | Unknown | 589 | [Open](https://github.com/benchflow-ai/awesome-evals) |
+| 7 | AlexandrosGounis/pdfx | TypeScript | 564 | [Open](https://github.com/AlexandrosGounis/pdfx) |
+| 8 | yynxxxxx/Codex-5.5-codex-instruct-5.5 | Python | 517 | [Open](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) |
+| 9 | Pluviobyte/video-production-skills | Python | 445 | [Open](https://github.com/Pluviobyte/video-production-skills) |
+| 10 | CopilotKit/OpenTag | TypeScript | 408 | [Open](https://github.com/CopilotKit/OpenTag) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
