@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-02T02:00:32.662Z
+Updated: 2026-07-03T01:43:40.289Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | deepseek-ai/DeepSpec | Python | 5750 | [Open](https://github.com/deepseek-ai/DeepSpec) |
-| 2 | Krishnagangwal/CS-Fundamentals | Unknown | 1331 | [Open](https://github.com/Krishnagangwal/CS-Fundamentals) |
-| 3 | yynxxxxx/Codex-5.5-codex-instruct-5.5 | Python | 1014 | [Open](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) |
-| 4 | Kulaxyz/self-learning-skills | Unknown | 749 | [Open](https://github.com/Kulaxyz/self-learning-skills) |
-| 5 | TianhangZhuzth/Fundamental-Ava | Python | 720 | [Open](https://github.com/TianhangZhuzth/Fundamental-Ava) |
-| 6 | mekos2772/ios-location-spoofer | JavaScript | 681 | [Open](https://github.com/mekos2772/ios-location-spoofer) |
-| 7 | aquace/CVE-2026-41940-PoC | Python | 571 | [Open](https://github.com/aquace/CVE-2026-41940-PoC) |
-| 8 | Pluviobyte/video-production-skills | Python | 492 | [Open](https://github.com/Pluviobyte/video-production-skills) |
-| 9 | CopilotKit/OpenTag | TypeScript | 488 | [Open](https://github.com/CopilotKit/OpenTag) |
-| 10 | diinki/linux-antiquity | QML | 440 | [Open](https://github.com/diinki/linux-antiquity) |
+| 1 | Krishnagangwal/CS-Fundamentals | Unknown | 1436 | [Open](https://github.com/Krishnagangwal/CS-Fundamentals) |
+| 2 | mekos2772/ios-location-spoofer | JavaScript | 1113 | [Open](https://github.com/mekos2772/ios-location-spoofer) |
+| 3 | yynxxxxx/Codex-5.5-codex-instruct-5.5 | Python | 1111 | [Open](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) |
+| 4 | Kulaxyz/self-learning-skills | Unknown | 897 | [Open](https://github.com/Kulaxyz/self-learning-skills) |
+| 5 | TianhangZhuzth/Fundamental-Ava | Python | 754 | [Open](https://github.com/TianhangZhuzth/Fundamental-Ava) |
+| 6 | aquace/CVE-2026-41940-PoC | Python | 572 | [Open](https://github.com/aquace/CVE-2026-41940-PoC) |
+| 7 | diinki/linux-antiquity | QML | 502 | [Open](https://github.com/diinki/linux-antiquity) |
+| 8 | wlzh/dji-4g-vohive-mac | Unknown | 400 | [Open](https://github.com/wlzh/dji-4g-vohive-mac) |
+| 9 | Jia-Ethan/codex-keysmith | Python | 399 | [Open](https://github.com/Jia-Ethan/codex-keysmith) |
+| 10 | downclash/clash | JavaScript | 344 | [Open](https://github.com/downclash/clash) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
