@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-03T01:43:40.289Z
+Updated: 2026-07-04T01:43:43.715Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | Krishnagangwal/CS-Fundamentals | Unknown | 1436 | [Open](https://github.com/Krishnagangwal/CS-Fundamentals) |
-| 2 | mekos2772/ios-location-spoofer | JavaScript | 1113 | [Open](https://github.com/mekos2772/ios-location-spoofer) |
-| 3 | yynxxxxx/Codex-5.5-codex-instruct-5.5 | Python | 1111 | [Open](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) |
-| 4 | Kulaxyz/self-learning-skills | Unknown | 897 | [Open](https://github.com/Kulaxyz/self-learning-skills) |
-| 5 | TianhangZhuzth/Fundamental-Ava | Python | 754 | [Open](https://github.com/TianhangZhuzth/Fundamental-Ava) |
-| 6 | aquace/CVE-2026-41940-PoC | Python | 572 | [Open](https://github.com/aquace/CVE-2026-41940-PoC) |
-| 7 | diinki/linux-antiquity | QML | 502 | [Open](https://github.com/diinki/linux-antiquity) |
-| 8 | wlzh/dji-4g-vohive-mac | Unknown | 400 | [Open](https://github.com/wlzh/dji-4g-vohive-mac) |
-| 9 | Jia-Ethan/codex-keysmith | Python | 399 | [Open](https://github.com/Jia-Ethan/codex-keysmith) |
-| 10 | downclash/clash | JavaScript | 344 | [Open](https://github.com/downclash/clash) |
+| 1 | Krishnagangwal/CS-Fundamentals | Unknown | 1509 | [Open](https://github.com/Krishnagangwal/CS-Fundamentals) |
+| 2 | yynxxxxx/Codex-5.5-codex-instruct-5.5 | Python | 1294 | [Open](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) |
+| 3 | mekos2772/ios-location-spoofer | JavaScript | 1251 | [Open](https://github.com/mekos2772/ios-location-spoofer) |
+| 4 | Kulaxyz/self-learning-skills | Unknown | 799 | [Open](https://github.com/Kulaxyz/self-learning-skills) |
+| 5 | TianhangZhuzth/Fundamental-Ava | Python | 520 | [Open](https://github.com/TianhangZhuzth/Fundamental-Ava) |
+| 6 | HUANGCHIHHUNGLeo/claude-real-video | Python | 518 | [Open](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) |
+| 7 | xuchonglang/investing-for-beginners | Unknown | 480 | [Open](https://github.com/xuchonglang/investing-for-beginners) |
+| 8 | uzairansaruzi/hermex | Swift | 446 | [Open](https://github.com/uzairansaruzi/hermex) |
+| 9 | Jia-Ethan/codex-keysmith | Python | 411 | [Open](https://github.com/Jia-Ethan/codex-keysmith) |
+| 10 | asz798838958/FrciblyK12 | Python | 377 | [Open](https://github.com/asz798838958/FrciblyK12) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
