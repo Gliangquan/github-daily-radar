@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-04T01:43:43.715Z
+Updated: 2026-07-05T01:47:27.354Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | Krishnagangwal/CS-Fundamentals | Unknown | 1509 | [Open](https://github.com/Krishnagangwal/CS-Fundamentals) |
-| 2 | yynxxxxx/Codex-5.5-codex-instruct-5.5 | Python | 1294 | [Open](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) |
-| 3 | mekos2772/ios-location-spoofer | JavaScript | 1251 | [Open](https://github.com/mekos2772/ios-location-spoofer) |
-| 4 | Kulaxyz/self-learning-skills | Unknown | 799 | [Open](https://github.com/Kulaxyz/self-learning-skills) |
-| 5 | TianhangZhuzth/Fundamental-Ava | Python | 520 | [Open](https://github.com/TianhangZhuzth/Fundamental-Ava) |
-| 6 | HUANGCHIHHUNGLeo/claude-real-video | Python | 518 | [Open](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) |
-| 7 | xuchonglang/investing-for-beginners | Unknown | 480 | [Open](https://github.com/xuchonglang/investing-for-beginners) |
-| 8 | uzairansaruzi/hermex | Swift | 446 | [Open](https://github.com/uzairansaruzi/hermex) |
-| 9 | Jia-Ethan/codex-keysmith | Python | 411 | [Open](https://github.com/Jia-Ethan/codex-keysmith) |
-| 10 | asz798838958/FrciblyK12 | Python | 377 | [Open](https://github.com/asz798838958/FrciblyK12) |
+| 1 | mekos2772/ios-location-spoofer | JavaScript | 1286 | [Open](https://github.com/mekos2772/ios-location-spoofer) |
+| 2 | jamesob/local-llm | Shell | 753 | [Open](https://github.com/jamesob/local-llm) |
+| 3 | HUANGCHIHHUNGLeo/claude-real-video | Python | 746 | [Open](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) |
+| 4 | xuchonglang/investing-for-beginners | Unknown | 649 | [Open](https://github.com/xuchonglang/investing-for-beginners) |
+| 5 | jmerelnyc/Talos | Python | 586 | [Open](https://github.com/jmerelnyc/Talos) |
+| 6 | uzairansaruzi/hermex | Swift | 552 | [Open](https://github.com/uzairansaruzi/hermex) |
+| 7 | TianhangZhuzth/Fundamental-Ava | Python | 523 | [Open](https://github.com/TianhangZhuzth/Fundamental-Ava) |
+| 8 | Kulaxyz/token-diet | Shell | 458 | [Open](https://github.com/Kulaxyz/token-diet) |
+| 9 | spiritov/ds.css | CSS | 426 | [Open](https://github.com/spiritov/ds.css) |
+| 10 | asz798838958/FrciblyK12 | Python | 415 | [Open](https://github.com/asz798838958/FrciblyK12) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
