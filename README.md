@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-09T01:30:21.598Z
+Updated: 2026-07-10T01:28:02.856Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | x4gKing/X4G | Python | 2471 | [Open](https://github.com/x4gKing/X4G) |
-| 2 | synthetic-sciences/openscience | TypeScript | 1757 | [Open](https://github.com/synthetic-sciences/openscience) |
-| 3 | Shpigford/knockoff | JavaScript | 1409 | [Open](https://github.com/Shpigford/knockoff) |
-| 4 | ammaarreshi/Generals-Mac-iOS-iPad | C++ | 1362 | [Open](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) |
-| 5 | jamesob/local-llm | Shell | 1273 | [Open](https://github.com/jamesob/local-llm) |
-| 6 | xuchonglang/investing-for-beginners | Unknown | 1206 | [Open](https://github.com/xuchonglang/investing-for-beginners) |
-| 7 | MaximeRivest/riddle | Rust | 1203 | [Open](https://github.com/MaximeRivest/riddle) |
-| 8 | 514-labs/dnsglobe | Rust | 737 | [Open](https://github.com/514-labs/dnsglobe) |
-| 9 | yynxxxxx/Codex-X | Rust | 593 | [Open](https://github.com/yynxxxxx/Codex-X) |
-| 10 | Kulaxyz/token-diet | Shell | 566 | [Open](https://github.com/Kulaxyz/token-diet) |
+| 1 | x4gKing/X4G | Python | 3401 | [Open](https://github.com/x4gKing/X4G) |
+| 2 | Shpigford/knockoff | JavaScript | 1568 | [Open](https://github.com/Shpigford/knockoff) |
+| 3 | withmarbleapp/os-taxonomy | JavaScript | 1412 | [Open](https://github.com/withmarbleapp/os-taxonomy) |
+| 4 | ammaarreshi/Generals-Mac-iOS-iPad | C++ | 1393 | [Open](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) |
+| 5 | MaximeRivest/riddle | Rust | 1283 | [Open](https://github.com/MaximeRivest/riddle) |
+| 6 | 514-labs/dnsglobe | Rust | 774 | [Open](https://github.com/514-labs/dnsglobe) |
+| 7 | wouterdebie/davit | Swift | 720 | [Open](https://github.com/wouterdebie/davit) |
+| 8 | yynxxxxx/Codex-X | Rust | 688 | [Open](https://github.com/yynxxxxx/Codex-X) |
+| 9 | simonlin1212/Vibe-Research | TypeScript | 591 | [Open](https://github.com/simonlin1212/Vibe-Research) |
+| 10 | Robbyant/lingbot-vision | Python | 579 | [Open](https://github.com/Robbyant/lingbot-vision) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
