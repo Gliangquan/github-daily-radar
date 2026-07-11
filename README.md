@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-10T01:28:02.856Z
+Updated: 2026-07-11T01:21:30.991Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | x4gKing/X4G | Python | 3401 | [Open](https://github.com/x4gKing/X4G) |
-| 2 | Shpigford/knockoff | JavaScript | 1568 | [Open](https://github.com/Shpigford/knockoff) |
-| 3 | withmarbleapp/os-taxonomy | JavaScript | 1412 | [Open](https://github.com/withmarbleapp/os-taxonomy) |
-| 4 | ammaarreshi/Generals-Mac-iOS-iPad | C++ | 1393 | [Open](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) |
-| 5 | MaximeRivest/riddle | Rust | 1283 | [Open](https://github.com/MaximeRivest/riddle) |
-| 6 | 514-labs/dnsglobe | Rust | 774 | [Open](https://github.com/514-labs/dnsglobe) |
-| 7 | wouterdebie/davit | Swift | 720 | [Open](https://github.com/wouterdebie/davit) |
-| 8 | yynxxxxx/Codex-X | Rust | 688 | [Open](https://github.com/yynxxxxx/Codex-X) |
-| 9 | simonlin1212/Vibe-Research | TypeScript | 591 | [Open](https://github.com/simonlin1212/Vibe-Research) |
-| 10 | Robbyant/lingbot-vision | Python | 579 | [Open](https://github.com/Robbyant/lingbot-vision) |
+| 1 | withmarbleapp/os-taxonomy | JavaScript | 2133 | [Open](https://github.com/withmarbleapp/os-taxonomy) |
+| 2 | Shpigford/knockoff | JavaScript | 1704 | [Open](https://github.com/Shpigford/knockoff) |
+| 3 | MaximeRivest/riddle | Rust | 1338 | [Open](https://github.com/MaximeRivest/riddle) |
+| 4 | 514-labs/dnsglobe | Rust | 794 | [Open](https://github.com/514-labs/dnsglobe) |
+| 5 | Robbyant/lingbot-world-v2 | Python | 701 | [Open](https://github.com/Robbyant/lingbot-world-v2) |
+| 6 | simonlin1212/Vibe-Research | TypeScript | 671 | [Open](https://github.com/simonlin1212/Vibe-Research) |
+| 7 | Robbyant/lingbot-video | Python | 643 | [Open](https://github.com/Robbyant/lingbot-video) |
+| 8 | oso95/scroll-world | JavaScript | 623 | [Open](https://github.com/oso95/scroll-world) |
+| 9 | Robbyant/lingbot-vision | Python | 616 | [Open](https://github.com/Robbyant/lingbot-vision) |
+| 10 | x4gKing/3x-ui-Upgrade | HTML | 607 | [Open](https://github.com/x4gKing/3x-ui-Upgrade) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
