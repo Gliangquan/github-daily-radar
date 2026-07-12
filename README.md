@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-11T01:21:30.991Z
+Updated: 2026-07-12T01:23:17.295Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | withmarbleapp/os-taxonomy | JavaScript | 2133 | [Open](https://github.com/withmarbleapp/os-taxonomy) |
-| 2 | Shpigford/knockoff | JavaScript | 1704 | [Open](https://github.com/Shpigford/knockoff) |
-| 3 | MaximeRivest/riddle | Rust | 1338 | [Open](https://github.com/MaximeRivest/riddle) |
-| 4 | 514-labs/dnsglobe | Rust | 794 | [Open](https://github.com/514-labs/dnsglobe) |
-| 5 | Robbyant/lingbot-world-v2 | Python | 701 | [Open](https://github.com/Robbyant/lingbot-world-v2) |
-| 6 | simonlin1212/Vibe-Research | TypeScript | 671 | [Open](https://github.com/simonlin1212/Vibe-Research) |
-| 7 | Robbyant/lingbot-video | Python | 643 | [Open](https://github.com/Robbyant/lingbot-video) |
-| 8 | oso95/scroll-world | JavaScript | 623 | [Open](https://github.com/oso95/scroll-world) |
-| 9 | Robbyant/lingbot-vision | Python | 616 | [Open](https://github.com/Robbyant/lingbot-vision) |
-| 10 | x4gKing/3x-ui-Upgrade | HTML | 607 | [Open](https://github.com/x4gKing/3x-ui-Upgrade) |
+| 1 | withmarbleapp/os-taxonomy | JavaScript | 2404 | [Open](https://github.com/withmarbleapp/os-taxonomy) |
+| 2 | Shpigford/knockoff | JavaScript | 1772 | [Open](https://github.com/Shpigford/knockoff) |
+| 3 | oso95/scroll-world | JavaScript | 889 | [Open](https://github.com/oso95/scroll-world) |
+| 4 | x4gKing/3x-ui-Upgrade | HTML | 799 | [Open](https://github.com/x4gKing/3x-ui-Upgrade) |
+| 5 | Robbyant/lingbot-world-v2 | Python | 795 | [Open](https://github.com/Robbyant/lingbot-world-v2) |
+| 6 | Robbyant/lingbot-video | Python | 679 | [Open](https://github.com/Robbyant/lingbot-video) |
+| 7 | Robbyant/lingbot-vision | Python | 634 | [Open](https://github.com/Robbyant/lingbot-vision) |
+| 8 | op7418/guizang-material-illustration | Unknown | 557 | [Open](https://github.com/op7418/guizang-material-illustration) |
+| 9 | V4bel/Januscape | C | 472 | [Open](https://github.com/V4bel/Januscape) |
+| 10 | Robbyant/lingbot-vla-v2 | Python | 449 | [Open](https://github.com/Robbyant/lingbot-vla-v2) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
