@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-14T01:13:36.455Z
+Updated: 2026-07-15T01:10:42.735Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | withmarbleapp/os-taxonomy | JavaScript | 2919 | [Open](https://github.com/withmarbleapp/os-taxonomy) |
-| 2 | Robbyant/lingbot-world-v2 | Python | 1032 | [Open](https://github.com/Robbyant/lingbot-world-v2) |
-| 3 | x4gKing/3x-ui-Upgrade | HTML | 955 | [Open](https://github.com/x4gKing/3x-ui-Upgrade) |
-| 4 | vinhhien112/Three.js-Object-Sculptor-Codex-Plugin | Python | 853 | [Open](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) |
-| 5 | Robbyant/lingbot-video | Python | 757 | [Open](https://github.com/Robbyant/lingbot-video) |
-| 6 | mereyabdenbekuly-ctrl/clodex-ide | TypeScript | 696 | [Open](https://github.com/mereyabdenbekuly-ctrl/clodex-ide) |
-| 7 | littledivy/mimic | Python | 680 | [Open](https://github.com/littledivy/mimic) |
-| 8 | MDX-Tom/gpt-5.6-instruct | Python | 668 | [Open](https://github.com/MDX-Tom/gpt-5.6-instruct) |
-| 9 | William-Lu-stack/LuxyAI | Python | 547 | [Open](https://github.com/William-Lu-stack/LuxyAI) |
-| 10 | AlephAITech/WorkBuddyGuide | Python | 488 | [Open](https://github.com/AlephAITech/WorkBuddyGuide) |
+| 1 | MDX-Tom/gpt-5.6-instruct | Python | 1009 | [Open](https://github.com/MDX-Tom/gpt-5.6-instruct) |
+| 2 | vinhhien112/Three.js-Object-Sculptor-Codex-Plugin | Python | 965 | [Open](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) |
+| 3 | littledivy/mimic | Python | 909 | [Open](https://github.com/littledivy/mimic) |
+| 4 | mereyabdenbekuly-ctrl/clodex-ide | TypeScript | 801 | [Open](https://github.com/mereyabdenbekuly-ctrl/clodex-ide) |
+| 5 | AlephAITech/WorkBuddyGuide | Python | 687 | [Open](https://github.com/AlephAITech/WorkBuddyGuide) |
+| 6 | x4gKing/Marzban-Panel | Dockerfile | 668 | [Open](https://github.com/x4gKing/Marzban-Panel) |
+| 7 | William-Lu-stack/Flawless | Python | 616 | [Open](https://github.com/William-Lu-stack/Flawless) |
+| 8 | Kappaemme-git/codex-first-customer-finder-skill | Python | 599 | [Open](https://github.com/Kappaemme-git/codex-first-customer-finder-skill) |
+| 9 | cosmtrek/mindwalk | Go | 577 | [Open](https://github.com/cosmtrek/mindwalk) |
+| 10 | x4gKing/Marzban-Node | Dockerfile | 566 | [Open](https://github.com/x4gKing/Marzban-Node) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
