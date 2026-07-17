@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-16T01:19:48.059Z
+Updated: 2026-07-17T01:23:22.750Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | xai-org/grok-build | Rust | 3009 | [Open](https://github.com/xai-org/grok-build) |
-| 2 | MDX-Tom/gpt-5.6-instruct | Python | 1341 | [Open](https://github.com/MDX-Tom/gpt-5.6-instruct) |
-| 3 | littledivy/mimic | Python | 1021 | [Open](https://github.com/littledivy/mimic) |
-| 4 | mereyabdenbekuly-ctrl/clodex-ide | TypeScript | 810 | [Open](https://github.com/mereyabdenbekuly-ctrl/clodex-ide) |
-| 5 | AlephAITech/WorkBuddyGuide | Python | 802 | [Open](https://github.com/AlephAITech/WorkBuddyGuide) |
-| 6 | x4gKing/Marzban-Panel | Dockerfile | 775 | [Open](https://github.com/x4gKing/Marzban-Panel) |
-| 7 | Kappaemme-git/codex-first-customer-finder-skill | Python | 707 | [Open](https://github.com/Kappaemme-git/codex-first-customer-finder-skill) |
-| 8 | pengchujin/jzsub | Python | 675 | [Open](https://github.com/pengchujin/jzsub) |
-| 9 | x4gKing/Marzban-Node | Dockerfile | 666 | [Open](https://github.com/x4gKing/Marzban-Node) |
-| 10 | William-Lu-stack/Flawless | Python | 636 | [Open](https://github.com/William-Lu-stack/Flawless) |
+| 1 | xai-org/grok-build | Rust | 12296 | [Open](https://github.com/xai-org/grok-build) |
+| 2 | Fei-Away/Codex-Dream-Skin | JavaScript | 5503 | [Open](https://github.com/Fei-Away/Codex-Dream-Skin) |
+| 3 | MDX-Tom/gpt-5.6-instruct | Python | 1674 | [Open](https://github.com/MDX-Tom/gpt-5.6-instruct) |
+| 4 | littledivy/mimic | Python | 1104 | [Open](https://github.com/littledivy/mimic) |
+| 5 | pixel-point/aval | TypeScript | 1047 | [Open](https://github.com/pixel-point/aval) |
+| 6 | CluvexStudio/Aether | Rust | 935 | [Open](https://github.com/CluvexStudio/Aether) |
+| 7 | x4gKing/Marzban-Panel | Dockerfile | 845 | [Open](https://github.com/x4gKing/Marzban-Panel) |
+| 8 | mereyabdenbekuly-ctrl/clodex-ide | TypeScript | 829 | [Open](https://github.com/mereyabdenbekuly-ctrl/clodex-ide) |
+| 9 | Kappaemme-git/codex-first-customer-finder-skill | Python | 761 | [Open](https://github.com/Kappaemme-git/codex-first-customer-finder-skill) |
+| 10 | x4gKing/Marzban-Node | Dockerfile | 726 | [Open](https://github.com/x4gKing/Marzban-Node) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
