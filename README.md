@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-17T01:23:22.750Z
+Updated: 2026-07-18T01:15:49.317Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | xai-org/grok-build | Rust | 12296 | [Open](https://github.com/xai-org/grok-build) |
-| 2 | Fei-Away/Codex-Dream-Skin | JavaScript | 5503 | [Open](https://github.com/Fei-Away/Codex-Dream-Skin) |
-| 3 | MDX-Tom/gpt-5.6-instruct | Python | 1674 | [Open](https://github.com/MDX-Tom/gpt-5.6-instruct) |
-| 4 | littledivy/mimic | Python | 1104 | [Open](https://github.com/littledivy/mimic) |
-| 5 | pixel-point/aval | TypeScript | 1047 | [Open](https://github.com/pixel-point/aval) |
-| 6 | CluvexStudio/Aether | Rust | 935 | [Open](https://github.com/CluvexStudio/Aether) |
-| 7 | x4gKing/Marzban-Panel | Dockerfile | 845 | [Open](https://github.com/x4gKing/Marzban-Panel) |
-| 8 | mereyabdenbekuly-ctrl/clodex-ide | TypeScript | 829 | [Open](https://github.com/mereyabdenbekuly-ctrl/clodex-ide) |
-| 9 | Kappaemme-git/codex-first-customer-finder-skill | Python | 761 | [Open](https://github.com/Kappaemme-git/codex-first-customer-finder-skill) |
-| 10 | x4gKing/Marzban-Node | Dockerfile | 726 | [Open](https://github.com/x4gKing/Marzban-Node) |
+| 1 | xai-org/grok-build | Rust | 16496 | [Open](https://github.com/xai-org/grok-build) |
+| 2 | Fei-Away/Codex-Dream-Skin | JavaScript | 8694 | [Open](https://github.com/Fei-Away/Codex-Dream-Skin) |
+| 3 | pixel-point/aval | TypeScript | 1164 | [Open](https://github.com/pixel-point/aval) |
+| 4 | littledivy/mimic | Python | 1149 | [Open](https://github.com/littledivy/mimic) |
+| 5 | CluvexStudio/Aether | Rust | 1144 | [Open](https://github.com/CluvexStudio/Aether) |
+| 6 | x4gKing/Marzban-Panel | Dockerfile | 914 | [Open](https://github.com/x4gKing/Marzban-Panel) |
+| 7 | tandpfun/wardrobe | JavaScript | 897 | [Open](https://github.com/tandpfun/wardrobe) |
+| 8 | mereyabdenbekuly-ctrl/clodex-ide | TypeScript | 833 | [Open](https://github.com/mereyabdenbekuly-ctrl/clodex-ide) |
+| 9 | Kappaemme-git/codex-first-customer-finder-skill | Python | 789 | [Open](https://github.com/Kappaemme-git/codex-first-customer-finder-skill) |
+| 10 | x4gKing/Marzban-Node | Dockerfile | 776 | [Open](https://github.com/x4gKing/Marzban-Node) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
