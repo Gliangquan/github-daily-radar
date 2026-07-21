@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-20T01:24:34.827Z
+Updated: 2026-07-21T01:21:07.948Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | xai-org/grok-build | Rust | 20080 | [Open](https://github.com/xai-org/grok-build) |
-| 2 | Fei-Away/Codex-Dream-Skin | JavaScript | 10322 | [Open](https://github.com/Fei-Away/Codex-Dream-Skin) |
-| 3 | CluvexStudio/Aether | Rust | 1316 | [Open](https://github.com/CluvexStudio/Aether) |
-| 4 | tandpfun/wardrobe | JavaScript | 1155 | [Open](https://github.com/tandpfun/wardrobe) |
-| 5 | nethical6/conversation-steganography | Go | 826 | [Open](https://github.com/nethical6/conversation-steganography) |
-| 6 | pablostanley/yoinks | TypeScript | 743 | [Open](https://github.com/pablostanley/yoinks) |
-| 7 | MatinSenPai/Aether-GUI | TypeScript | 626 | [Open](https://github.com/MatinSenPai/Aether-GUI) |
-| 8 | Blueturboguy07/cue | JavaScript | 614 | [Open](https://github.com/Blueturboguy07/cue) |
-| 9 | v-modal/vmodal_sdk_flutter | Dart | 586 | [Open](https://github.com/v-modal/vmodal_sdk_flutter) |
-| 10 | lopopolo/harness-engineering | Python | 579 | [Open](https://github.com/lopopolo/harness-engineering) |
+| 1 | Fei-Away/Codex-Dream-Skin | JavaScript | 11074 | [Open](https://github.com/Fei-Away/Codex-Dream-Skin) |
+| 2 | tandpfun/wardrobe | JavaScript | 1219 | [Open](https://github.com/tandpfun/wardrobe) |
+| 3 | hoainho/img2threejs | Python | 1019 | [Open](https://github.com/hoainho/img2threejs) |
+| 4 | nethical6/conversation-steganography | Go | 881 | [Open](https://github.com/nethical6/conversation-steganography) |
+| 5 | pablostanley/yoinks | TypeScript | 865 | [Open](https://github.com/pablostanley/yoinks) |
+| 6 | lopopolo/harness-engineering | Python | 773 | [Open](https://github.com/lopopolo/harness-engineering) |
+| 7 | Blueturboguy07/cue | JavaScript | 660 | [Open](https://github.com/Blueturboguy07/cue) |
+| 8 | v-modal/vmodal_sdk_flutter | Dart | 622 | [Open](https://github.com/v-modal/vmodal_sdk_flutter) |
+| 9 | xiejunjie524/handdraw-story-video | Python | 497 | [Open](https://github.com/xiejunjie524/handdraw-story-video) |
+| 10 | EthanXiang777/circuit-framework | Python | 486 | [Open](https://github.com/EthanXiang777/circuit-framework) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
