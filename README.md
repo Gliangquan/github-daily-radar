@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-21T01:21:07.948Z
+Updated: 2026-07-22T01:19:41.127Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | Fei-Away/Codex-Dream-Skin | JavaScript | 11074 | [Open](https://github.com/Fei-Away/Codex-Dream-Skin) |
-| 2 | tandpfun/wardrobe | JavaScript | 1219 | [Open](https://github.com/tandpfun/wardrobe) |
-| 3 | hoainho/img2threejs | Python | 1019 | [Open](https://github.com/hoainho/img2threejs) |
-| 4 | nethical6/conversation-steganography | Go | 881 | [Open](https://github.com/nethical6/conversation-steganography) |
-| 5 | pablostanley/yoinks | TypeScript | 865 | [Open](https://github.com/pablostanley/yoinks) |
-| 6 | lopopolo/harness-engineering | Python | 773 | [Open](https://github.com/lopopolo/harness-engineering) |
-| 7 | Blueturboguy07/cue | JavaScript | 660 | [Open](https://github.com/Blueturboguy07/cue) |
-| 8 | v-modal/vmodal_sdk_flutter | Dart | 622 | [Open](https://github.com/v-modal/vmodal_sdk_flutter) |
-| 9 | xiejunjie524/handdraw-story-video | Python | 497 | [Open](https://github.com/xiejunjie524/handdraw-story-video) |
-| 10 | EthanXiang777/circuit-framework | Python | 486 | [Open](https://github.com/EthanXiang777/circuit-framework) |
+| 1 | lopopolo/harness-engineering | Python | 1605 | [Open](https://github.com/lopopolo/harness-engineering) |
+| 2 | tandpfun/wardrobe | JavaScript | 1285 | [Open](https://github.com/tandpfun/wardrobe) |
+| 3 | pablostanley/yoinks | TypeScript | 962 | [Open](https://github.com/pablostanley/yoinks) |
+| 4 | nethical6/conversation-steganography | Go | 911 | [Open](https://github.com/nethical6/conversation-steganography) |
+| 5 | v-modal/vmodal_sdk_flutter | Dart | 777 | [Open](https://github.com/v-modal/vmodal_sdk_flutter) |
+| 6 | MIgHTy-alIeN/MEV-Arbitrage-Bot | Solidity | 739 | [Open](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot) |
+| 7 | Blaizzy/nativ | Swift | 620 | [Open](https://github.com/Blaizzy/nativ) |
+| 8 | xiejunjie524/handdraw-story-video | Python | 584 | [Open](https://github.com/xiejunjie524/handdraw-story-video) |
+| 9 | EthanXiang777/circuit-framework | Python | 487 | [Open](https://github.com/EthanXiang777/circuit-framework) |
+| 10 | smixs/pohuy | Unknown | 468 | [Open](https://github.com/smixs/pohuy) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
