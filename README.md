@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-23T01:27:14.376Z
+Updated: 2026-07-24T01:23:04.144Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | lopopolo/harness-engineering | Python | 2192 | [Open](https://github.com/lopopolo/harness-engineering) |
-| 2 | nethical6/conversation-steganography | Go | 985 | [Open](https://github.com/nethical6/conversation-steganography) |
-| 3 | MIgHTy-alIeN/MEV-Arbitrage-Bot | Solidity | 920 | [Open](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot) |
-| 4 | Blaizzy/nativ | Swift | 760 | [Open](https://github.com/Blaizzy/nativ) |
-| 5 | Jakubantalik/thinking-orbs | TypeScript | 621 | [Open](https://github.com/Jakubantalik/thinking-orbs) |
-| 6 | xiejunjie524/handdraw-story-video | Python | 620 | [Open](https://github.com/xiejunjie524/handdraw-story-video) |
-| 7 | smixs/pohuy | Unknown | 538 | [Open](https://github.com/smixs/pohuy) |
-| 8 | powerycy/goutoujunshi | Python | 522 | [Open](https://github.com/powerycy/goutoujunshi) |
-| 9 | Vincentwei1021/video-shotcraft | TypeScript | 521 | [Open](https://github.com/Vincentwei1021/video-shotcraft) |
-| 10 | 0xhype/hyperliquid-tracker | TypeScript | 503 | [Open](https://github.com/0xhype/hyperliquid-tracker) |
+| 1 | lopopolo/harness-engineering | Python | 2275 | [Open](https://github.com/lopopolo/harness-engineering) |
+| 2 | andrewyng/openworker | Python | 1246 | [Open](https://github.com/andrewyng/openworker) |
+| 3 | Vincentwei1021/video-shotcraft | TypeScript | 937 | [Open](https://github.com/Vincentwei1021/video-shotcraft) |
+| 4 | Jakubantalik/thinking-orbs | TypeScript | 827 | [Open](https://github.com/Jakubantalik/thinking-orbs) |
+| 5 | Blaizzy/nativ | Swift | 816 | [Open](https://github.com/Blaizzy/nativ) |
+| 6 | powerycy/goutoujunshi | Python | 657 | [Open](https://github.com/powerycy/goutoujunshi) |
+| 7 | pireel/pireel | TypeScript | 657 | [Open](https://github.com/pireel/pireel) |
+| 8 | xiejunjie524/handdraw-story-video | Python | 634 | [Open](https://github.com/xiejunjie524/handdraw-story-video) |
+| 9 | gnipbao/story-to-handdrawn-video | JavaScript | 559 | [Open](https://github.com/gnipbao/story-to-handdrawn-video) |
+| 10 | 0xhype/hyperliquid-tracker | TypeScript | 504 | [Open](https://github.com/0xhype/hyperliquid-tracker) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
