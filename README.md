@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-25T01:23:38.880Z
+Updated: 2026-07-26T01:26:51.401Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | andrewyng/openworker | Python | 3417 | [Open](https://github.com/andrewyng/openworker) |
-| 2 | Vincentwei1021/video-shotcraft | TypeScript | 1438 | [Open](https://github.com/Vincentwei1021/video-shotcraft) |
-| 3 | Jakubantalik/thinking-orbs | TypeScript | 932 | [Open](https://github.com/Jakubantalik/thinking-orbs) |
-| 4 | Blaizzy/nativ | Swift | 860 | [Open](https://github.com/Blaizzy/nativ) |
-| 5 | powerycy/goutoujunshi | Python | 801 | [Open](https://github.com/powerycy/goutoujunshi) |
-| 6 | pireel/pireel | TypeScript | 710 | [Open](https://github.com/pireel/pireel) |
-| 7 | gnipbao/story-to-handdrawn-video | JavaScript | 608 | [Open](https://github.com/gnipbao/story-to-handdrawn-video) |
-| 8 | CatsJuice/sticker-forge | JavaScript | 522 | [Open](https://github.com/CatsJuice/sticker-forge) |
-| 9 | 0xhype/hyperliquid-tracker | TypeScript | 509 | [Open](https://github.com/0xhype/hyperliquid-tracker) |
-| 10 | Charles-0509/Grok-Register | Go | 429 | [Open](https://github.com/Charles-0509/Grok-Register) |
+| 1 | andrewyng/openworker | Python | 5008 | [Open](https://github.com/andrewyng/openworker) |
+| 2 | Jakubantalik/thinking-orbs | TypeScript | 1007 | [Open](https://github.com/Jakubantalik/thinking-orbs) |
+| 3 | Blaizzy/nativ | Swift | 884 | [Open](https://github.com/Blaizzy/nativ) |
+| 4 | powerycy/goutoujunshi | Python | 876 | [Open](https://github.com/powerycy/goutoujunshi) |
+| 5 | slvDev/esp32-ai | Python | 810 | [Open](https://github.com/slvDev/esp32-ai) |
+| 6 | pireel/pireel | TypeScript | 753 | [Open](https://github.com/pireel/pireel) |
+| 7 | gnipbao/story-to-handdrawn-video | JavaScript | 624 | [Open](https://github.com/gnipbao/story-to-handdrawn-video) |
+| 8 | mikiarlo3/ai-copywriter | Python | 586 | [Open](https://github.com/mikiarlo3/ai-copywriter) |
+| 9 | CatsJuice/sticker-forge | JavaScript | 573 | [Open](https://github.com/CatsJuice/sticker-forge) |
+| 10 | zeus-panel/ZEUS-PANEL | JavaScript | 537 | [Open](https://github.com/zeus-panel/ZEUS-PANEL) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
