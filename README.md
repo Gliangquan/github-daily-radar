@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-26T01:26:51.401Z
+Updated: 2026-07-27T01:44:37.090Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | andrewyng/openworker | Python | 5008 | [Open](https://github.com/andrewyng/openworker) |
-| 2 | Jakubantalik/thinking-orbs | TypeScript | 1007 | [Open](https://github.com/Jakubantalik/thinking-orbs) |
-| 3 | Blaizzy/nativ | Swift | 884 | [Open](https://github.com/Blaizzy/nativ) |
-| 4 | powerycy/goutoujunshi | Python | 876 | [Open](https://github.com/powerycy/goutoujunshi) |
-| 5 | slvDev/esp32-ai | Python | 810 | [Open](https://github.com/slvDev/esp32-ai) |
-| 6 | pireel/pireel | TypeScript | 753 | [Open](https://github.com/pireel/pireel) |
-| 7 | gnipbao/story-to-handdrawn-video | JavaScript | 624 | [Open](https://github.com/gnipbao/story-to-handdrawn-video) |
-| 8 | mikiarlo3/ai-copywriter | Python | 586 | [Open](https://github.com/mikiarlo3/ai-copywriter) |
-| 9 | CatsJuice/sticker-forge | JavaScript | 573 | [Open](https://github.com/CatsJuice/sticker-forge) |
-| 10 | zeus-panel/ZEUS-PANEL | JavaScript | 537 | [Open](https://github.com/zeus-panel/ZEUS-PANEL) |
+| 1 | slvDev/esp32-ai | Python | 1351 | [Open](https://github.com/slvDev/esp32-ai) |
+| 2 | Jakubantalik/thinking-orbs | TypeScript | 1100 | [Open](https://github.com/Jakubantalik/thinking-orbs) |
+| 3 | mikiarlo3/ai-copywriter | Python | 855 | [Open](https://github.com/mikiarlo3/ai-copywriter) |
+| 4 | mshumer/Claude-of-Duty | JavaScript | 669 | [Open](https://github.com/mshumer/Claude-of-Duty) |
+| 5 | gnipbao/story-to-handdrawn-video | JavaScript | 653 | [Open](https://github.com/gnipbao/story-to-handdrawn-video) |
+| 6 | 0xhype/hyperliquid-tracker | TypeScript | 511 | [Open](https://github.com/0xhype/hyperliquid-tracker) |
+| 7 | makecindy/cindy | TypeScript | 471 | [Open](https://github.com/makecindy/cindy) |
+| 8 | hahhforest/pi-textbook | TypeScript | 456 | [Open](https://github.com/hahhforest/pi-textbook) |
+| 9 | berabuddies/redis-poc | Python | 439 | [Open](https://github.com/berabuddies/redis-poc) |
+| 10 | AdelanSupport/adelan-support | Python | 409 | [Open](https://github.com/AdelanSupport/adelan-support) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
