@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-27T01:44:37.090Z
+Updated: 2026-07-28T01:19:03.085Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | slvDev/esp32-ai | Python | 1351 | [Open](https://github.com/slvDev/esp32-ai) |
-| 2 | Jakubantalik/thinking-orbs | TypeScript | 1100 | [Open](https://github.com/Jakubantalik/thinking-orbs) |
-| 3 | mikiarlo3/ai-copywriter | Python | 855 | [Open](https://github.com/mikiarlo3/ai-copywriter) |
-| 4 | mshumer/Claude-of-Duty | JavaScript | 669 | [Open](https://github.com/mshumer/Claude-of-Duty) |
-| 5 | gnipbao/story-to-handdrawn-video | JavaScript | 653 | [Open](https://github.com/gnipbao/story-to-handdrawn-video) |
-| 6 | 0xhype/hyperliquid-tracker | TypeScript | 511 | [Open](https://github.com/0xhype/hyperliquid-tracker) |
-| 7 | makecindy/cindy | TypeScript | 471 | [Open](https://github.com/makecindy/cindy) |
-| 8 | hahhforest/pi-textbook | TypeScript | 456 | [Open](https://github.com/hahhforest/pi-textbook) |
-| 9 | berabuddies/redis-poc | Python | 439 | [Open](https://github.com/berabuddies/redis-poc) |
-| 10 | AdelanSupport/adelan-support | Python | 409 | [Open](https://github.com/AdelanSupport/adelan-support) |
+| 1 | vercel-labs/scriptc | TypeScript | 1745 | [Open](https://github.com/vercel-labs/scriptc) |
+| 2 | slvDev/esp32-ai | Python | 1745 | [Open](https://github.com/slvDev/esp32-ai) |
+| 3 | MoonshotAI/Kimi-K3 | Unknown | 1333 | [Open](https://github.com/MoonshotAI/Kimi-K3) |
+| 4 | mshumer/Claude-of-Duty | JavaScript | 1027 | [Open](https://github.com/mshumer/Claude-of-Duty) |
+| 5 | mikiarlo3/ai-copywriter | Python | 937 | [Open](https://github.com/mikiarlo3/ai-copywriter) |
+| 6 | makecindy/cindy | TypeScript | 846 | [Open](https://github.com/makecindy/cindy) |
+| 7 | kvcache-ai/AgentENV | Rust | 653 | [Open](https://github.com/kvcache-ai/AgentENV) |
+| 8 | VictorTaelin/OptMem | Python | 650 | [Open](https://github.com/VictorTaelin/OptMem) |
+| 9 | 0xwilliamortiz/openclaude-improved | TypeScript | 472 | [Open](https://github.com/0xwilliamortiz/openclaude-improved) |
+| 10 | mikehasa/agentacct | Python | 469 | [Open](https://github.com/mikehasa/agentacct) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
