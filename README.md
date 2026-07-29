@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-28T01:19:03.085Z
+Updated: 2026-07-29T01:20:46.002Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | vercel-labs/scriptc | TypeScript | 1745 | [Open](https://github.com/vercel-labs/scriptc) |
-| 2 | slvDev/esp32-ai | Python | 1745 | [Open](https://github.com/slvDev/esp32-ai) |
-| 3 | MoonshotAI/Kimi-K3 | Unknown | 1333 | [Open](https://github.com/MoonshotAI/Kimi-K3) |
-| 4 | mshumer/Claude-of-Duty | JavaScript | 1027 | [Open](https://github.com/mshumer/Claude-of-Duty) |
-| 5 | mikiarlo3/ai-copywriter | Python | 937 | [Open](https://github.com/mikiarlo3/ai-copywriter) |
-| 6 | makecindy/cindy | TypeScript | 846 | [Open](https://github.com/makecindy/cindy) |
-| 7 | kvcache-ai/AgentENV | Rust | 653 | [Open](https://github.com/kvcache-ai/AgentENV) |
-| 8 | VictorTaelin/OptMem | Python | 650 | [Open](https://github.com/VictorTaelin/OptMem) |
-| 9 | 0xwilliamortiz/openclaude-improved | TypeScript | 472 | [Open](https://github.com/0xwilliamortiz/openclaude-improved) |
-| 10 | mikehasa/agentacct | Python | 469 | [Open](https://github.com/mikehasa/agentacct) |
+| 1 | MoonshotAI/Kimi-K3 | Unknown | 3421 | [Open](https://github.com/MoonshotAI/Kimi-K3) |
+| 2 | slvDev/esp32-ai | Python | 2059 | [Open](https://github.com/slvDev/esp32-ai) |
+| 3 | mshumer/Claude-of-Duty | JavaScript | 1741 | [Open](https://github.com/mshumer/Claude-of-Duty) |
+| 4 | kvcache-ai/AgentENV | Rust | 1437 | [Open](https://github.com/kvcache-ai/AgentENV) |
+| 5 | mikiarlo3/ai-copywriter | Python | 991 | [Open](https://github.com/mikiarlo3/ai-copywriter) |
+| 6 | VictorTaelin/OptMem | Python | 803 | [Open](https://github.com/VictorTaelin/OptMem) |
+| 7 | MoonshotAI/MoonEP | Python | 789 | [Open](https://github.com/MoonshotAI/MoonEP) |
+| 8 | fuadmefleh/Shared-Claude-Chats | Python | 668 | [Open](https://github.com/fuadmefleh/Shared-Claude-Chats) |
+| 9 | 0xwilliamortiz/openclaude-improved | TypeScript | 581 | [Open](https://github.com/0xwilliamortiz/openclaude-improved) |
+| 10 | digimata/quill | Swift | 545 | [Open](https://github.com/digimata/quill) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
