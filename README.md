@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-29T01:20:46.002Z
+Updated: 2026-07-30T01:13:40.710Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | MoonshotAI/Kimi-K3 | Unknown | 3421 | [Open](https://github.com/MoonshotAI/Kimi-K3) |
-| 2 | slvDev/esp32-ai | Python | 2059 | [Open](https://github.com/slvDev/esp32-ai) |
-| 3 | mshumer/Claude-of-Duty | JavaScript | 1741 | [Open](https://github.com/mshumer/Claude-of-Duty) |
-| 4 | kvcache-ai/AgentENV | Rust | 1437 | [Open](https://github.com/kvcache-ai/AgentENV) |
-| 5 | mikiarlo3/ai-copywriter | Python | 991 | [Open](https://github.com/mikiarlo3/ai-copywriter) |
-| 6 | VictorTaelin/OptMem | Python | 803 | [Open](https://github.com/VictorTaelin/OptMem) |
-| 7 | MoonshotAI/MoonEP | Python | 789 | [Open](https://github.com/MoonshotAI/MoonEP) |
-| 8 | fuadmefleh/Shared-Claude-Chats | Python | 668 | [Open](https://github.com/fuadmefleh/Shared-Claude-Chats) |
-| 9 | 0xwilliamortiz/openclaude-improved | TypeScript | 581 | [Open](https://github.com/0xwilliamortiz/openclaude-improved) |
-| 10 | digimata/quill | Swift | 545 | [Open](https://github.com/digimata/quill) |
+| 1 | MoonshotAI/Kimi-K3 | Unknown | 5782 | [Open](https://github.com/MoonshotAI/Kimi-K3) |
+| 2 | mshumer/Claude-of-Duty | JavaScript | 2248 | [Open](https://github.com/mshumer/Claude-of-Duty) |
+| 3 | digimata/quill | Swift | 1509 | [Open](https://github.com/digimata/quill) |
+| 4 | mikiarlo3/ai-copywriter | Python | 1046 | [Open](https://github.com/mikiarlo3/ai-copywriter) |
+| 5 | fuadmefleh/Shared-Claude-Chats | Python | 932 | [Open](https://github.com/fuadmefleh/Shared-Claude-Chats) |
+| 6 | VictorTaelin/OptMem | Python | 873 | [Open](https://github.com/VictorTaelin/OptMem) |
+| 7 | MoonshotAI/MoonEP | Python | 861 | [Open](https://github.com/MoonshotAI/MoonEP) |
+| 8 | 0xwilliamortiz/openclaude-improved | TypeScript | 554 | [Open](https://github.com/0xwilliamortiz/openclaude-improved) |
+| 9 | 0xwilliamortiz/ponytail-improved | JavaScript | 545 | [Open](https://github.com/0xwilliamortiz/ponytail-improved) |
+| 10 | mikehasa/agentacct | Python | 528 | [Open](https://github.com/mikehasa/agentacct) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
