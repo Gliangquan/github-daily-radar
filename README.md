@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-30T01:13:40.710Z
+Updated: 2026-07-31T01:27:19.439Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | MoonshotAI/Kimi-K3 | Unknown | 5782 | [Open](https://github.com/MoonshotAI/Kimi-K3) |
-| 2 | mshumer/Claude-of-Duty | JavaScript | 2248 | [Open](https://github.com/mshumer/Claude-of-Duty) |
-| 3 | digimata/quill | Swift | 1509 | [Open](https://github.com/digimata/quill) |
-| 4 | mikiarlo3/ai-copywriter | Python | 1046 | [Open](https://github.com/mikiarlo3/ai-copywriter) |
-| 5 | fuadmefleh/Shared-Claude-Chats | Python | 932 | [Open](https://github.com/fuadmefleh/Shared-Claude-Chats) |
-| 6 | VictorTaelin/OptMem | Python | 873 | [Open](https://github.com/VictorTaelin/OptMem) |
-| 7 | MoonshotAI/MoonEP | Python | 861 | [Open](https://github.com/MoonshotAI/MoonEP) |
-| 8 | 0xwilliamortiz/openclaude-improved | TypeScript | 554 | [Open](https://github.com/0xwilliamortiz/openclaude-improved) |
-| 9 | 0xwilliamortiz/ponytail-improved | JavaScript | 545 | [Open](https://github.com/0xwilliamortiz/ponytail-improved) |
-| 10 | mikehasa/agentacct | Python | 528 | [Open](https://github.com/mikehasa/agentacct) |
+| 1 | MoonshotAI/Kimi-K3 | Unknown | 7537 | [Open](https://github.com/MoonshotAI/Kimi-K3) |
+| 2 | mshumer/Claude-of-Duty | JavaScript | 2405 | [Open](https://github.com/mshumer/Claude-of-Duty) |
+| 3 | VictorTaelin/OptMem | Python | 933 | [Open](https://github.com/VictorTaelin/OptMem) |
+| 4 | xikhar/persona | JavaScript | 673 | [Open](https://github.com/xikhar/persona) |
+| 5 | 0xwilliamortiz/ponytail-improved | JavaScript | 564 | [Open](https://github.com/0xwilliamortiz/ponytail-improved) |
+| 6 | 0xwilliamortiz/openclaude-improved | TypeScript | 562 | [Open](https://github.com/0xwilliamortiz/openclaude-improved) |
+| 7 | talivia-group/talivia | TypeScript | 489 | [Open](https://github.com/talivia-group/talivia) |
+| 8 | gavamedia/deltafin | Python | 478 | [Open](https://github.com/gavamedia/deltafin) |
+| 9 | NikolayS/PGSimCity | TypeScript | 440 | [Open](https://github.com/NikolayS/PGSimCity) |
+| 10 | wassgha/rescript | TypeScript | 404 | [Open](https://github.com/wassgha/rescript) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
