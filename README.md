@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-07-31T01:27:19.439Z
+Updated: 2026-08-01T01:28:09.521Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | MoonshotAI/Kimi-K3 | Unknown | 7537 | [Open](https://github.com/MoonshotAI/Kimi-K3) |
-| 2 | mshumer/Claude-of-Duty | JavaScript | 2405 | [Open](https://github.com/mshumer/Claude-of-Duty) |
-| 3 | VictorTaelin/OptMem | Python | 933 | [Open](https://github.com/VictorTaelin/OptMem) |
-| 4 | xikhar/persona | JavaScript | 673 | [Open](https://github.com/xikhar/persona) |
-| 5 | 0xwilliamortiz/ponytail-improved | JavaScript | 564 | [Open](https://github.com/0xwilliamortiz/ponytail-improved) |
-| 6 | 0xwilliamortiz/openclaude-improved | TypeScript | 562 | [Open](https://github.com/0xwilliamortiz/openclaude-improved) |
-| 7 | talivia-group/talivia | TypeScript | 489 | [Open](https://github.com/talivia-group/talivia) |
-| 8 | gavamedia/deltafin | Python | 478 | [Open](https://github.com/gavamedia/deltafin) |
-| 9 | NikolayS/PGSimCity | TypeScript | 440 | [Open](https://github.com/NikolayS/PGSimCity) |
-| 10 | wassgha/rescript | TypeScript | 404 | [Open](https://github.com/wassgha/rescript) |
+| 1 | MoonshotAI/Kimi-K3 | Unknown | 7724 | [Open](https://github.com/MoonshotAI/Kimi-K3) |
+| 2 | bashalarmistalt/decimen-optical-transfer | TypeScript | 2029 | [Open](https://github.com/bashalarmistalt/decimen-optical-transfer) |
+| 3 | yc-software/qm | TypeScript | 1927 | [Open](https://github.com/yc-software/qm) |
+| 4 | xikhar/persona | JavaScript | 716 | [Open](https://github.com/xikhar/persona) |
+| 5 | QwenAudio/qwen-audio-agent | JavaScript | 609 | [Open](https://github.com/QwenAudio/qwen-audio-agent) |
+| 6 | 0xwilliamortiz/ponytail-improved | JavaScript | 570 | [Open](https://github.com/0xwilliamortiz/ponytail-improved) |
+| 7 | xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer | Unknown | 563 | [Open](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) |
+| 8 | 0xwilliamortiz/openclaude-improved | TypeScript | 563 | [Open](https://github.com/0xwilliamortiz/openclaude-improved) |
+| 9 | gavamedia/deltafin | Python | 561 | [Open](https://github.com/gavamedia/deltafin) |
+| 10 | DramaticShape/DramaticShapeVoxelMod | Lua | 535 | [Open](https://github.com/DramaticShape/DramaticShapeVoxelMod) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
