@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-01T01:28:09.521Z
+Updated: 2026-08-02T01:25:50.048Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | MoonshotAI/Kimi-K3 | Unknown | 7724 | [Open](https://github.com/MoonshotAI/Kimi-K3) |
-| 2 | bashalarmistalt/decimen-optical-transfer | TypeScript | 2029 | [Open](https://github.com/bashalarmistalt/decimen-optical-transfer) |
-| 3 | yc-software/qm | TypeScript | 1927 | [Open](https://github.com/yc-software/qm) |
-| 4 | xikhar/persona | JavaScript | 716 | [Open](https://github.com/xikhar/persona) |
-| 5 | QwenAudio/qwen-audio-agent | JavaScript | 609 | [Open](https://github.com/QwenAudio/qwen-audio-agent) |
-| 6 | 0xwilliamortiz/ponytail-improved | JavaScript | 570 | [Open](https://github.com/0xwilliamortiz/ponytail-improved) |
-| 7 | xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer | Unknown | 563 | [Open](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) |
-| 8 | 0xwilliamortiz/openclaude-improved | TypeScript | 563 | [Open](https://github.com/0xwilliamortiz/openclaude-improved) |
-| 9 | gavamedia/deltafin | Python | 561 | [Open](https://github.com/gavamedia/deltafin) |
-| 10 | DramaticShape/DramaticShapeVoxelMod | Lua | 535 | [Open](https://github.com/DramaticShape/DramaticShapeVoxelMod) |
+| 1 | MoonshotAI/Kimi-K3 | Unknown | 7826 | [Open](https://github.com/MoonshotAI/Kimi-K3) |
+| 2 | yc-software/qm | TypeScript | 5016 | [Open](https://github.com/yc-software/qm) |
+| 3 | bashalarmistalt/decimen-optical-transfer | TypeScript | 3083 | [Open](https://github.com/bashalarmistalt/decimen-optical-transfer) |
+| 4 | QwenAudio/qwen-audio-agent | JavaScript | 1283 | [Open](https://github.com/QwenAudio/qwen-audio-agent) |
+| 5 | xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer | Unknown | 1007 | [Open](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) |
+| 6 | xikhar/persona | JavaScript | 764 | [Open](https://github.com/xikhar/persona) |
+| 7 | sqliteai/waste | C | 685 | [Open](https://github.com/sqliteai/waste) |
+| 8 | trycompai/crm | TypeScript | 627 | [Open](https://github.com/trycompai/crm) |
+| 9 | gavamedia/deltafin | Python | 594 | [Open](https://github.com/gavamedia/deltafin) |
+| 10 | talivia-group/talivia | TypeScript | 590 | [Open](https://github.com/talivia-group/talivia) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
