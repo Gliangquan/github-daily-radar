@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-04T01:16:48.842Z
+Updated: 2026-08-05T01:19:59.150Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | yc-software/qm | TypeScript | 9708 | [Open](https://github.com/yc-software/qm) |
-| 2 | bashalarmistalt/decimen-optical-transfer | TypeScript | 4256 | [Open](https://github.com/bashalarmistalt/decimen-optical-transfer) |
-| 3 | trycompai/crm | TypeScript | 3273 | [Open](https://github.com/trycompai/crm) |
-| 4 | xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer | Unknown | 2073 | [Open](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) |
-| 5 | microsoft/skill-recorder | TypeScript | 1411 | [Open](https://github.com/microsoft/skill-recorder) |
-| 6 | FareedKhan-dev/kimi-k3-in-c | C | 1250 | [Open](https://github.com/FareedKhan-dev/kimi-k3-in-c) |
-| 7 | DannyMac180/sol-advisor | Shell | 992 | [Open](https://github.com/DannyMac180/sol-advisor) |
-| 8 | WilonityDev/WilonityLoader | Unknown | 898 | [Open](https://github.com/WilonityDev/WilonityLoader) |
-| 9 | imsai-sh/zhuzhiliao | HTML | 795 | [Open](https://github.com/imsai-sh/zhuzhiliao) |
-| 10 | thebuggeddev/anatomy | TypeScript | 758 | [Open](https://github.com/thebuggeddev/anatomy) |
+| 1 | trycompai/crm | TypeScript | 4699 | [Open](https://github.com/trycompai/crm) |
+| 2 | bashalarmistalt/decimen-optical-transfer | TypeScript | 4551 | [Open](https://github.com/bashalarmistalt/decimen-optical-transfer) |
+| 3 | xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer | Unknown | 2933 | [Open](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) |
+| 4 | FareedKhan-dev/kimi-k3-in-c | C | 2028 | [Open](https://github.com/FareedKhan-dev/kimi-k3-in-c) |
+| 5 | imsai-sh/zhuzhiliao | HTML | 1662 | [Open](https://github.com/imsai-sh/zhuzhiliao) |
+| 6 | firecrawl/anydoc | Rust | 1515 | [Open](https://github.com/firecrawl/anydoc) |
+| 7 | genspark-ai/genoffice | TypeScript | 1344 | [Open](https://github.com/genspark-ai/genoffice) |
+| 8 | DannyMac180/sol-advisor | Shell | 1312 | [Open](https://github.com/DannyMac180/sol-advisor) |
+| 9 | thebuggeddev/anatomy | TypeScript | 1222 | [Open](https://github.com/thebuggeddev/anatomy) |
+| 10 | WilonityDev/WilonityLoader | Unknown | 900 | [Open](https://github.com/WilonityDev/WilonityLoader) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
