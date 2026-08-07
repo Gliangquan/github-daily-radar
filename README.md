@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-06T01:17:20.367Z
+Updated: 2026-08-07T01:58:35.625Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | trycompai/crm | TypeScript | 6274 | [Open](https://github.com/trycompai/crm) |
-| 2 | firecrawl/anydoc | Rust | 5102 | [Open](https://github.com/firecrawl/anydoc) |
-| 3 | FareedKhan-dev/kimi-k3-in-c | C | 2578 | [Open](https://github.com/FareedKhan-dev/kimi-k3-in-c) |
-| 4 | imsai-sh/zhuzhiliao | HTML | 2035 | [Open](https://github.com/imsai-sh/zhuzhiliao) |
-| 5 | genspark-ai/genoffice | TypeScript | 1780 | [Open](https://github.com/genspark-ai/genoffice) |
-| 6 | thebuggeddev/anatomy | TypeScript | 1613 | [Open](https://github.com/thebuggeddev/anatomy) |
-| 7 | DannyMac180/sol-advisor | Shell | 1463 | [Open](https://github.com/DannyMac180/sol-advisor) |
-| 8 | KKKKhazix/human-writing | Python | 1071 | [Open](https://github.com/KKKKhazix/human-writing) |
-| 9 | Accio-Lab/RealReplicaBench | HTML | 1018 | [Open](https://github.com/Accio-Lab/RealReplicaBench) |
-| 10 | x4gKing/3x-ui-multi | JavaScript | 812 | [Open](https://github.com/x4gKing/3x-ui-multi) |
+| 1 | firecrawl/anydoc | Rust | 8563 | [Open](https://github.com/firecrawl/anydoc) |
+| 2 | FareedKhan-dev/kimi-k3-in-c | C | 2837 | [Open](https://github.com/FareedKhan-dev/kimi-k3-in-c) |
+| 3 | imsai-sh/zhuzhiliao | HTML | 2301 | [Open](https://github.com/imsai-sh/zhuzhiliao) |
+| 4 | thebuggeddev/anatomy | TypeScript | 1869 | [Open](https://github.com/thebuggeddev/anatomy) |
+| 5 | DannyMac180/sol-advisor | Shell | 1706 | [Open](https://github.com/DannyMac180/sol-advisor) |
+| 6 | KKKKhazix/human-writing | Python | 1603 | [Open](https://github.com/KKKKhazix/human-writing) |
+| 7 | Binaryify/open-kimi-ppt-skill | Python | 1384 | [Open](https://github.com/Binaryify/open-kimi-ppt-skill) |
+| 8 | Accio-org/RealReplicaBench | HTML | 1036 | [Open](https://github.com/Accio-org/RealReplicaBench) |
+| 9 | ZzzLc0405/photo-abstract-editorial | Unknown | 1005 | [Open](https://github.com/ZzzLc0405/photo-abstract-editorial) |
+| 10 | x4gKing/3x-ui-multi | JavaScript | 877 | [Open](https://github.com/x4gKing/3x-ui-multi) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
