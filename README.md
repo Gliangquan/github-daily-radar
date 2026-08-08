@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-07T01:58:35.625Z
+Updated: 2026-08-08T00:42:03.350Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | firecrawl/anydoc | Rust | 8563 | [Open](https://github.com/firecrawl/anydoc) |
-| 2 | FareedKhan-dev/kimi-k3-in-c | C | 2837 | [Open](https://github.com/FareedKhan-dev/kimi-k3-in-c) |
-| 3 | imsai-sh/zhuzhiliao | HTML | 2301 | [Open](https://github.com/imsai-sh/zhuzhiliao) |
-| 4 | thebuggeddev/anatomy | TypeScript | 1869 | [Open](https://github.com/thebuggeddev/anatomy) |
-| 5 | DannyMac180/sol-advisor | Shell | 1706 | [Open](https://github.com/DannyMac180/sol-advisor) |
-| 6 | KKKKhazix/human-writing | Python | 1603 | [Open](https://github.com/KKKKhazix/human-writing) |
-| 7 | Binaryify/open-kimi-ppt-skill | Python | 1384 | [Open](https://github.com/Binaryify/open-kimi-ppt-skill) |
-| 8 | Accio-org/RealReplicaBench | HTML | 1036 | [Open](https://github.com/Accio-org/RealReplicaBench) |
-| 9 | ZzzLc0405/photo-abstract-editorial | Unknown | 1005 | [Open](https://github.com/ZzzLc0405/photo-abstract-editorial) |
-| 10 | x4gKing/3x-ui-multi | JavaScript | 877 | [Open](https://github.com/x4gKing/3x-ui-multi) |
+| 1 | firecrawl/anydoc | Rust | 11018 | [Open](https://github.com/firecrawl/anydoc) |
+| 2 | thebuggeddev/anatomy | TypeScript | 1982 | [Open](https://github.com/thebuggeddev/anatomy) |
+| 3 | KKKKhazix/human-writing | Python | 1874 | [Open](https://github.com/KKKKhazix/human-writing) |
+| 4 | Binaryify/open-kimi-ppt-skill | Unknown | 1588 | [Open](https://github.com/Binaryify/open-kimi-ppt-skill) |
+| 5 | ZzzLc0405/photo-abstract-editorial | Unknown | 1490 | [Open](https://github.com/ZzzLc0405/photo-abstract-editorial) |
+| 6 | Accio-org/RealReplicaBench | HTML | 1040 | [Open](https://github.com/Accio-org/RealReplicaBench) |
+| 7 | mikiarlo3/awesome-growth-hacking-skills | Shell | 725 | [Open](https://github.com/mikiarlo3/awesome-growth-hacking-skills) |
+| 8 | magicrew/doc7 | Go | 611 | [Open](https://github.com/magicrew/doc7) |
+| 9 | sophiamyang/finger-frame-effect-ai | JavaScript | 604 | [Open](https://github.com/sophiamyang/finger-frame-effect-ai) |
+| 10 | 0xwilliamortiz/claude-red | JavaScript | 559 | [Open](https://github.com/0xwilliamortiz/claude-red) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
