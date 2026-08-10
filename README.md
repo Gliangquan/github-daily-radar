@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-09T00:44:06.435Z
+Updated: 2026-08-10T00:46:36.743Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | firecrawl/anydoc | Rust | 12121 | [Open](https://github.com/firecrawl/anydoc) |
-| 2 | KKKKhazix/human-writing | Python | 1988 | [Open](https://github.com/KKKKhazix/human-writing) |
-| 3 | ZzzLc0405/photo-abstract-editorial | Unknown | 1721 | [Open](https://github.com/ZzzLc0405/photo-abstract-editorial) |
-| 4 | Binaryify/open-kimi-ppt-skill | Unknown | 1588 | [Open](https://github.com/Binaryify/open-kimi-ppt-skill) |
-| 5 | mikiarlo3/awesome-growth-hacking-skills | Shell | 763 | [Open](https://github.com/mikiarlo3/awesome-growth-hacking-skills) |
-| 6 | 0xwilliamortiz/claude-red | JavaScript | 681 | [Open](https://github.com/0xwilliamortiz/claude-red) |
-| 7 | google-gemma/gemma-translator | JavaScript | 577 | [Open](https://github.com/google-gemma/gemma-translator) |
-| 8 | wumingqi60/lingxi | TypeScript | 567 | [Open](https://github.com/wumingqi60/lingxi) |
-| 9 | MarcosSete/awesome-free-ai-course-notes | Unknown | 560 | [Open](https://github.com/MarcosSete/awesome-free-ai-course-notes) |
-| 10 | xoreaxeaxeax/asm-hall-of-shame | C | 547 | [Open](https://github.com/xoreaxeaxeax/asm-hall-of-shame) |
+| 1 | KKKKhazix/human-writing | Python | 2096 | [Open](https://github.com/KKKKhazix/human-writing) |
+| 2 | ZzzLc0405/photo-abstract-editorial | Unknown | 1952 | [Open](https://github.com/ZzzLc0405/photo-abstract-editorial) |
+| 3 | Binaryify/open-kimi-ppt-skill | Unknown | 1607 | [Open](https://github.com/Binaryify/open-kimi-ppt-skill) |
+| 4 | ShawnPana/phone-harness | Python | 852 | [Open](https://github.com/ShawnPana/phone-harness) |
+| 5 | mikiarlo3/awesome-growth-hacking-skills | Shell | 795 | [Open](https://github.com/mikiarlo3/awesome-growth-hacking-skills) |
+| 6 | 0xwilliamortiz/claude-red | JavaScript | 705 | [Open](https://github.com/0xwilliamortiz/claude-red) |
+| 7 | xoreaxeaxeax/asm-hall-of-shame | C | 658 | [Open](https://github.com/xoreaxeaxeax/asm-hall-of-shame) |
+| 8 | jd-opensource/JoyAI-Video-Edit | Python | 605 | [Open](https://github.com/jd-opensource/JoyAI-Video-Edit) |
+| 9 | MengTo/kage | HTML | 583 | [Open](https://github.com/MengTo/kage) |
+| 10 | oil-oil/oil-motion | Python | 580 | [Open](https://github.com/oil-oil/oil-motion) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
