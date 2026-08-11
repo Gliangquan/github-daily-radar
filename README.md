@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-10T00:46:36.743Z
+Updated: 2026-08-11T00:45:56.273Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | KKKKhazix/human-writing | Python | 2096 | [Open](https://github.com/KKKKhazix/human-writing) |
-| 2 | ZzzLc0405/photo-abstract-editorial | Unknown | 1952 | [Open](https://github.com/ZzzLc0405/photo-abstract-editorial) |
-| 3 | Binaryify/open-kimi-ppt-skill | Unknown | 1607 | [Open](https://github.com/Binaryify/open-kimi-ppt-skill) |
-| 4 | ShawnPana/phone-harness | Python | 852 | [Open](https://github.com/ShawnPana/phone-harness) |
-| 5 | mikiarlo3/awesome-growth-hacking-skills | Shell | 795 | [Open](https://github.com/mikiarlo3/awesome-growth-hacking-skills) |
-| 6 | 0xwilliamortiz/claude-red | JavaScript | 705 | [Open](https://github.com/0xwilliamortiz/claude-red) |
-| 7 | xoreaxeaxeax/asm-hall-of-shame | C | 658 | [Open](https://github.com/xoreaxeaxeax/asm-hall-of-shame) |
-| 8 | jd-opensource/JoyAI-Video-Edit | Python | 605 | [Open](https://github.com/jd-opensource/JoyAI-Video-Edit) |
-| 9 | MengTo/kage | HTML | 583 | [Open](https://github.com/MengTo/kage) |
-| 10 | oil-oil/oil-motion | Python | 580 | [Open](https://github.com/oil-oil/oil-motion) |
+| 1 | KKKKhazix/human-writing | Python | 2273 | [Open](https://github.com/KKKKhazix/human-writing) |
+| 2 | Binaryify/open-kimi-ppt-skill | Unknown | 1607 | [Open](https://github.com/Binaryify/open-kimi-ppt-skill) |
+| 3 | ShawnPana/phone-harness | Python | 1313 | [Open](https://github.com/ShawnPana/phone-harness) |
+| 4 | oil-oil/oil-motion | Python | 1199 | [Open](https://github.com/oil-oil/oil-motion) |
+| 5 | MengTo/kage | HTML | 774 | [Open](https://github.com/MengTo/kage) |
+| 6 | xoreaxeaxeax/asm-hall-of-shame | C | 729 | [Open](https://github.com/xoreaxeaxeax/asm-hall-of-shame) |
+| 7 | SMNETSTUDIO/WeChat-AI | TypeScript | 720 | [Open](https://github.com/SMNETSTUDIO/WeChat-AI) |
+| 8 | eternityspring/shuohao-skills | JavaScript | 648 | [Open](https://github.com/eternityspring/shuohao-skills) |
+| 9 | T8mars/comfyui-minimax-h3-audio-T8 | Python | 585 | [Open](https://github.com/T8mars/comfyui-minimax-h3-audio-T8) |
+| 10 | sv-number/mcp-server | JavaScript | 547 | [Open](https://github.com/sv-number/mcp-server) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
