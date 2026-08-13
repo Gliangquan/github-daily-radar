@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-12T00:53:41.466Z
+Updated: 2026-08-13T00:55:02.994Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | ShawnPana/phone-harness | Python | 1499 | [Open](https://github.com/ShawnPana/phone-harness) |
-| 2 | oil-oil/oil-motion | Python | 1483 | [Open](https://github.com/oil-oil/oil-motion) |
-| 3 | SMNETSTUDIO/WeChat-AI | TypeScript | 1421 | [Open](https://github.com/SMNETSTUDIO/WeChat-AI) |
-| 4 | antirez/h3.c | C | 1237 | [Open](https://github.com/antirez/h3.c) |
-| 5 | eternityspring/shuohao-skills | JavaScript | 892 | [Open](https://github.com/eternityspring/shuohao-skills) |
-| 6 | sohaibdevv/youtube-music | TypeScript | 835 | [Open](https://github.com/sohaibdevv/youtube-music) |
-| 7 | MengTo/kage | HTML | 820 | [Open](https://github.com/MengTo/kage) |
-| 8 | xoreaxeaxeax/asm-hall-of-shame | C | 769 | [Open](https://github.com/xoreaxeaxeax/asm-hall-of-shame) |
-| 9 | Flaminis/Dalaran | Rust | 666 | [Open](https://github.com/Flaminis/Dalaran) |
-| 10 | sv-number/mcp-server | JavaScript | 615 | [Open](https://github.com/sv-number/mcp-server) |
+| 1 | guillaumemeyer/watermarks-remover | Python | 2351 | [Open](https://github.com/guillaumemeyer/watermarks-remover) |
+| 2 | ShawnPana/phone-harness | Python | 1636 | [Open](https://github.com/ShawnPana/phone-harness) |
+| 3 | oil-oil/oil-motion | Python | 1614 | [Open](https://github.com/oil-oil/oil-motion) |
+| 4 | antirez/h3.c | C | 1593 | [Open](https://github.com/antirez/h3.c) |
+| 5 | SMNETSTUDIO/WeChat-AI | TypeScript | 1519 | [Open](https://github.com/SMNETSTUDIO/WeChat-AI) |
+| 6 | Flaminis/Dalaran | Rust | 887 | [Open](https://github.com/Flaminis/Dalaran) |
+| 7 | MengTo/kage | HTML | 859 | [Open](https://github.com/MengTo/kage) |
+| 8 | sohaibdevv/youtube-music | TypeScript | 850 | [Open](https://github.com/sohaibdevv/youtube-music) |
+| 9 | SaladDay/pi-from-scratch | TypeScript | 759 | [Open](https://github.com/SaladDay/pi-from-scratch) |
+| 10 | gvzdv/claudish-to-english | Shell | 624 | [Open](https://github.com/gvzdv/claudish-to-english) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
