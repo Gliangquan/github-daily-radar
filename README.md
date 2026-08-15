@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-14T00:54:23.500Z
+Updated: 2026-08-15T00:31:38.465Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | deepseek-ai/deepseek-harness | TypeScript | 44634 | [Open](https://github.com/deepseek-ai/deepseek-harness) |
-| 2 | guillaumemeyer/watermarks-remover | Python | 5417 | [Open](https://github.com/guillaumemeyer/watermarks-remover) |
-| 3 | antirez/h3.c | C | 1777 | [Open](https://github.com/antirez/h3.c) |
-| 4 | SMNETSTUDIO/WeChat-AI | TypeScript | 1683 | [Open](https://github.com/SMNETSTUDIO/WeChat-AI) |
-| 5 | Leutenegger/book-to-skill | Python | 1027 | [Open](https://github.com/Leutenegger/book-to-skill) |
-| 6 | xoreaxeaxeax/skitter-creek-bath-salts | C | 969 | [Open](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) |
-| 7 | gvzdv/claudish-to-english | Shell | 923 | [Open](https://github.com/gvzdv/claudish-to-english) |
-| 8 | MengTo/kage | HTML | 891 | [Open](https://github.com/MengTo/kage) |
-| 9 | SaladDay/pi-from-scratch | TypeScript | 887 | [Open](https://github.com/SaladDay/pi-from-scratch) |
-| 10 | sohaibdevv/youtube-music | TypeScript | 855 | [Open](https://github.com/sohaibdevv/youtube-music) |
+| 1 | deepseek-ai/deepseek-harness | TypeScript | 95570 | [Open](https://github.com/deepseek-ai/deepseek-harness) |
+| 2 | guillaumemeyer/watermarks-remover | Python | 8151 | [Open](https://github.com/guillaumemeyer/watermarks-remover) |
+| 3 | zhu1090093659/dsh-web-ui | TypeScript | 1943 | [Open](https://github.com/zhu1090093659/dsh-web-ui) |
+| 4 | anywhere-labs/deepseek-harness-desktop | TypeScript | 1866 | [Open](https://github.com/anywhere-labs/deepseek-harness-desktop) |
+| 5 | antirez/h3.c | C | 1851 | [Open](https://github.com/antirez/h3.c) |
+| 6 | SMNETSTUDIO/WeChat-AI | TypeScript | 1709 | [Open](https://github.com/SMNETSTUDIO/WeChat-AI) |
+| 7 | xoreaxeaxeax/skitter-creek-bath-salts | C | 1571 | [Open](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) |
+| 8 | cordiverse/paper | Unknown | 1313 | [Open](https://github.com/cordiverse/paper) |
+| 9 | awesome-dsh-plugin/awesome-dsh-plugin | Python | 1106 | [Open](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) |
+| 10 | gvzdv/claudish-to-english | Shell | 1095 | [Open](https://github.com/gvzdv/claudish-to-english) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
