@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-15T00:31:38.465Z
+Updated: 2026-08-16T00:32:06.670Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | deepseek-ai/deepseek-harness | TypeScript | 95570 | [Open](https://github.com/deepseek-ai/deepseek-harness) |
-| 2 | guillaumemeyer/watermarks-remover | Python | 8151 | [Open](https://github.com/guillaumemeyer/watermarks-remover) |
-| 3 | zhu1090093659/dsh-web-ui | TypeScript | 1943 | [Open](https://github.com/zhu1090093659/dsh-web-ui) |
-| 4 | anywhere-labs/deepseek-harness-desktop | TypeScript | 1866 | [Open](https://github.com/anywhere-labs/deepseek-harness-desktop) |
-| 5 | antirez/h3.c | C | 1851 | [Open](https://github.com/antirez/h3.c) |
-| 6 | SMNETSTUDIO/WeChat-AI | TypeScript | 1709 | [Open](https://github.com/SMNETSTUDIO/WeChat-AI) |
-| 7 | xoreaxeaxeax/skitter-creek-bath-salts | C | 1571 | [Open](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) |
-| 8 | cordiverse/paper | Unknown | 1313 | [Open](https://github.com/cordiverse/paper) |
-| 9 | awesome-dsh-plugin/awesome-dsh-plugin | Python | 1106 | [Open](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) |
-| 10 | gvzdv/claudish-to-english | Shell | 1095 | [Open](https://github.com/gvzdv/claudish-to-english) |
+| 1 | deepseek-ai/deepseek-harness | TypeScript | 115303 | [Open](https://github.com/deepseek-ai/deepseek-harness) |
+| 2 | guillaumemeyer/watermarks-remover | Python | 9736 | [Open](https://github.com/guillaumemeyer/watermarks-remover) |
+| 3 | anywhere-labs/deepseek-harness-desktop | TypeScript | 5875 | [Open](https://github.com/anywhere-labs/deepseek-harness-desktop) |
+| 4 | awesome-dsh-plugin/awesome-dsh-plugin | Python | 2994 | [Open](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) |
+| 5 | zhu1090093659/dsh-web-ui | TypeScript | 2707 | [Open](https://github.com/zhu1090093659/dsh-web-ui) |
+| 6 | xiaobright/dsh-anchored-standard | JavaScript | 2189 | [Open](https://github.com/xiaobright/dsh-anchored-standard) |
+| 7 | SMNETSTUDIO/WeChat-AI | TypeScript | 1737 | [Open](https://github.com/SMNETSTUDIO/WeChat-AI) |
+| 8 | yjh051108/dsh-routing-suite | PowerShell | 1692 | [Open](https://github.com/yjh051108/dsh-routing-suite) |
+| 9 | xoreaxeaxeax/skitter-creek-bath-salts | C | 1674 | [Open](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) |
+| 10 | cordiverse/paper | Unknown | 1626 | [Open](https://github.com/cordiverse/paper) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
