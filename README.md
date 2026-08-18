@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-17T00:30:54.417Z
+Updated: 2026-08-18T00:29:53.866Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | deepseek-ai/deepseek-harness | TypeScript | 131397 | [Open](https://github.com/deepseek-ai/deepseek-harness) |
-| 2 | guillaumemeyer/watermarks-remover | Python | 11444 | [Open](https://github.com/guillaumemeyer/watermarks-remover) |
-| 3 | anywhere-labs/deepseek-harness-desktop | TypeScript | 8896 | [Open](https://github.com/anywhere-labs/deepseek-harness-desktop) |
-| 4 | awesome-dsh-plugin/awesome-dsh-plugin | Python | 5118 | [Open](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) |
-| 5 | zhu1090093659/dsh-web-ui | TypeScript | 3422 | [Open](https://github.com/zhu1090093659/dsh-web-ui) |
-| 6 | xiaobright/dsh-anchored-standard | JavaScript | 3021 | [Open](https://github.com/xiaobright/dsh-anchored-standard) |
-| 7 | yjh051108/dsh-routing-suite | PowerShell | 2816 | [Open](https://github.com/yjh051108/dsh-routing-suite) |
-| 8 | cordiverse/paper | Unknown | 1873 | [Open](https://github.com/cordiverse/paper) |
-| 9 | xoreaxeaxeax/skitter-creek-bath-salts | C | 1728 | [Open](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) |
-| 10 | dmmulroy/anti-slop | TypeScript | 1663 | [Open](https://github.com/dmmulroy/anti-slop) |
+| 1 | deepseek-ai/deepseek-harness | TypeScript | 149931 | [Open](https://github.com/deepseek-ai/deepseek-harness) |
+| 2 | anywhere-labs/deepseek-harness-desktop | TypeScript | 11639 | [Open](https://github.com/anywhere-labs/deepseek-harness-desktop) |
+| 3 | awesome-dsh-plugin/awesome-dsh-plugin | Python | 7574 | [Open](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) |
+| 4 | yjh051108/dsh-routing-suite | PowerShell | 5363 | [Open](https://github.com/yjh051108/dsh-routing-suite) |
+| 5 | zhu1090093659/dsh-web-ui | TypeScript | 4104 | [Open](https://github.com/zhu1090093659/dsh-web-ui) |
+| 6 | xiaobright/dsh-anchored-standard | JavaScript | 3423 | [Open](https://github.com/xiaobright/dsh-anchored-standard) |
+| 7 | dmmulroy/anti-slop | TypeScript | 2368 | [Open](https://github.com/dmmulroy/anti-slop) |
+| 8 | cordiverse/paper | Unknown | 2114 | [Open](https://github.com/cordiverse/paper) |
+| 9 | ccch1mneyyy/dsh-TUI | TypeScript | 1812 | [Open](https://github.com/ccch1mneyyy/dsh-TUI) |
+| 10 | xoreaxeaxeax/skitter-creek-bath-salts | C | 1778 | [Open](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
