@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-18T00:29:53.866Z
+Updated: 2026-08-19T00:30:22.364Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | deepseek-ai/deepseek-harness | TypeScript | 149931 | [Open](https://github.com/deepseek-ai/deepseek-harness) |
-| 2 | anywhere-labs/deepseek-harness-desktop | TypeScript | 11639 | [Open](https://github.com/anywhere-labs/deepseek-harness-desktop) |
-| 3 | awesome-dsh-plugin/awesome-dsh-plugin | Python | 7574 | [Open](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) |
-| 4 | yjh051108/dsh-routing-suite | PowerShell | 5363 | [Open](https://github.com/yjh051108/dsh-routing-suite) |
-| 5 | zhu1090093659/dsh-web-ui | TypeScript | 4104 | [Open](https://github.com/zhu1090093659/dsh-web-ui) |
-| 6 | xiaobright/dsh-anchored-standard | JavaScript | 3423 | [Open](https://github.com/xiaobright/dsh-anchored-standard) |
-| 7 | dmmulroy/anti-slop | TypeScript | 2368 | [Open](https://github.com/dmmulroy/anti-slop) |
-| 8 | cordiverse/paper | Unknown | 2114 | [Open](https://github.com/cordiverse/paper) |
-| 9 | ccch1mneyyy/dsh-TUI | TypeScript | 1812 | [Open](https://github.com/ccch1mneyyy/dsh-TUI) |
-| 10 | xoreaxeaxeax/skitter-creek-bath-salts | C | 1778 | [Open](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) |
+| 1 | deepseek-ai/deepseek-harness | TypeScript | 160370 | [Open](https://github.com/deepseek-ai/deepseek-harness) |
+| 2 | anywhere-labs/deepseek-harness-desktop | TypeScript | 13580 | [Open](https://github.com/anywhere-labs/deepseek-harness-desktop) |
+| 3 | awesome-dsh-plugin/awesome-dsh-plugin | Python | 8892 | [Open](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) |
+| 4 | yjh051108/dsh-routing-suite | PowerShell | 6031 | [Open](https://github.com/yjh051108/dsh-routing-suite) |
+| 5 | xiaobright/dsh-anchored-standard | JavaScript | 3559 | [Open](https://github.com/xiaobright/dsh-anchored-standard) |
+| 6 | yetone/cumora | TypeScript | 2363 | [Open](https://github.com/yetone/cumora) |
+| 7 | cordiverse/paper | Unknown | 2294 | [Open](https://github.com/cordiverse/paper) |
+| 8 | ccch1mneyyy/dsh-TUI | TypeScript | 1970 | [Open](https://github.com/ccch1mneyyy/dsh-TUI) |
+| 9 | xoreaxeaxeax/skitter-creek-bath-salts | C | 1824 | [Open](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) |
+| 10 | Small-tailqwq/dsh-deep-whale | TypeScript | 1378 | [Open](https://github.com/Small-tailqwq/dsh-deep-whale) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
