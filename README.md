@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-19T00:30:22.364Z
+Updated: 2026-08-20T00:30:34.705Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | deepseek-ai/deepseek-harness | TypeScript | 160370 | [Open](https://github.com/deepseek-ai/deepseek-harness) |
-| 2 | anywhere-labs/deepseek-harness-desktop | TypeScript | 13580 | [Open](https://github.com/anywhere-labs/deepseek-harness-desktop) |
-| 3 | awesome-dsh-plugin/awesome-dsh-plugin | Python | 8892 | [Open](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) |
-| 4 | yjh051108/dsh-routing-suite | PowerShell | 6031 | [Open](https://github.com/yjh051108/dsh-routing-suite) |
-| 5 | xiaobright/dsh-anchored-standard | JavaScript | 3559 | [Open](https://github.com/xiaobright/dsh-anchored-standard) |
-| 6 | yetone/cumora | TypeScript | 2363 | [Open](https://github.com/yetone/cumora) |
-| 7 | cordiverse/paper | Unknown | 2294 | [Open](https://github.com/cordiverse/paper) |
-| 8 | ccch1mneyyy/dsh-TUI | TypeScript | 1970 | [Open](https://github.com/ccch1mneyyy/dsh-TUI) |
-| 9 | xoreaxeaxeax/skitter-creek-bath-salts | C | 1824 | [Open](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) |
-| 10 | Small-tailqwq/dsh-deep-whale | TypeScript | 1378 | [Open](https://github.com/Small-tailqwq/dsh-deep-whale) |
+| 1 | yjh051108/dsh-routing-suite | PowerShell | 6299 | [Open](https://github.com/yjh051108/dsh-routing-suite) |
+| 2 | xiaobright/dsh-anchored-standard | JavaScript | 3639 | [Open](https://github.com/xiaobright/dsh-anchored-standard) |
+| 3 | yetone/cumora | TypeScript | 2683 | [Open](https://github.com/yetone/cumora) |
+| 4 | s1dashu/ip-as-logo-skill | Unknown | 2077 | [Open](https://github.com/s1dashu/ip-as-logo-skill) |
+| 5 | dsh-market/dsh-market | TypeScript | 1246 | [Open](https://github.com/dsh-market/dsh-market) |
+| 6 | cinderline/northcinder | JavaScript | 1193 | [Open](https://github.com/cinderline/northcinder) |
+| 7 | alchaincyf/deepseek-harness-orange-book | HTML | 1071 | [Open](https://github.com/alchaincyf/deepseek-harness-orange-book) |
+| 8 | ZSvirt/zsvirt | Java | 1066 | [Open](https://github.com/ZSvirt/zsvirt) |
+| 9 | Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report | Unknown | 1018 | [Open](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report) |
+| 10 | zouyuxuan122/Deepseek-Harness-EAC | JavaScript | 958 | [Open](https://github.com/zouyuxuan122/Deepseek-Harness-EAC) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
