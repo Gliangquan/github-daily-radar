@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-20T00:30:34.705Z
+Updated: 2026-08-21T00:33:30.971Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | yjh051108/dsh-routing-suite | PowerShell | 6299 | [Open](https://github.com/yjh051108/dsh-routing-suite) |
-| 2 | xiaobright/dsh-anchored-standard | JavaScript | 3639 | [Open](https://github.com/xiaobright/dsh-anchored-standard) |
-| 3 | yetone/cumora | TypeScript | 2683 | [Open](https://github.com/yetone/cumora) |
-| 4 | s1dashu/ip-as-logo-skill | Unknown | 2077 | [Open](https://github.com/s1dashu/ip-as-logo-skill) |
-| 5 | dsh-market/dsh-market | TypeScript | 1246 | [Open](https://github.com/dsh-market/dsh-market) |
-| 6 | cinderline/northcinder | JavaScript | 1193 | [Open](https://github.com/cinderline/northcinder) |
-| 7 | alchaincyf/deepseek-harness-orange-book | HTML | 1071 | [Open](https://github.com/alchaincyf/deepseek-harness-orange-book) |
-| 8 | ZSvirt/zsvirt | Java | 1066 | [Open](https://github.com/ZSvirt/zsvirt) |
-| 9 | Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report | Unknown | 1018 | [Open](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report) |
-| 10 | zouyuxuan122/Deepseek-Harness-EAC | JavaScript | 958 | [Open](https://github.com/zouyuxuan122/Deepseek-Harness-EAC) |
+| 1 | s1dashu/ip-as-logo-skill | Unknown | 3089 | [Open](https://github.com/s1dashu/ip-as-logo-skill) |
+| 2 | yetone/cumora | TypeScript | 2774 | [Open](https://github.com/yetone/cumora) |
+| 3 | CopilotKit/OpenBot | TypeScript | 1623 | [Open](https://github.com/CopilotKit/OpenBot) |
+| 4 | cinderline/northcinder | JavaScript | 1198 | [Open](https://github.com/cinderline/northcinder) |
+| 5 | Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report | Unknown | 1038 | [Open](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report) |
+| 6 | Leutenegger/watermarks-remover | Python | 924 | [Open](https://github.com/Leutenegger/watermarks-remover) |
+| 7 | vvxw/deploy-vercel | JavaScript | 799 | [Open](https://github.com/vvxw/deploy-vercel) |
+| 8 | wang2122/sprix-sage-router | Python | 678 | [Open](https://github.com/wang2122/sprix-sage-router) |
+| 9 | DenisSergeevitch/desktop-fly | Swift | 629 | [Open](https://github.com/DenisSergeevitch/desktop-fly) |
+| 10 | SigmanticAI/apex-inference-chip | Python | 628 | [Open](https://github.com/SigmanticAI/apex-inference-chip) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
