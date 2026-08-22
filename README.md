@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-21T00:33:30.971Z
+Updated: 2026-08-22T00:30:32.242Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | s1dashu/ip-as-logo-skill | Unknown | 3089 | [Open](https://github.com/s1dashu/ip-as-logo-skill) |
-| 2 | yetone/cumora | TypeScript | 2774 | [Open](https://github.com/yetone/cumora) |
-| 3 | CopilotKit/OpenBot | TypeScript | 1623 | [Open](https://github.com/CopilotKit/OpenBot) |
-| 4 | cinderline/northcinder | JavaScript | 1198 | [Open](https://github.com/cinderline/northcinder) |
-| 5 | Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report | Unknown | 1038 | [Open](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report) |
-| 6 | Leutenegger/watermarks-remover | Python | 924 | [Open](https://github.com/Leutenegger/watermarks-remover) |
-| 7 | vvxw/deploy-vercel | JavaScript | 799 | [Open](https://github.com/vvxw/deploy-vercel) |
-| 8 | wang2122/sprix-sage-router | Python | 678 | [Open](https://github.com/wang2122/sprix-sage-router) |
-| 9 | DenisSergeevitch/desktop-fly | Swift | 629 | [Open](https://github.com/DenisSergeevitch/desktop-fly) |
-| 10 | SigmanticAI/apex-inference-chip | Python | 628 | [Open](https://github.com/SigmanticAI/apex-inference-chip) |
+| 1 | s1dashu/ip-as-logo-skill | Unknown | 3485 | [Open](https://github.com/s1dashu/ip-as-logo-skill) |
+| 2 | yetone/cumora | TypeScript | 2858 | [Open](https://github.com/yetone/cumora) |
+| 3 | CopilotKit/OpenBot | TypeScript | 2120 | [Open](https://github.com/CopilotKit/OpenBot) |
+| 4 | cinderline/northcinder | JavaScript | 1203 | [Open](https://github.com/cinderline/northcinder) |
+| 5 | Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report | Unknown | 1036 | [Open](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report) |
+| 6 | wang2122/sprix-sage-router | Python | 1009 | [Open](https://github.com/wang2122/sprix-sage-router) |
+| 7 | vvxw/deploy-vercel | JavaScript | 985 | [Open](https://github.com/vvxw/deploy-vercel) |
+| 8 | Leutenegger/watermarks-remover | Python | 929 | [Open](https://github.com/Leutenegger/watermarks-remover) |
+| 9 | Leutenegger/vanity-eth | Python | 803 | [Open](https://github.com/Leutenegger/vanity-eth) |
+| 10 | browser-use/macos-harness | Python | 686 | [Open](https://github.com/browser-use/macos-harness) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
