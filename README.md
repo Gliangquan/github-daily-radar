@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-22T00:30:32.242Z
+Updated: 2026-08-23T00:32:47.822Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | s1dashu/ip-as-logo-skill | Unknown | 3485 | [Open](https://github.com/s1dashu/ip-as-logo-skill) |
-| 2 | yetone/cumora | TypeScript | 2858 | [Open](https://github.com/yetone/cumora) |
-| 3 | CopilotKit/OpenBot | TypeScript | 2120 | [Open](https://github.com/CopilotKit/OpenBot) |
-| 4 | cinderline/northcinder | JavaScript | 1203 | [Open](https://github.com/cinderline/northcinder) |
-| 5 | Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report | Unknown | 1036 | [Open](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report) |
-| 6 | wang2122/sprix-sage-router | Python | 1009 | [Open](https://github.com/wang2122/sprix-sage-router) |
-| 7 | vvxw/deploy-vercel | JavaScript | 985 | [Open](https://github.com/vvxw/deploy-vercel) |
-| 8 | Leutenegger/watermarks-remover | Python | 929 | [Open](https://github.com/Leutenegger/watermarks-remover) |
+| 1 | s1dashu/ip-as-logo-skill | Unknown | 3777 | [Open](https://github.com/s1dashu/ip-as-logo-skill) |
+| 2 | yetone/cumora | TypeScript | 2901 | [Open](https://github.com/yetone/cumora) |
+| 3 | CopilotKit/OpenBot | TypeScript | 2323 | [Open](https://github.com/CopilotKit/OpenBot) |
+| 4 | MengTo/threeui | HTML | 1876 | [Open](https://github.com/MengTo/threeui) |
+| 5 | wang2122/sprix-sage-router | Python | 1243 | [Open](https://github.com/wang2122/sprix-sage-router) |
+| 6 | cinderline/northcinder | JavaScript | 1205 | [Open](https://github.com/cinderline/northcinder) |
+| 7 | vvxw/deploy-vercel | JavaScript | 1116 | [Open](https://github.com/vvxw/deploy-vercel) |
+| 8 | Leutenegger/watermarks-remover | Python | 934 | [Open](https://github.com/Leutenegger/watermarks-remover) |
 | 9 | Leutenegger/vanity-eth | Python | 803 | [Open](https://github.com/Leutenegger/vanity-eth) |
-| 10 | browser-use/macos-harness | Python | 686 | [Open](https://github.com/browser-use/macos-harness) |
+| 10 | browser-use/macos-harness | Python | 708 | [Open](https://github.com/browser-use/macos-harness) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
