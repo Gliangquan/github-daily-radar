@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-24T00:32:15.025Z
+Updated: 2026-08-25T00:31:29.164Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | s1dashu/ip-as-logo-skill | Unknown | 3899 | [Open](https://github.com/s1dashu/ip-as-logo-skill) |
-| 2 | MengTo/threeui | HTML | 2882 | [Open](https://github.com/MengTo/threeui) |
-| 3 | wang2122/sprix-sage-router | Python | 1412 | [Open](https://github.com/wang2122/sprix-sage-router) |
-| 4 | vvxw/deploy-vercel | JavaScript | 1213 | [Open](https://github.com/vvxw/deploy-vercel) |
-| 5 | duty1g/x64dbg-mcp-server | Zig | 860 | [Open](https://github.com/duty1g/x64dbg-mcp-server) |
-| 6 | ShadowAqueduct/watermark-remover | Python | 759 | [Open](https://github.com/ShadowAqueduct/watermark-remover) |
-| 7 | MeteorNOX/DeepSeek-Balance-Whale-Widget | JavaScript | 716 | [Open](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) |
-| 8 | DenisSergeevitch/desktop-fly | Swift | 704 | [Open](https://github.com/DenisSergeevitch/desktop-fly) |
-| 9 | cclank/lanshu-create-ai-presenter-video | Python | 650 | [Open](https://github.com/cclank/lanshu-create-ai-presenter-video) |
-| 10 | missuo/herdrm | Swift | 611 | [Open](https://github.com/missuo/herdrm) |
+| 1 | MengTo/threeui | HTML | 3448 | [Open](https://github.com/MengTo/threeui) |
+| 2 | b-nnett/grok-bot-0.18-reconstructed | TypeScript | 1704 | [Open](https://github.com/b-nnett/grok-bot-0.18-reconstructed) |
+| 3 | duty1g/x64dbg-mcp-server | Zig | 1223 | [Open](https://github.com/duty1g/x64dbg-mcp-server) |
+| 4 | tobi/walgit | Rust | 1046 | [Open](https://github.com/tobi/walgit) |
+| 5 | cclank/lanshu-create-ai-presenter-video | Python | 837 | [Open](https://github.com/cclank/lanshu-create-ai-presenter-video) |
+| 6 | ShadowAqueduct/watermark-remover | Python | 768 | [Open](https://github.com/ShadowAqueduct/watermark-remover) |
+| 7 | nateherkai/scroll-craft | JavaScript | 632 | [Open](https://github.com/nateherkai/scroll-craft) |
+| 8 | missuo/herdrm | Swift | 622 | [Open](https://github.com/missuo/herdrm) |
+| 9 | lanicer/cve-2026-41940-PoC | Python | 528 | [Open](https://github.com/lanicer/cve-2026-41940-PoC) |
+| 10 | Forsy-AI/biosecurity-agent | TypeScript | 513 | [Open](https://github.com/Forsy-AI/biosecurity-agent) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
