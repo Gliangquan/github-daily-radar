@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-25T00:31:29.164Z
+Updated: 2026-08-26T00:32:47.013Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | MengTo/threeui | HTML | 3448 | [Open](https://github.com/MengTo/threeui) |
-| 2 | b-nnett/grok-bot-0.18-reconstructed | TypeScript | 1704 | [Open](https://github.com/b-nnett/grok-bot-0.18-reconstructed) |
-| 3 | duty1g/x64dbg-mcp-server | Zig | 1223 | [Open](https://github.com/duty1g/x64dbg-mcp-server) |
-| 4 | tobi/walgit | Rust | 1046 | [Open](https://github.com/tobi/walgit) |
-| 5 | cclank/lanshu-create-ai-presenter-video | Python | 837 | [Open](https://github.com/cclank/lanshu-create-ai-presenter-video) |
-| 6 | ShadowAqueduct/watermark-remover | Python | 768 | [Open](https://github.com/ShadowAqueduct/watermark-remover) |
-| 7 | nateherkai/scroll-craft | JavaScript | 632 | [Open](https://github.com/nateherkai/scroll-craft) |
-| 8 | missuo/herdrm | Swift | 622 | [Open](https://github.com/missuo/herdrm) |
-| 9 | lanicer/cve-2026-41940-PoC | Python | 528 | [Open](https://github.com/lanicer/cve-2026-41940-PoC) |
-| 10 | Forsy-AI/biosecurity-agent | TypeScript | 513 | [Open](https://github.com/Forsy-AI/biosecurity-agent) |
+| 1 | MengTo/threeui | HTML | 3909 | [Open](https://github.com/MengTo/threeui) |
+| 2 | b-nnett/grok-bot-0.18-reconstructed | TypeScript | 2543 | [Open](https://github.com/b-nnett/grok-bot-0.18-reconstructed) |
+| 3 | tobi/walgit | Rust | 1543 | [Open](https://github.com/tobi/walgit) |
+| 4 | duty1g/x64dbg-mcp-server | Zig | 1380 | [Open](https://github.com/duty1g/x64dbg-mcp-server) |
+| 5 | cclank/lanshu-create-ai-presenter-video | Python | 913 | [Open](https://github.com/cclank/lanshu-create-ai-presenter-video) |
+| 6 | nateherkai/scroll-craft | JavaScript | 907 | [Open](https://github.com/nateherkai/scroll-craft) |
+| 7 | ShadowAqueduct/watermark-remover | Python | 791 | [Open](https://github.com/ShadowAqueduct/watermark-remover) |
+| 8 | ApodexAI/FrontierAgent | Python | 566 | [Open](https://github.com/ApodexAI/FrontierAgent) |
+| 9 | bryllim/workout-guide | Astro | 517 | [Open](https://github.com/bryllim/workout-guide) |
+| 10 | Forsy-AI/biosecurity-agent | TypeScript | 514 | [Open](https://github.com/Forsy-AI/biosecurity-agent) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
