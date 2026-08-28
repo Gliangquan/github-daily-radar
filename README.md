@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-27T05:24:03.615Z
+Updated: 2026-08-28T07:20:51.980Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | MengTo/threeui | HTML | 4221 | [Open](https://github.com/MengTo/threeui) |
-| 2 | b-nnett/grok-bot-0.18-reconstructed | TypeScript | 3138 | [Open](https://github.com/b-nnett/grok-bot-0.18-reconstructed) |
-| 3 | tobi/walgit | Rust | 2090 | [Open](https://github.com/tobi/walgit) |
-| 4 | duty1g/x64dbg-mcp-server | Zig | 1478 | [Open](https://github.com/duty1g/x64dbg-mcp-server) |
-| 5 | nateherkai/scroll-craft | JavaScript | 1028 | [Open](https://github.com/nateherkai/scroll-craft) |
-| 6 | ApodexAI/FrontierAgent | Python | 1021 | [Open](https://github.com/ApodexAI/FrontierAgent) |
-| 7 | bryllim/workout-guide | Astro | 865 | [Open](https://github.com/bryllim/workout-guide) |
-| 8 | ShadowAqueduct/watermark-remover | Python | 808 | [Open](https://github.com/ShadowAqueduct/watermark-remover) |
-| 9 | wide-trace/open-higgsfield | TypeScript | 610 | [Open](https://github.com/wide-trace/open-higgsfield) |
-| 10 | themartiano/try-omarchy | Shell | 572 | [Open](https://github.com/themartiano/try-omarchy) |
+| 1 | b-nnett/grok-bot-0.18-reconstructed | TypeScript | 3384 | [Open](https://github.com/b-nnett/grok-bot-0.18-reconstructed) |
+| 2 | HEJustinSun/my-girlfriend-jingtian-latex | TeX | 2745 | [Open](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) |
+| 3 | tobi/walgit | Rust | 2267 | [Open](https://github.com/tobi/walgit) |
+| 4 | duty1g/x64dbg-mcp-server | Zig | 1586 | [Open](https://github.com/duty1g/x64dbg-mcp-server) |
+| 5 | ApodexAI/FrontierAgent | Python | 1170 | [Open](https://github.com/ApodexAI/FrontierAgent) |
+| 6 | nateherkai/scroll-craft | JavaScript | 1115 | [Open](https://github.com/nateherkai/scroll-craft) |
+| 7 | bryllim/workout-guide | Astro | 940 | [Open](https://github.com/bryllim/workout-guide) |
+| 8 | sapientinc/PRAXIST | Python | 906 | [Open](https://github.com/sapientinc/PRAXIST) |
+| 9 | wide-trace/open-higgsfield | TypeScript | 879 | [Open](https://github.com/wide-trace/open-higgsfield) |
+| 10 | ShadowAqueduct/watermark-remover | Python | 821 | [Open](https://github.com/ShadowAqueduct/watermark-remover) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
