@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-29T04:31:45.720Z
+Updated: 2026-08-30T02:00:51.687Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | HEJustinSun/my-girlfriend-jingtian-latex | TeX | 3746 | [Open](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) |
-| 2 | b-nnett/grok-bot-0.18-reconstructed | TypeScript | 3410 | [Open](https://github.com/b-nnett/grok-bot-0.18-reconstructed) |
-| 3 | tobi/walgit | Rust | 2304 | [Open](https://github.com/tobi/walgit) |
-| 4 | sapientinc/PRAXIST | Python | 1773 | [Open](https://github.com/sapientinc/PRAXIST) |
-| 5 | bryllim/workout-guide | Astro | 983 | [Open](https://github.com/bryllim/workout-guide) |
-| 6 | wide-trace/open-higgsfield | TypeScript | 980 | [Open](https://github.com/wide-trace/open-higgsfield) |
-| 7 | Tencent/WeMM-Embedding | Python | 841 | [Open](https://github.com/Tencent/WeMM-Embedding) |
-| 8 | ShadowAqueduct/watermark-remover | Python | 827 | [Open](https://github.com/ShadowAqueduct/watermark-remover) |
-| 9 | themartiano/try-omarchy | Swift | 769 | [Open](https://github.com/themartiano/try-omarchy) |
-| 10 | yding-git/personal-edge-proxy | Unknown | 666 | [Open](https://github.com/yding-git/personal-edge-proxy) |
+| 1 | HEJustinSun/my-girlfriend-jingtian-latex | TeX | 3937 | [Open](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) |
+| 2 | sapientinc/PRAXIST | Python | 3199 | [Open](https://github.com/sapientinc/PRAXIST) |
+| 3 | wide-trace/open-higgsfield | TypeScript | 1070 | [Open](https://github.com/wide-trace/open-higgsfield) |
+| 4 | bryllim/workout-guide | Astro | 1003 | [Open](https://github.com/bryllim/workout-guide) |
+| 5 | XiaoDuoYa/codex-with-chatgpt | TypeScript | 951 | [Open](https://github.com/XiaoDuoYa/codex-with-chatgpt) |
+| 6 | Tencent/WeMM-Embedding | Python | 911 | [Open](https://github.com/Tencent/WeMM-Embedding) |
+| 7 | amosblomqvist/learn | TypeScript | 775 | [Open](https://github.com/amosblomqvist/learn) |
+| 8 | MetaMask-AI/metamask-desktop | CSS | 737 | [Open](https://github.com/MetaMask-AI/metamask-desktop) |
+| 9 | yding-git/personal-edge-proxy | Unknown | 681 | [Open](https://github.com/yding-git/personal-edge-proxy) |
+| 10 | Nanako0129/sepia | Unknown | 669 | [Open](https://github.com/Nanako0129/sepia) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
