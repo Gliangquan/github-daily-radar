@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-08-31T01:56:53.921Z
+Updated: 2026-09-01T02:18:43.685Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | sapientinc/PRAXIST | Python | 4531 | [Open](https://github.com/sapientinc/PRAXIST) |
-| 2 | HEJustinSun/my-girlfriend-jingtian-latex | TeX | 4146 | [Open](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) |
-| 3 | XiaoDuoYa/codex-with-chatgpt | TypeScript | 1423 | [Open](https://github.com/XiaoDuoYa/codex-with-chatgpt) |
-| 4 | MetaMask-AI/metamask-desktop | CSS | 1227 | [Open](https://github.com/MetaMask-AI/metamask-desktop) |
-| 5 | wide-trace/open-higgsfield | TypeScript | 1084 | [Open](https://github.com/wide-trace/open-higgsfield) |
-| 6 | Tencent/WeMM-Embedding | Python | 939 | [Open](https://github.com/Tencent/WeMM-Embedding) |
-| 7 | Nanako0129/sepia | Unknown | 923 | [Open](https://github.com/Nanako0129/sepia) |
-| 8 | tradecatlabs/shulihuazixuecongshu | Python | 797 | [Open](https://github.com/tradecatlabs/shulihuazixuecongshu) |
-| 9 | jub0t/WolfCut | TypeScript | 717 | [Open](https://github.com/jub0t/WolfCut) |
-| 10 | cbrock84/headcount | Markdown | 706 | [Open](https://github.com/cbrock84/headcount) |
+| 1 | sapientinc/PRAXIST | Python | 5455 | [Open](https://github.com/sapientinc/PRAXIST) |
+| 2 | HEJustinSun/my-girlfriend-jingtian-latex | TeX | 4194 | [Open](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) |
+| 3 | XiaoDuoYa/codex-with-chatgpt | TypeScript | 1870 | [Open](https://github.com/XiaoDuoYa/codex-with-chatgpt) |
+| 4 | Nanako0129/sepia | Unknown | 1244 | [Open](https://github.com/Nanako0129/sepia) |
+| 5 | MetaMask-AI/metamask-desktop | CSS | 1228 | [Open](https://github.com/MetaMask-AI/metamask-desktop) |
+| 6 | wide-trace/open-higgsfield | TypeScript | 1146 | [Open](https://github.com/wide-trace/open-higgsfield) |
+| 7 | cbrock84/headcount | Markdown | 858 | [Open](https://github.com/cbrock84/headcount) |
+| 8 | tradecatlabs/shulihuazixuecongshu | Python | 826 | [Open](https://github.com/tradecatlabs/shulihuazixuecongshu) |
+| 9 | crmne/fastpotify | Rust | 760 | [Open](https://github.com/crmne/fastpotify) |
+| 10 | jprx/darwin-vm | Python | 695 | [Open](https://github.com/jprx/darwin-vm) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
