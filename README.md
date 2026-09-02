@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-01T02:18:43.685Z
+Updated: 2026-09-02T01:40:34.351Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | sapientinc/PRAXIST | Python | 5455 | [Open](https://github.com/sapientinc/PRAXIST) |
-| 2 | HEJustinSun/my-girlfriend-jingtian-latex | TeX | 4194 | [Open](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) |
-| 3 | XiaoDuoYa/codex-with-chatgpt | TypeScript | 1870 | [Open](https://github.com/XiaoDuoYa/codex-with-chatgpt) |
-| 4 | Nanako0129/sepia | Unknown | 1244 | [Open](https://github.com/Nanako0129/sepia) |
-| 5 | MetaMask-AI/metamask-desktop | CSS | 1228 | [Open](https://github.com/MetaMask-AI/metamask-desktop) |
-| 6 | wide-trace/open-higgsfield | TypeScript | 1146 | [Open](https://github.com/wide-trace/open-higgsfield) |
-| 7 | cbrock84/headcount | Markdown | 858 | [Open](https://github.com/cbrock84/headcount) |
-| 8 | tradecatlabs/shulihuazixuecongshu | Python | 826 | [Open](https://github.com/tradecatlabs/shulihuazixuecongshu) |
-| 9 | crmne/fastpotify | Rust | 760 | [Open](https://github.com/crmne/fastpotify) |
-| 10 | jprx/darwin-vm | Python | 695 | [Open](https://github.com/jprx/darwin-vm) |
+| 1 | sapientinc/PRAXIST | Python | 6201 | [Open](https://github.com/sapientinc/PRAXIST) |
+| 2 | XiaoDuoYa/codex-with-chatgpt | TypeScript | 2140 | [Open](https://github.com/XiaoDuoYa/codex-with-chatgpt) |
+| 3 | crmne/fastpotify | Rust | 1546 | [Open](https://github.com/crmne/fastpotify) |
+| 4 | Nanako0129/sepia | Python | 1357 | [Open](https://github.com/Nanako0129/sepia) |
+| 5 | MetaMask-AI/metamask-desktop | CSS | 1229 | [Open](https://github.com/MetaMask-AI/metamask-desktop) |
+| 6 | damejan80/tokentab | Python | 1138 | [Open](https://github.com/damejan80/tokentab) |
+| 7 | cbrock84/headcount | Markdown | 955 | [Open](https://github.com/cbrock84/headcount) |
+| 8 | jprx/darwin-vm | Python | 881 | [Open](https://github.com/jprx/darwin-vm) |
+| 9 | tradecatlabs/shulihuazixuecongshu | Python | 844 | [Open](https://github.com/tradecatlabs/shulihuazixuecongshu) |
+| 10 | GangTailorUpgrade/CoomeRtool | Python | 823 | [Open](https://github.com/GangTailorUpgrade/CoomeRtool) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
