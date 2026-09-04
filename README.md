@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-03T01:45:44.951Z
+Updated: 2026-09-04T01:39:50.447Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | XiaoDuoYa/codex-with-chatgpt | TypeScript | 2278 | [Open](https://github.com/XiaoDuoYa/codex-with-chatgpt) |
-| 2 | Nanako0129/sepia | Python | 1591 | [Open](https://github.com/Nanako0129/sepia) |
-| 3 | MetaMask-AI/metamask-desktop | CSS | 1230 | [Open](https://github.com/MetaMask-AI/metamask-desktop) |
-| 4 | cbrock84/headcount | Markdown | 1117 | [Open](https://github.com/cbrock84/headcount) |
-| 5 | GangTailorUpgrade/undress-service | Python | 934 | [Open](https://github.com/GangTailorUpgrade/undress-service) |
-| 6 | chrisgreg/boop | Go | 687 | [Open](https://github.com/chrisgreg/boop) |
-| 7 | rakanki911/DLSS5-Swapper | JavaScript | 616 | [Open](https://github.com/rakanki911/DLSS5-Swapper) |
-| 8 | jlrouzies-fr/DLSS5-Feeder | C++ | 598 | [Open](https://github.com/jlrouzies-fr/DLSS5-Feeder) |
-| 9 | 2akouwu/reverify | Python | 586 | [Open](https://github.com/2akouwu/reverify) |
-| 10 | shadcn-ui/cn | TypeScript | 576 | [Open](https://github.com/shadcn-ui/cn) |
+| 1 | anthropics/commerce-agents | Python | 1572 | [Open](https://github.com/anthropics/commerce-agents) |
+| 2 | rakanki911/DLSS5-Swapper | JavaScript | 1102 | [Open](https://github.com/rakanki911/DLSS5-Swapper) |
+| 3 | GangTailorUpgrade/undress-service | Python | 1017 | [Open](https://github.com/GangTailorUpgrade/undress-service) |
+| 4 | shadcn-ui/cn | TypeScript | 962 | [Open](https://github.com/shadcn-ui/cn) |
+| 5 | 2akouwu/reverify | Python | 786 | [Open](https://github.com/2akouwu/reverify) |
+| 6 | jlrouzies-fr/DLSS5-Feeder | C++ | 670 | [Open](https://github.com/jlrouzies-fr/DLSS5-Feeder) |
+| 7 | lnkiai/m3e-canvas | TypeScript | 487 | [Open](https://github.com/lnkiai/m3e-canvas) |
+| 8 | MSNightmare/FalconFlank | C | 419 | [Open](https://github.com/MSNightmare/FalconFlank) |
+| 9 | Ryze-AI-Adgent/open-seo-mcp-skills | Shell | 416 | [Open](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) |
+| 10 | Merserk/dlss5-visual-enhancer | Python | 395 | [Open](https://github.com/Merserk/dlss5-visual-enhancer) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
