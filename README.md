@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-04T01:39:50.447Z
+Updated: 2026-09-05T01:40:40.898Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | anthropics/commerce-agents | Python | 1572 | [Open](https://github.com/anthropics/commerce-agents) |
-| 2 | rakanki911/DLSS5-Swapper | JavaScript | 1102 | [Open](https://github.com/rakanki911/DLSS5-Swapper) |
-| 3 | GangTailorUpgrade/undress-service | Python | 1017 | [Open](https://github.com/GangTailorUpgrade/undress-service) |
-| 4 | shadcn-ui/cn | TypeScript | 962 | [Open](https://github.com/shadcn-ui/cn) |
-| 5 | 2akouwu/reverify | Python | 786 | [Open](https://github.com/2akouwu/reverify) |
-| 6 | jlrouzies-fr/DLSS5-Feeder | C++ | 670 | [Open](https://github.com/jlrouzies-fr/DLSS5-Feeder) |
-| 7 | lnkiai/m3e-canvas | TypeScript | 487 | [Open](https://github.com/lnkiai/m3e-canvas) |
-| 8 | MSNightmare/FalconFlank | C | 419 | [Open](https://github.com/MSNightmare/FalconFlank) |
-| 9 | Ryze-AI-Adgent/open-seo-mcp-skills | Shell | 416 | [Open](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) |
-| 10 | Merserk/dlss5-visual-enhancer | Python | 395 | [Open](https://github.com/Merserk/dlss5-visual-enhancer) |
+| 1 | lnkiai/m3e-canvas | TypeScript | 2004 | [Open](https://github.com/lnkiai/m3e-canvas) |
+| 2 | anthropics/commerce-agents | Python | 1931 | [Open](https://github.com/anthropics/commerce-agents) |
+| 3 | shadcn-ui/cn | TypeScript | 1107 | [Open](https://github.com/shadcn-ui/cn) |
+| 4 | GangTailorUpgrade/undress-service | Python | 1055 | [Open](https://github.com/GangTailorUpgrade/undress-service) |
+| 5 | 2akouwu/reverify | Python | 885 | [Open](https://github.com/2akouwu/reverify) |
+| 6 | nahrek/polyledger | Python | 614 | [Open](https://github.com/nahrek/polyledger) |
+| 7 | MSNightmare/FalconFlank | C | 502 | [Open](https://github.com/MSNightmare/FalconFlank) |
+| 8 | Merserk/dlss5-visual-enhancer | Python | 488 | [Open](https://github.com/Merserk/dlss5-visual-enhancer) |
+| 9 | codejunkie99/fable-orchestrator | Shell | 467 | [Open](https://github.com/codejunkie99/fable-orchestrator) |
+| 10 | danielblnc/DLSS-NR-on-AMD | Unknown | 453 | [Open](https://github.com/danielblnc/DLSS-NR-on-AMD) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
