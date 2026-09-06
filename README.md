@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-05T01:40:40.898Z
+Updated: 2026-09-06T01:34:50.194Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | lnkiai/m3e-canvas | TypeScript | 2004 | [Open](https://github.com/lnkiai/m3e-canvas) |
-| 2 | anthropics/commerce-agents | Python | 1931 | [Open](https://github.com/anthropics/commerce-agents) |
-| 3 | shadcn-ui/cn | TypeScript | 1107 | [Open](https://github.com/shadcn-ui/cn) |
-| 4 | GangTailorUpgrade/undress-service | Python | 1055 | [Open](https://github.com/GangTailorUpgrade/undress-service) |
-| 5 | 2akouwu/reverify | Python | 885 | [Open](https://github.com/2akouwu/reverify) |
-| 6 | nahrek/polyledger | Python | 614 | [Open](https://github.com/nahrek/polyledger) |
-| 7 | MSNightmare/FalconFlank | C | 502 | [Open](https://github.com/MSNightmare/FalconFlank) |
-| 8 | Merserk/dlss5-visual-enhancer | Python | 488 | [Open](https://github.com/Merserk/dlss5-visual-enhancer) |
-| 9 | codejunkie99/fable-orchestrator | Shell | 467 | [Open](https://github.com/codejunkie99/fable-orchestrator) |
-| 10 | danielblnc/DLSS-NR-on-AMD | Unknown | 453 | [Open](https://github.com/danielblnc/DLSS-NR-on-AMD) |
+| 1 | lnkiai/m3e-canvas | TypeScript | 3712 | [Open](https://github.com/lnkiai/m3e-canvas) |
+| 2 | anthropics/commerce-agents | Python | 2053 | [Open](https://github.com/anthropics/commerce-agents) |
+| 3 | shadcn-ui/cn | TypeScript | 1170 | [Open](https://github.com/shadcn-ui/cn) |
+| 4 | GangTailorUpgrade/undress-service | Python | 1091 | [Open](https://github.com/GangTailorUpgrade/undress-service) |
+| 5 | 2akouwu/reverify | Python | 923 | [Open](https://github.com/2akouwu/reverify) |
+| 6 | yczz/oc-english | JavaScript | 822 | [Open](https://github.com/yczz/oc-english) |
+| 7 | anthropics/fermats-last-theorem | Lean | 695 | [Open](https://github.com/anthropics/fermats-last-theorem) |
+| 8 | danielblnc/DLSS-NR-on-AMD | Unknown | 656 | [Open](https://github.com/danielblnc/DLSS-NR-on-AMD) |
+| 9 | nahrek/polyledger | Python | 620 | [Open](https://github.com/nahrek/polyledger) |
+| 10 | MSNightmare/FalconFlank | C | 515 | [Open](https://github.com/MSNightmare/FalconFlank) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
