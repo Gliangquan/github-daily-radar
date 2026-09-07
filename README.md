@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-06T01:34:50.194Z
+Updated: 2026-09-07T01:33:08.231Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | lnkiai/m3e-canvas | TypeScript | 3712 | [Open](https://github.com/lnkiai/m3e-canvas) |
-| 2 | anthropics/commerce-agents | Python | 2053 | [Open](https://github.com/anthropics/commerce-agents) |
-| 3 | shadcn-ui/cn | TypeScript | 1170 | [Open](https://github.com/shadcn-ui/cn) |
-| 4 | GangTailorUpgrade/undress-service | Python | 1091 | [Open](https://github.com/GangTailorUpgrade/undress-service) |
-| 5 | 2akouwu/reverify | Python | 923 | [Open](https://github.com/2akouwu/reverify) |
-| 6 | yczz/oc-english | JavaScript | 822 | [Open](https://github.com/yczz/oc-english) |
-| 7 | anthropics/fermats-last-theorem | Lean | 695 | [Open](https://github.com/anthropics/fermats-last-theorem) |
-| 8 | danielblnc/DLSS-NR-on-AMD | Unknown | 656 | [Open](https://github.com/danielblnc/DLSS-NR-on-AMD) |
-| 9 | nahrek/polyledger | Python | 620 | [Open](https://github.com/nahrek/polyledger) |
-| 10 | MSNightmare/FalconFlank | C | 515 | [Open](https://github.com/MSNightmare/FalconFlank) |
+| 1 | lnkiai/m3e-canvas | TypeScript | 4291 | [Open](https://github.com/lnkiai/m3e-canvas) |
+| 2 | anthropics/commerce-agents | Python | 2221 | [Open](https://github.com/anthropics/commerce-agents) |
+| 3 | ashemag/human-atlas | TypeScript | 1363 | [Open](https://github.com/ashemag/human-atlas) |
+| 4 | Rion-Wu-tech/wechat-intelligence-hub | Python | 1081 | [Open](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) |
+| 5 | pierrenade/short-video-generator-AI | Python | 892 | [Open](https://github.com/pierrenade/short-video-generator-AI) |
+| 6 | anthropics/fermats-last-theorem | Lean | 845 | [Open](https://github.com/anthropics/fermats-last-theorem) |
+| 7 | yczz/oc-english | JavaScript | 832 | [Open](https://github.com/yczz/oc-english) |
+| 8 | danielblnc/DLSS-NR-on-AMD | Unknown | 772 | [Open](https://github.com/danielblnc/DLSS-NR-on-AMD) |
+| 9 | vinzdg/codenotch | Swift | 704 | [Open](https://github.com/vinzdg/codenotch) |
+| 10 | nahrek/polyledger | Python | 620 | [Open](https://github.com/nahrek/polyledger) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
