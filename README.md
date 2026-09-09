@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-08T01:43:22.756Z
+Updated: 2026-09-09T01:50:02.496Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | lnkiai/m3e-canvas | TypeScript | 4688 | [Open](https://github.com/lnkiai/m3e-canvas) |
-| 2 | ashemag/human-atlas | TypeScript | 2032 | [Open](https://github.com/ashemag/human-atlas) |
-| 3 | Rion-Wu-tech/wechat-intelligence-hub | Python | 1815 | [Open](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) |
-| 4 | pierrenade/short-video-generator-AI | Python | 1176 | [Open](https://github.com/pierrenade/short-video-generator-AI) |
-| 5 | anthropics/fermats-last-theorem | Lean | 939 | [Open](https://github.com/anthropics/fermats-last-theorem) |
-| 6 | vinzdg/codenotch | Swift | 939 | [Open](https://github.com/vinzdg/codenotch) |
-| 7 | danielblnc/DLSS-NR-on-AMD | Unknown | 859 | [Open](https://github.com/danielblnc/DLSS-NR-on-AMD) |
-| 8 | EverettFish/holo-card-studio | Python | 849 | [Open](https://github.com/EverettFish/holo-card-studio) |
-| 9 | Albert-Weasker/niubigeo | TypeScript | 676 | [Open](https://github.com/Albert-Weasker/niubigeo) |
-| 10 | ahujasid/camera-to-blender | JavaScript | 673 | [Open](https://github.com/ahujasid/camera-to-blender) |
+| 1 | ashemag/human-atlas | TypeScript | 2466 | [Open](https://github.com/ashemag/human-atlas) |
+| 2 | Albert-Weasker/niubigeo | TypeScript | 2168 | [Open](https://github.com/Albert-Weasker/niubigeo) |
+| 3 | Rion-Wu-tech/wechat-intelligence-hub | Python | 1943 | [Open](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) |
+| 4 | EverettFish/holo-card-studio | Python | 1130 | [Open](https://github.com/EverettFish/holo-card-studio) |
+| 5 | vinzdg/codenotch | Swift | 1108 | [Open](https://github.com/vinzdg/codenotch) |
+| 6 | anthropics/fermats-last-theorem | Lean | 979 | [Open](https://github.com/anthropics/fermats-last-theorem) |
+| 7 | danielblnc/DLSS-NR-on-AMD | Unknown | 934 | [Open](https://github.com/danielblnc/DLSS-NR-on-AMD) |
+| 8 | openai/NavierStokesAndEuler | Lean | 874 | [Open](https://github.com/openai/NavierStokesAndEuler) |
+| 9 | ahujasid/camera-to-blender | JavaScript | 775 | [Open](https://github.com/ahujasid/camera-to-blender) |
+| 10 | kajisho5/ffmpeg-skill | Python | 739 | [Open](https://github.com/kajisho5/ffmpeg-skill) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
