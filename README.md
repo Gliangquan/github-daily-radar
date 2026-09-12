@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-11T01:44:56.430Z
+Updated: 2026-09-12T01:50:35.336Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | ashemag/human-atlas | TypeScript | 3095 | [Open](https://github.com/ashemag/human-atlas) |
-| 2 | openai/NavierStokesAndEuler | Lean | 1719 | [Open](https://github.com/openai/NavierStokesAndEuler) |
-| 3 | sdli1995/dlssg_for_sm86 | Unknown | 1438 | [Open](https://github.com/sdli1995/dlssg_for_sm86) |
-| 4 | vinzdg/codenotch | Swift | 1386 | [Open](https://github.com/vinzdg/codenotch) |
-| 5 | EverettFish/holo-card-studio | Python | 1337 | [Open](https://github.com/EverettFish/holo-card-studio) |
-| 6 | Edge0-AI/Edge0 | Python | 1021 | [Open](https://github.com/Edge0-AI/Edge0) |
-| 7 | yang0/handraw-style | HTML | 988 | [Open](https://github.com/yang0/handraw-style) |
-| 8 | donvito/codex-astra-luna-orchestrator | Python | 923 | [Open](https://github.com/donvito/codex-astra-luna-orchestrator) |
-| 9 | iamzulx/crypto-rag | Python | 899 | [Open](https://github.com/iamzulx/crypto-rag) |
-| 10 | achimala/dream-loop | JavaScript | 734 | [Open](https://github.com/achimala/dream-loop) |
+| 1 | sdli1995/dlssg_for_sm86 | Unknown | 1780 | [Open](https://github.com/sdli1995/dlssg_for_sm86) |
+| 2 | openai/NavierStokesAndEuler | Lean | 1778 | [Open](https://github.com/openai/NavierStokesAndEuler) |
+| 3 | EverettFish/holo-card-studio | Python | 1445 | [Open](https://github.com/EverettFish/holo-card-studio) |
+| 4 | Edge0-AI/Edge0 | Python | 1353 | [Open](https://github.com/Edge0-AI/Edge0) |
+| 5 | Vincentwei1021/anything2explainer | TypeScript | 940 | [Open](https://github.com/Vincentwei1021/anything2explainer) |
+| 6 | Faizpi/bank-sampah | PHP | 919 | [Open](https://github.com/Faizpi/bank-sampah) |
+| 7 | achimala/dream-loop | JavaScript | 852 | [Open](https://github.com/achimala/dream-loop) |
+| 8 | jtydhr88/screenwriting-skills | Unknown | 748 | [Open](https://github.com/jtydhr88/screenwriting-skills) |
+| 9 | gazijarin/itsgiving | Python | 717 | [Open](https://github.com/gazijarin/itsgiving) |
+| 10 | truanayangi-com/truanayangi | TypeScript | 568 | [Open](https://github.com/truanayangi-com/truanayangi) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
