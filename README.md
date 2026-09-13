@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-12T01:50:35.336Z
+Updated: 2026-09-13T01:42:14.522Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | sdli1995/dlssg_for_sm86 | Unknown | 1780 | [Open](https://github.com/sdli1995/dlssg_for_sm86) |
-| 2 | openai/NavierStokesAndEuler | Lean | 1778 | [Open](https://github.com/openai/NavierStokesAndEuler) |
-| 3 | EverettFish/holo-card-studio | Python | 1445 | [Open](https://github.com/EverettFish/holo-card-studio) |
-| 4 | Edge0-AI/Edge0 | Python | 1353 | [Open](https://github.com/Edge0-AI/Edge0) |
-| 5 | Vincentwei1021/anything2explainer | TypeScript | 940 | [Open](https://github.com/Vincentwei1021/anything2explainer) |
-| 6 | Faizpi/bank-sampah | PHP | 919 | [Open](https://github.com/Faizpi/bank-sampah) |
-| 7 | achimala/dream-loop | JavaScript | 852 | [Open](https://github.com/achimala/dream-loop) |
-| 8 | jtydhr88/screenwriting-skills | Unknown | 748 | [Open](https://github.com/jtydhr88/screenwriting-skills) |
-| 9 | gazijarin/itsgiving | Python | 717 | [Open](https://github.com/gazijarin/itsgiving) |
-| 10 | truanayangi-com/truanayangi | TypeScript | 568 | [Open](https://github.com/truanayangi-com/truanayangi) |
+| 1 | sdli1995/dlssg_for_sm86 | Unknown | 2188 | [Open](https://github.com/sdli1995/dlssg_for_sm86) |
+| 2 | openai/NavierStokesAndEuler | Lean | 1826 | [Open](https://github.com/openai/NavierStokesAndEuler) |
+| 3 | EverettFish/holo-card-studio | Python | 1470 | [Open](https://github.com/EverettFish/holo-card-studio) |
+| 4 | Edge0-AI/Edge0 | Python | 1448 | [Open](https://github.com/Edge0-AI/Edge0) |
+| 5 | Vincentwei1021/anything2explainer | TypeScript | 1070 | [Open](https://github.com/Vincentwei1021/anything2explainer) |
+| 6 | achimala/dream-loop | JavaScript | 921 | [Open](https://github.com/achimala/dream-loop) |
+| 7 | Faizpi/bank-sampah | PHP | 921 | [Open](https://github.com/Faizpi/bank-sampah) |
+| 8 | gazijarin/itsgiving | Python | 790 | [Open](https://github.com/gazijarin/itsgiving) |
+| 9 | sumimakito/Mac-Duo | Swift | 692 | [Open](https://github.com/sumimakito/Mac-Duo) |
+| 10 | SpaceDudem/text-humanizer | Python | 662 | [Open](https://github.com/SpaceDudem/text-humanizer) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
