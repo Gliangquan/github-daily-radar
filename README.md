@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-13T01:42:14.522Z
+Updated: 2026-09-14T02:00:06.830Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | sdli1995/dlssg_for_sm86 | Unknown | 2188 | [Open](https://github.com/sdli1995/dlssg_for_sm86) |
-| 2 | openai/NavierStokesAndEuler | Lean | 1826 | [Open](https://github.com/openai/NavierStokesAndEuler) |
-| 3 | EverettFish/holo-card-studio | Python | 1470 | [Open](https://github.com/EverettFish/holo-card-studio) |
-| 4 | Edge0-AI/Edge0 | Python | 1448 | [Open](https://github.com/Edge0-AI/Edge0) |
-| 5 | Vincentwei1021/anything2explainer | TypeScript | 1070 | [Open](https://github.com/Vincentwei1021/anything2explainer) |
-| 6 | achimala/dream-loop | JavaScript | 921 | [Open](https://github.com/achimala/dream-loop) |
-| 7 | Faizpi/bank-sampah | PHP | 921 | [Open](https://github.com/Faizpi/bank-sampah) |
-| 8 | gazijarin/itsgiving | Python | 790 | [Open](https://github.com/gazijarin/itsgiving) |
-| 9 | sumimakito/Mac-Duo | Swift | 692 | [Open](https://github.com/sumimakito/Mac-Duo) |
-| 10 | SpaceDudem/text-humanizer | Python | 662 | [Open](https://github.com/SpaceDudem/text-humanizer) |
+| 1 | openai/NavierStokesAndEuler | Lean | 1858 | [Open](https://github.com/openai/NavierStokesAndEuler) |
+| 2 | Edge0-AI/Edge0 | Python | 1609 | [Open](https://github.com/Edge0-AI/Edge0) |
+| 3 | Vincentwei1021/anything2explainer | TypeScript | 1174 | [Open](https://github.com/Vincentwei1021/anything2explainer) |
+| 4 | gazijarin/itsgiving | Python | 816 | [Open](https://github.com/gazijarin/itsgiving) |
+| 5 | sumimakito/Mac-Duo | Swift | 794 | [Open](https://github.com/sumimakito/Mac-Duo) |
+| 6 | SpaceDudem/text-humanizer | Python | 731 | [Open](https://github.com/SpaceDudem/text-humanizer) |
+| 7 | Colafornia/short-video-generator-AI | Python | 720 | [Open](https://github.com/Colafornia/short-video-generator-AI) |
+| 8 | angusdevgo/IDM_Pro_Tool | C# | 679 | [Open](https://github.com/angusdevgo/IDM_Pro_Tool) |
+| 9 | Faizpi/bank-sampah | PHP | 646 | [Open](https://github.com/Faizpi/bank-sampah) |
+| 10 | rizqinrr/viserys-agent | JavaScript | 628 | [Open](https://github.com/rizqinrr/viserys-agent) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
