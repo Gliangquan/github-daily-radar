@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-15T02:08:08.179Z
+Updated: 2026-09-16T02:00:06.041Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | sumimakito/Mac-Duo | Swift | 873 | [Open](https://github.com/sumimakito/Mac-Duo) |
-| 2 | Chuloo/mural | Kotlin | 816 | [Open](https://github.com/Chuloo/mural) |
-| 3 | kruzovic7/ai-data-extractor | Python | 812 | [Open](https://github.com/kruzovic7/ai-data-extractor) |
-| 4 | yifanzhang-pro/recurrent-looped-tranformer | HTML | 750 | [Open](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) |
-| 5 | angusdevgo/IDM_Pro_Tool | C# | 697 | [Open](https://github.com/angusdevgo/IDM_Pro_Tool) |
-| 6 | eternityspring/reelbench-skills | HTML | 674 | [Open](https://github.com/eternityspring/reelbench-skills) |
-| 7 | ArasTey/lunel | Python | 664 | [Open](https://github.com/ArasTey/lunel) |
-| 8 | nftechie/stonkfly | Python | 652 | [Open](https://github.com/nftechie/stonkfly) |
-| 9 | rizqinrr/viserys-agent | JavaScript | 648 | [Open](https://github.com/rizqinrr/viserys-agent) |
-| 10 | Faizpi/bank-sampah | PHP | 646 | [Open](https://github.com/Faizpi/bank-sampah) |
+| 1 | Chuloo/mural | Kotlin | 1052 | [Open](https://github.com/Chuloo/mural) |
+| 2 | sumimakito/Mac-Duo | Swift | 913 | [Open](https://github.com/sumimakito/Mac-Duo) |
+| 3 | yifanzhang-pro/recurrent-looped-tranformer | HTML | 830 | [Open](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) |
+| 4 | kruzovic7/ai-data-extractor | Python | 822 | [Open](https://github.com/kruzovic7/ai-data-extractor) |
+| 5 | ai-sucks-butt/ai-sucks-butt | Unknown | 812 | [Open](https://github.com/ai-sucks-butt/ai-sucks-butt) |
+| 6 | angusdevgo/IDM_Pro_Tool | C# | 710 | [Open](https://github.com/angusdevgo/IDM_Pro_Tool) |
+| 7 | eternityspring/reelbench-skills | HTML | 695 | [Open](https://github.com/eternityspring/reelbench-skills) |
+| 8 | nftechie/stonkfly | Python | 691 | [Open](https://github.com/nftechie/stonkfly) |
+| 9 | zjwzcx/Awesome-Astra-Embodied-AI | Unknown | 685 | [Open](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) |
+| 10 | rizqinrr/viserys-agent | JavaScript | 652 | [Open](https://github.com/rizqinrr/viserys-agent) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
