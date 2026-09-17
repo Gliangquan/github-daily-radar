@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-16T02:00:06.041Z
+Updated: 2026-09-17T02:03:46.217Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | Chuloo/mural | Kotlin | 1052 | [Open](https://github.com/Chuloo/mural) |
-| 2 | sumimakito/Mac-Duo | Swift | 913 | [Open](https://github.com/sumimakito/Mac-Duo) |
-| 3 | yifanzhang-pro/recurrent-looped-tranformer | HTML | 830 | [Open](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) |
-| 4 | kruzovic7/ai-data-extractor | Python | 822 | [Open](https://github.com/kruzovic7/ai-data-extractor) |
-| 5 | ai-sucks-butt/ai-sucks-butt | Unknown | 812 | [Open](https://github.com/ai-sucks-butt/ai-sucks-butt) |
-| 6 | angusdevgo/IDM_Pro_Tool | C# | 710 | [Open](https://github.com/angusdevgo/IDM_Pro_Tool) |
-| 7 | eternityspring/reelbench-skills | HTML | 695 | [Open](https://github.com/eternityspring/reelbench-skills) |
-| 8 | nftechie/stonkfly | Python | 691 | [Open](https://github.com/nftechie/stonkfly) |
-| 9 | zjwzcx/Awesome-Astra-Embodied-AI | Unknown | 685 | [Open](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) |
-| 10 | rizqinrr/viserys-agent | JavaScript | 652 | [Open](https://github.com/rizqinrr/viserys-agent) |
+| 1 | ai-sucks-butt/ai-sucks-butt | Python | 1855 | [Open](https://github.com/ai-sucks-butt/ai-sucks-butt) |
+| 2 | Chuloo/mural | Kotlin | 1261 | [Open](https://github.com/Chuloo/mural) |
+| 3 | yifanzhang-pro/recurrent-looped-tranformer | HTML | 860 | [Open](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) |
+| 4 | kruzovic7/ai-data-extractor | Python | 826 | [Open](https://github.com/kruzovic7/ai-data-extractor) |
+| 5 | zjwzcx/Awesome-Astra-Embodied-AI | Unknown | 771 | [Open](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) |
+| 6 | eternityspring/reelbench-skills | HTML | 709 | [Open](https://github.com/eternityspring/reelbench-skills) |
+| 7 | agentverse-os/AgentVerse-OS | Rust | 681 | [Open](https://github.com/agentverse-os/AgentVerse-OS) |
+| 8 | rizqinrr/viserys-agent | JavaScript | 659 | [Open](https://github.com/rizqinrr/viserys-agent) |
+| 9 | Faizpi/bank-sampah | PHP | 646 | [Open](https://github.com/Faizpi/bank-sampah) |
+| 10 | nilbuild/page-mascot | Python | 632 | [Open](https://github.com/nilbuild/page-mascot) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
