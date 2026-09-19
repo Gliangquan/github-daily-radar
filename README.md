@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-18T01:51:37.202Z
+Updated: 2026-09-19T01:56:46.190Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | browser-use/jev-ultrafast | Python | 2277 | [Open](https://github.com/browser-use/jev-ultrafast) |
-| 2 | Chuloo/mural | Kotlin | 1319 | [Open](https://github.com/Chuloo/mural) |
-| 3 | yifanzhang-pro/recurrent-looped-tranformer | HTML | 871 | [Open](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) |
-| 4 | TheoLeeCJ/openjev | Python | 827 | [Open](https://github.com/TheoLeeCJ/openjev) |
-| 5 | zjwzcx/Awesome-Astra-Embodied-AI | Unknown | 825 | [Open](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) |
-| 6 | agentverse-os/AgentVerse-OS | Rust | 750 | [Open](https://github.com/agentverse-os/AgentVerse-OS) |
-| 7 | youngyangyang04/llm-master | Unknown | 688 | [Open](https://github.com/youngyangyang04/llm-master) |
-| 8 | nilbuild/page-mascot | Python | 685 | [Open](https://github.com/nilbuild/page-mascot) |
-| 9 | vinnylarouge/jevlike | Python | 681 | [Open](https://github.com/vinnylarouge/jevlike) |
-| 10 | rizqinrr/viserys-agent | JavaScript | 662 | [Open](https://github.com/rizqinrr/viserys-agent) |
+| 1 | browser-use/jev-ultrafast | Python | 5638 | [Open](https://github.com/browser-use/jev-ultrafast) |
+| 2 | tamaratran/fast-jev-compaction | TypeScript | 3298 | [Open](https://github.com/tamaratran/fast-jev-compaction) |
+| 3 | TheoLeeCJ/SemIf | Python | 1607 | [Open](https://github.com/TheoLeeCJ/SemIf) |
+| 4 | mcncarl/jianying-headless | Python | 1050 | [Open](https://github.com/mcncarl/jianying-headless) |
+| 5 | vinnylarouge/jevlike | Python | 897 | [Open](https://github.com/vinnylarouge/jevlike) |
+| 6 | jarrodwatts/jev-trader | TypeScript | 883 | [Open](https://github.com/jarrodwatts/jev-trader) |
+| 7 | zhengkid/Dream-RSI | Unknown | 762 | [Open](https://github.com/zhengkid/Dream-RSI) |
+| 8 | korcarc/text-humanizer | Python | 725 | [Open](https://github.com/korcarc/text-humanizer) |
+| 9 | nilbuild/page-mascot | Python | 711 | [Open](https://github.com/nilbuild/page-mascot) |
+| 10 | robbietilton/Compositor | Swift | 681 | [Open](https://github.com/robbietilton/Compositor) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
