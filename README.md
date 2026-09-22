@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-21T02:00:02.466Z
+Updated: 2026-09-22T02:06:30.409Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | browser-use/jev-ultrafast | Python | 12111 | [Open](https://github.com/browser-use/jev-ultrafast) |
-| 2 | tamaratran/fast-jev-compaction | TypeScript | 5238 | [Open](https://github.com/tamaratran/fast-jev-compaction) |
-| 3 | NandhaKishorM/laya | Python | 4405 | [Open](https://github.com/NandhaKishorM/laya) |
-| 4 | robbietilton/Compositor | Swift | 3714 | [Open](https://github.com/robbietilton/Compositor) |
-| 5 | TheoLeeCJ/SemIf | Python | 2472 | [Open](https://github.com/TheoLeeCJ/SemIf) |
-| 6 | mcncarl/jianying-headless | Python | 2025 | [Open](https://github.com/mcncarl/jianying-headless) |
-| 7 | mizorewww/laya-mlx | Python | 1772 | [Open](https://github.com/mizorewww/laya-mlx) |
-| 8 | jarrodwatts/jev-trader | TypeScript | 1546 | [Open](https://github.com/jarrodwatts/jev-trader) |
-| 9 | TianyuCodings/NanoJev | Python | 1441 | [Open](https://github.com/TianyuCodings/NanoJev) |
-| 10 | zai-org/ZCode | TypeScript | 1225 | [Open](https://github.com/zai-org/ZCode) |
+| 1 | browser-use/jev-ultrafast | Python | 15937 | [Open](https://github.com/browser-use/jev-ultrafast) |
+| 2 | NandhaKishorM/laya | Python | 10742 | [Open](https://github.com/NandhaKishorM/laya) |
+| 3 | tamaratran/fast-jev-compaction | TypeScript | 5996 | [Open](https://github.com/tamaratran/fast-jev-compaction) |
+| 4 | zai-org/ZCode | TypeScript | 5709 | [Open](https://github.com/zai-org/ZCode) |
+| 5 | robbietilton/Compositor | Swift | 4422 | [Open](https://github.com/robbietilton/Compositor) |
+| 6 | mizorewww/laya-mlx | Python | 3963 | [Open](https://github.com/mizorewww/laya-mlx) |
+| 7 | TheoLeeCJ/SemIf | Python | 3288 | [Open](https://github.com/TheoLeeCJ/SemIf) |
+| 8 | jaredpalmer/kev | Python | 2525 | [Open](https://github.com/jaredpalmer/kev) |
+| 9 | jarrodwatts/jev-trader | TypeScript | 1867 | [Open](https://github.com/jarrodwatts/jev-trader) |
+| 10 | TianyuCodings/NanoJev | Python | 1825 | [Open](https://github.com/TianyuCodings/NanoJev) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
