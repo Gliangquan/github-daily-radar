@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-22T02:06:30.409Z
+Updated: 2026-09-23T02:05:37.265Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | browser-use/jev-ultrafast | Python | 15937 | [Open](https://github.com/browser-use/jev-ultrafast) |
-| 2 | NandhaKishorM/laya | Python | 10742 | [Open](https://github.com/NandhaKishorM/laya) |
-| 3 | tamaratran/fast-jev-compaction | TypeScript | 5996 | [Open](https://github.com/tamaratran/fast-jev-compaction) |
-| 4 | zai-org/ZCode | TypeScript | 5709 | [Open](https://github.com/zai-org/ZCode) |
-| 5 | robbietilton/Compositor | Swift | 4422 | [Open](https://github.com/robbietilton/Compositor) |
-| 6 | mizorewww/laya-mlx | Python | 3963 | [Open](https://github.com/mizorewww/laya-mlx) |
-| 7 | TheoLeeCJ/SemIf | Python | 3288 | [Open](https://github.com/TheoLeeCJ/SemIf) |
-| 8 | jaredpalmer/kev | Python | 2525 | [Open](https://github.com/jaredpalmer/kev) |
-| 9 | jarrodwatts/jev-trader | TypeScript | 1867 | [Open](https://github.com/jarrodwatts/jev-trader) |
-| 10 | TianyuCodings/NanoJev | Python | 1825 | [Open](https://github.com/TianyuCodings/NanoJev) |
+| 1 | NandhaKishorM/laya | Python | 16845 | [Open](https://github.com/NandhaKishorM/laya) |
+| 2 | zai-org/ZCode | TypeScript | 6324 | [Open](https://github.com/zai-org/ZCode) |
+| 3 | tamaratran/fast-jev-compaction | TypeScript | 6322 | [Open](https://github.com/tamaratran/fast-jev-compaction) |
+| 4 | mizorewww/laya-mlx | Python | 5493 | [Open](https://github.com/mizorewww/laya-mlx) |
+| 5 | jaredpalmer/kev | Python | 4362 | [Open](https://github.com/jaredpalmer/kev) |
+| 6 | jev-chat/jev-chat-jarvis | Kotlin | 3952 | [Open](https://github.com/jev-chat/jev-chat-jarvis) |
+| 7 | TianyuCodings/NanoJev | Python | 2009 | [Open](https://github.com/TianyuCodings/NanoJev) |
+| 8 | bespokelabsai/nimble | Python | 1632 | [Open](https://github.com/bespokelabsai/nimble) |
+| 9 | yibie/awesome-jev | Python | 1321 | [Open](https://github.com/yibie/awesome-jev) |
+| 10 | mizorewww/laya-coreml | Python | 1295 | [Open](https://github.com/mizorewww/laya-coreml) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
