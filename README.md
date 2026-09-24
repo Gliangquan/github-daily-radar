@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-23T02:05:37.265Z
+Updated: 2026-09-24T01:53:33.616Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | NandhaKishorM/laya | Python | 16845 | [Open](https://github.com/NandhaKishorM/laya) |
-| 2 | zai-org/ZCode | TypeScript | 6324 | [Open](https://github.com/zai-org/ZCode) |
-| 3 | tamaratran/fast-jev-compaction | TypeScript | 6322 | [Open](https://github.com/tamaratran/fast-jev-compaction) |
-| 4 | mizorewww/laya-mlx | Python | 5493 | [Open](https://github.com/mizorewww/laya-mlx) |
-| 5 | jaredpalmer/kev | Python | 4362 | [Open](https://github.com/jaredpalmer/kev) |
-| 6 | jev-chat/jev-chat-jarvis | Kotlin | 3952 | [Open](https://github.com/jev-chat/jev-chat-jarvis) |
-| 7 | TianyuCodings/NanoJev | Python | 2009 | [Open](https://github.com/TianyuCodings/NanoJev) |
-| 8 | bespokelabsai/nimble | Python | 1632 | [Open](https://github.com/bespokelabsai/nimble) |
-| 9 | yibie/awesome-jev | Python | 1321 | [Open](https://github.com/yibie/awesome-jev) |
-| 10 | mizorewww/laya-coreml | Python | 1295 | [Open](https://github.com/mizorewww/laya-coreml) |
+| 1 | NandhaKishorM/laya | Python | 20607 | [Open](https://github.com/NandhaKishorM/laya) |
+| 2 | zai-org/ZCode | TypeScript | 6545 | [Open](https://github.com/zai-org/ZCode) |
+| 3 | mizorewww/laya-mlx | Python | 5973 | [Open](https://github.com/mizorewww/laya-mlx) |
+| 4 | jev-chat/jev-chat-jarvis | Kotlin | 5285 | [Open](https://github.com/jev-chat/jev-chat-jarvis) |
+| 5 | unreallabsai/unreal-agent | Go | 1728 | [Open](https://github.com/unreallabsai/unreal-agent) |
+| 6 | bespokelabsai/nimble | Python | 1689 | [Open](https://github.com/bespokelabsai/nimble) |
+| 7 | mizorewww/laya-coreml | Python | 1393 | [Open](https://github.com/mizorewww/laya-coreml) |
+| 8 | newliver666/apk-reverse | Python | 1292 | [Open](https://github.com/newliver666/apk-reverse) |
+| 9 | Lumid-Off/AirCard-Windows | Rust | 789 | [Open](https://github.com/Lumid-Off/AirCard-Windows) |
+| 10 | heyjunpenn/awesome-jev | Astro | 772 | [Open](https://github.com/heyjunpenn/awesome-jev) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
