@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-24T01:53:33.616Z
+Updated: 2026-09-25T02:10:21.053Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | NandhaKishorM/laya | Python | 20607 | [Open](https://github.com/NandhaKishorM/laya) |
-| 2 | zai-org/ZCode | TypeScript | 6545 | [Open](https://github.com/zai-org/ZCode) |
-| 3 | mizorewww/laya-mlx | Python | 5973 | [Open](https://github.com/mizorewww/laya-mlx) |
-| 4 | jev-chat/jev-chat-jarvis | Kotlin | 5285 | [Open](https://github.com/jev-chat/jev-chat-jarvis) |
-| 5 | unreallabsai/unreal-agent | Go | 1728 | [Open](https://github.com/unreallabsai/unreal-agent) |
-| 6 | bespokelabsai/nimble | Python | 1689 | [Open](https://github.com/bespokelabsai/nimble) |
-| 7 | mizorewww/laya-coreml | Python | 1393 | [Open](https://github.com/mizorewww/laya-coreml) |
-| 8 | newliver666/apk-reverse | Python | 1292 | [Open](https://github.com/newliver666/apk-reverse) |
-| 9 | Lumid-Off/AirCard-Windows | Rust | 789 | [Open](https://github.com/Lumid-Off/AirCard-Windows) |
-| 10 | heyjunpenn/awesome-jev | Astro | 772 | [Open](https://github.com/heyjunpenn/awesome-jev) |
+| 1 | zai-org/ZCode | TypeScript | 6718 | [Open](https://github.com/zai-org/ZCode) |
+| 2 | mizorewww/laya-mlx | Python | 6227 | [Open](https://github.com/mizorewww/laya-mlx) |
+| 3 | jev-chat/jev-chat-jarvis | Kotlin | 6119 | [Open](https://github.com/jev-chat/jev-chat-jarvis) |
+| 4 | unreallabsai/unreal-agent | Go | 1881 | [Open](https://github.com/unreallabsai/unreal-agent) |
+| 5 | mizorewww/laya-coreml | Python | 1440 | [Open](https://github.com/mizorewww/laya-coreml) |
+| 6 | newliver666/apk-reverse | Python | 1418 | [Open](https://github.com/newliver666/apk-reverse) |
+| 7 | driceroland/Search | Swift | 1258 | [Open](https://github.com/driceroland/Search) |
+| 8 | deepopen-com/deepopen | Python | 1006 | [Open](https://github.com/deepopen-com/deepopen) |
+| 9 | mikehasa/golive-skill | TypeScript | 881 | [Open](https://github.com/mikehasa/golive-skill) |
+| 10 | Contrastive-LM/CLM | Python | 847 | [Open](https://github.com/Contrastive-LM/CLM) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
