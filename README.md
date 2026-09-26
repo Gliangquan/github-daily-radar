@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-25T02:10:21.053Z
+Updated: 2026-09-26T02:16:22.102Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | zai-org/ZCode | TypeScript | 6718 | [Open](https://github.com/zai-org/ZCode) |
-| 2 | mizorewww/laya-mlx | Python | 6227 | [Open](https://github.com/mizorewww/laya-mlx) |
-| 3 | jev-chat/jev-chat-jarvis | Kotlin | 6119 | [Open](https://github.com/jev-chat/jev-chat-jarvis) |
-| 4 | unreallabsai/unreal-agent | Go | 1881 | [Open](https://github.com/unreallabsai/unreal-agent) |
-| 5 | mizorewww/laya-coreml | Python | 1440 | [Open](https://github.com/mizorewww/laya-coreml) |
-| 6 | newliver666/apk-reverse | Python | 1418 | [Open](https://github.com/newliver666/apk-reverse) |
-| 7 | driceroland/Search | Swift | 1258 | [Open](https://github.com/driceroland/Search) |
-| 8 | deepopen-com/deepopen | Python | 1006 | [Open](https://github.com/deepopen-com/deepopen) |
-| 9 | mikehasa/golive-skill | TypeScript | 881 | [Open](https://github.com/mikehasa/golive-skill) |
-| 10 | Contrastive-LM/CLM | Python | 847 | [Open](https://github.com/Contrastive-LM/CLM) |
+| 1 | zai-org/ZCode | TypeScript | 6777 | [Open](https://github.com/zai-org/ZCode) |
+| 2 | jev-chat/jev-chat-jarvis | Kotlin | 6518 | [Open](https://github.com/jev-chat/jev-chat-jarvis) |
+| 3 | unreallabsai/unreal-agent | Go | 1940 | [Open](https://github.com/unreallabsai/unreal-agent) |
+| 4 | driceroland/Search | Swift | 1837 | [Open](https://github.com/driceroland/Search) |
+| 5 | Contrastive-LM/CLM | Python | 1282 | [Open](https://github.com/Contrastive-LM/CLM) |
+| 6 | deepopen-com/deepopen | Python | 1020 | [Open](https://github.com/deepopen-com/deepopen) |
+| 7 | mikehasa/golive-skill | TypeScript | 951 | [Open](https://github.com/mikehasa/golive-skill) |
+| 8 | tobi/disktree | Rust | 938 | [Open](https://github.com/tobi/disktree) |
+| 9 | JohnHeibel/PDoomVideo | JavaScript | 893 | [Open](https://github.com/JohnHeibel/PDoomVideo) |
+| 10 | kryvora-network/kryvora-node | Go | 824 | [Open](https://github.com/kryvora-network/kryvora-node) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
