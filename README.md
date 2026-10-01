@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-09-30T02:41:12.182Z
+Updated: 2026-10-01T02:45:55.547Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | KKKKhazix/AIHOT | TypeScript | 3315 | [Open](https://github.com/KKKKhazix/AIHOT) |
-| 2 | mexicat/pdoom-video | TypeScript | 1988 | [Open](https://github.com/mexicat/pdoom-video) |
-| 3 | tobi/disktree | Rust | 1915 | [Open](https://github.com/tobi/disktree) |
-| 4 | Niko1221/Strata | C++ | 1830 | [Open](https://github.com/Niko1221/Strata) |
-| 5 | dzhng/jevgrep | TypeScript | 1786 | [Open](https://github.com/dzhng/jevgrep) |
-| 6 | firelex/jeff | Python | 1054 | [Open](https://github.com/firelex/jeff) |
-| 7 | shihabal3amri/DiPlay | Kotlin | 1015 | [Open](https://github.com/shihabal3amri/DiPlay) |
-| 8 | feitangyuan/onetake | Python | 985 | [Open](https://github.com/feitangyuan/onetake) |
-| 9 | yihui-dev/awesome-opus5-5-videos | Unknown | 925 | [Open](https://github.com/yihui-dev/awesome-opus5-5-videos) |
-| 10 | kaankiziltug/logo-design-skill | HTML | 852 | [Open](https://github.com/kaankiziltug/logo-design-skill) |
+| 1 | KKKKhazix/AIHOT | TypeScript | 4126 | [Open](https://github.com/KKKKhazix/AIHOT) |
+| 2 | feder-cr/dots | Python | 1937 | [Open](https://github.com/feder-cr/dots) |
+| 3 | dzhng/jevgrep | TypeScript | 1908 | [Open](https://github.com/dzhng/jevgrep) |
+| 4 | Louis-CFM/coucou | Swift | 1419 | [Open](https://github.com/Louis-CFM/coucou) |
+| 5 | firelex/jeff | Python | 1197 | [Open](https://github.com/firelex/jeff) |
+| 6 | kaankiziltug/logo-design-skill | HTML | 1135 | [Open](https://github.com/kaankiziltug/logo-design-skill) |
+| 7 | yihui-dev/awesome-opus5-5-videos | Unknown | 1100 | [Open](https://github.com/yihui-dev/awesome-opus5-5-videos) |
+| 8 | feitangyuan/onetake | Python | 1059 | [Open](https://github.com/feitangyuan/onetake) |
+| 9 | wy51ai/floorplan-3d | HTML | 974 | [Open](https://github.com/wy51ai/floorplan-3d) |
+| 10 | rehan-remade/universal-modder | Python | 890 | [Open](https://github.com/rehan-remade/universal-modder) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
