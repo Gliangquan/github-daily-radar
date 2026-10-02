@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-01T02:45:55.547Z
+Updated: 2026-10-02T02:49:33.756Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | KKKKhazix/AIHOT | TypeScript | 4126 | [Open](https://github.com/KKKKhazix/AIHOT) |
-| 2 | feder-cr/dots | Python | 1937 | [Open](https://github.com/feder-cr/dots) |
-| 3 | dzhng/jevgrep | TypeScript | 1908 | [Open](https://github.com/dzhng/jevgrep) |
-| 4 | Louis-CFM/coucou | Swift | 1419 | [Open](https://github.com/Louis-CFM/coucou) |
-| 5 | firelex/jeff | Python | 1197 | [Open](https://github.com/firelex/jeff) |
-| 6 | kaankiziltug/logo-design-skill | HTML | 1135 | [Open](https://github.com/kaankiziltug/logo-design-skill) |
-| 7 | yihui-dev/awesome-opus5-5-videos | Unknown | 1100 | [Open](https://github.com/yihui-dev/awesome-opus5-5-videos) |
-| 8 | feitangyuan/onetake | Python | 1059 | [Open](https://github.com/feitangyuan/onetake) |
-| 9 | wy51ai/floorplan-3d | HTML | 974 | [Open](https://github.com/wy51ai/floorplan-3d) |
-| 10 | rehan-remade/universal-modder | Python | 890 | [Open](https://github.com/rehan-remade/universal-modder) |
+| 1 | KKKKhazix/AIHOT | TypeScript | 4692 | [Open](https://github.com/KKKKhazix/AIHOT) |
+| 2 | Louis-CFM/coucou | Swift | 2504 | [Open](https://github.com/Louis-CFM/coucou) |
+| 3 | feder-cr/dots | Python | 2389 | [Open](https://github.com/feder-cr/dots) |
+| 4 | dzhng/jevgrep | TypeScript | 2003 | [Open](https://github.com/dzhng/jevgrep) |
+| 5 | rehan-remade/universal-modder | Python | 1599 | [Open](https://github.com/rehan-remade/universal-modder) |
+| 6 | kaankiziltug/logo-design-skill | HTML | 1361 | [Open](https://github.com/kaankiziltug/logo-design-skill) |
+| 7 | firelex/jeff | Python | 1271 | [Open](https://github.com/firelex/jeff) |
+| 8 | yihui-dev/awesome-opus5-5-videos | Unknown | 1260 | [Open](https://github.com/yihui-dev/awesome-opus5-5-videos) |
+| 9 | wy51ai/floorplan-3d | HTML | 1173 | [Open](https://github.com/wy51ai/floorplan-3d) |
+| 10 | feitangyuan/onetake | Python | 1147 | [Open](https://github.com/feitangyuan/onetake) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
