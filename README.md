@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-02T02:49:33.756Z
+Updated: 2026-10-03T02:36:10.347Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | KKKKhazix/AIHOT | TypeScript | 4692 | [Open](https://github.com/KKKKhazix/AIHOT) |
-| 2 | Louis-CFM/coucou | Swift | 2504 | [Open](https://github.com/Louis-CFM/coucou) |
-| 3 | feder-cr/dots | Python | 2389 | [Open](https://github.com/feder-cr/dots) |
-| 4 | dzhng/jevgrep | TypeScript | 2003 | [Open](https://github.com/dzhng/jevgrep) |
-| 5 | rehan-remade/universal-modder | Python | 1599 | [Open](https://github.com/rehan-remade/universal-modder) |
-| 6 | kaankiziltug/logo-design-skill | HTML | 1361 | [Open](https://github.com/kaankiziltug/logo-design-skill) |
-| 7 | firelex/jeff | Python | 1271 | [Open](https://github.com/firelex/jeff) |
-| 8 | yihui-dev/awesome-opus5-5-videos | Unknown | 1260 | [Open](https://github.com/yihui-dev/awesome-opus5-5-videos) |
-| 9 | wy51ai/floorplan-3d | HTML | 1173 | [Open](https://github.com/wy51ai/floorplan-3d) |
-| 10 | feitangyuan/onetake | Python | 1147 | [Open](https://github.com/feitangyuan/onetake) |
+| 1 | KKKKhazix/AIHOT | TypeScript | 4984 | [Open](https://github.com/KKKKhazix/AIHOT) |
+| 2 | Louis-CFM/coucou | Swift | 2999 | [Open](https://github.com/Louis-CFM/coucou) |
+| 3 | feder-cr/dots | Python | 2505 | [Open](https://github.com/feder-cr/dots) |
+| 4 | rehan-remade/universal-modder | Python | 2168 | [Open](https://github.com/rehan-remade/universal-modder) |
+| 5 | CopilotKit/OpenDots | TypeScript | 1521 | [Open](https://github.com/CopilotKit/OpenDots) |
+| 6 | yihui-dev/awesome-opus5-5-videos | Unknown | 1435 | [Open](https://github.com/yihui-dev/awesome-opus5-5-videos) |
+| 7 | firelex/jeff | Python | 1326 | [Open](https://github.com/firelex/jeff) |
+| 8 | wy51ai/floorplan-3d | HTML | 1318 | [Open](https://github.com/wy51ai/floorplan-3d) |
+| 9 | nanaism/yomiyasu | Python | 1193 | [Open](https://github.com/nanaism/yomiyasu) |
+| 10 | edenfunf/reelmimic | JavaScript | 964 | [Open](https://github.com/edenfunf/reelmimic) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
