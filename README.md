@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-03T02:36:10.347Z
+Updated: 2026-10-04T03:07:13.440Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | KKKKhazix/AIHOT | TypeScript | 4984 | [Open](https://github.com/KKKKhazix/AIHOT) |
-| 2 | Louis-CFM/coucou | Swift | 2999 | [Open](https://github.com/Louis-CFM/coucou) |
-| 3 | feder-cr/dots | Python | 2505 | [Open](https://github.com/feder-cr/dots) |
-| 4 | rehan-remade/universal-modder | Python | 2168 | [Open](https://github.com/rehan-remade/universal-modder) |
-| 5 | CopilotKit/OpenDots | TypeScript | 1521 | [Open](https://github.com/CopilotKit/OpenDots) |
-| 6 | yihui-dev/awesome-opus5-5-videos | Unknown | 1435 | [Open](https://github.com/yihui-dev/awesome-opus5-5-videos) |
-| 7 | firelex/jeff | Python | 1326 | [Open](https://github.com/firelex/jeff) |
-| 8 | wy51ai/floorplan-3d | HTML | 1318 | [Open](https://github.com/wy51ai/floorplan-3d) |
-| 9 | nanaism/yomiyasu | Python | 1193 | [Open](https://github.com/nanaism/yomiyasu) |
-| 10 | edenfunf/reelmimic | JavaScript | 964 | [Open](https://github.com/edenfunf/reelmimic) |
+| 1 | KKKKhazix/AIHOT | TypeScript | 5455 | [Open](https://github.com/KKKKhazix/AIHOT) |
+| 2 | rehan-remade/universal-modder | Python | 2652 | [Open](https://github.com/rehan-remade/universal-modder) |
+| 3 | CopilotKit/OpenDots | TypeScript | 2584 | [Open](https://github.com/CopilotKit/OpenDots) |
+| 4 | feder-cr/dots | Python | 2575 | [Open](https://github.com/feder-cr/dots) |
+| 5 | wy51ai/floorplan-3d | HTML | 1363 | [Open](https://github.com/wy51ai/floorplan-3d) |
+| 6 | firelex/jeff | Python | 1351 | [Open](https://github.com/firelex/jeff) |
+| 7 | nanaism/yomiyasu | Python | 1326 | [Open](https://github.com/nanaism/yomiyasu) |
+| 8 | edenfunf/reelmimic | JavaScript | 1119 | [Open](https://github.com/edenfunf/reelmimic) |
+| 9 | CAPCOM-TD-OSS/REDox | C# | 989 | [Open](https://github.com/CAPCOM-TD-OSS/REDox) |
+| 10 | facebookincubator/muse-gadget-sdk | C | 901 | [Open](https://github.com/facebookincubator/muse-gadget-sdk) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
