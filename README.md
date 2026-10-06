@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-05T02:40:39.290Z
+Updated: 2026-10-06T03:33:19.048Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | rehan-remade/universal-modder | Python | 3242 | [Open](https://github.com/rehan-remade/universal-modder) |
-| 2 | CopilotKit/OpenDots | TypeScript | 3227 | [Open](https://github.com/CopilotKit/OpenDots) |
-| 3 | feder-cr/dots | Python | 2604 | [Open](https://github.com/feder-cr/dots) |
-| 4 | nanaism/yomiyasu | Python | 1404 | [Open](https://github.com/nanaism/yomiyasu) |
-| 5 | wy51ai/floorplan-3d | HTML | 1391 | [Open](https://github.com/wy51ai/floorplan-3d) |
-| 6 | facebookincubator/muse-gadget-sdk | C | 1207 | [Open](https://github.com/facebookincubator/muse-gadget-sdk) |
-| 7 | QingYunA/answer-me-with-html | JavaScript | 1098 | [Open](https://github.com/QingYunA/answer-me-with-html) |
-| 8 | nykooi1/vibe-wise | Python | 1078 | [Open](https://github.com/nykooi1/vibe-wise) |
-| 9 | CAPCOM-TD-OSS/REDox | C# | 1034 | [Open](https://github.com/CAPCOM-TD-OSS/REDox) |
-| 10 | storytold/photocraft | Rust | 898 | [Open](https://github.com/storytold/photocraft) |
+| 1 | rehan-remade/universal-modder | Python | 3884 | [Open](https://github.com/rehan-remade/universal-modder) |
+| 2 | storytold/photocraft | Rust | 2184 | [Open](https://github.com/storytold/photocraft) |
+| 3 | nanaism/yomiyasu | Python | 1528 | [Open](https://github.com/nanaism/yomiyasu) |
+| 4 | QingYunA/answer-me-with-html | JavaScript | 1508 | [Open](https://github.com/QingYunA/answer-me-with-html) |
+| 5 | kargulstudio/sales-crm | TypeScript | 1475 | [Open](https://github.com/kargulstudio/sales-crm) |
+| 6 | facebookincubator/muse-gadget-sdk | C | 1448 | [Open](https://github.com/facebookincubator/muse-gadget-sdk) |
+| 7 | CAPCOM-TD-OSS/REDox | C# | 1085 | [Open](https://github.com/CAPCOM-TD-OSS/REDox) |
+| 8 | chasmlol/SkyCraft | C++ | 982 | [Open](https://github.com/chasmlol/SkyCraft) |
+| 9 | Edwardxlai/easyread | Python | 807 | [Open](https://github.com/Edwardxlai/easyread) |
+| 10 | deadinside28/bloodborne_pc | C++ | 753 | [Open](https://github.com/deadinside28/bloodborne_pc) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
