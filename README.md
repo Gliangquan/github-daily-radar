@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-06T03:33:19.048Z
+Updated: 2026-10-07T02:58:36.549Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | rehan-remade/universal-modder | Python | 3884 | [Open](https://github.com/rehan-remade/universal-modder) |
-| 2 | storytold/photocraft | Rust | 2184 | [Open](https://github.com/storytold/photocraft) |
-| 3 | nanaism/yomiyasu | Python | 1528 | [Open](https://github.com/nanaism/yomiyasu) |
-| 4 | QingYunA/answer-me-with-html | JavaScript | 1508 | [Open](https://github.com/QingYunA/answer-me-with-html) |
-| 5 | kargulstudio/sales-crm | TypeScript | 1475 | [Open](https://github.com/kargulstudio/sales-crm) |
-| 6 | facebookincubator/muse-gadget-sdk | C | 1448 | [Open](https://github.com/facebookincubator/muse-gadget-sdk) |
-| 7 | CAPCOM-TD-OSS/REDox | C# | 1085 | [Open](https://github.com/CAPCOM-TD-OSS/REDox) |
-| 8 | chasmlol/SkyCraft | C++ | 982 | [Open](https://github.com/chasmlol/SkyCraft) |
-| 9 | Edwardxlai/easyread | Python | 807 | [Open](https://github.com/Edwardxlai/easyread) |
-| 10 | deadinside28/bloodborne_pc | C++ | 753 | [Open](https://github.com/deadinside28/bloodborne_pc) |
+| 1 | openai/math | Lean | 3013 | [Open](https://github.com/openai/math) |
+| 2 | QingYunA/answer-me-with-html | JavaScript | 1806 | [Open](https://github.com/QingYunA/answer-me-with-html) |
+| 3 | kargulstudio/sales-crm | TypeScript | 1590 | [Open](https://github.com/kargulstudio/sales-crm) |
+| 4 | facebookincubator/muse-gadget-sdk | C | 1564 | [Open](https://github.com/facebookincubator/muse-gadget-sdk) |
+| 5 | deadinside28/bloodborne_pc | C++ | 1286 | [Open](https://github.com/deadinside28/bloodborne_pc) |
+| 6 | storytold/effectcraft | Rust | 880 | [Open](https://github.com/storytold/effectcraft) |
+| 7 | sganggs/Stronghold-Protocol | JavaScript | 835 | [Open](https://github.com/sganggs/Stronghold-Protocol) |
+| 8 | lucasmarkes/hairline | TypeScript | 827 | [Open](https://github.com/lucasmarkes/hairline) |
+| 9 | StayLameBro/backburner | Python | 778 | [Open](https://github.com/StayLameBro/backburner) |
+| 10 | alchaincyf/huashu-art-motion | JavaScript | 744 | [Open](https://github.com/alchaincyf/huashu-art-motion) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
