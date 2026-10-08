@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-07T02:58:36.549Z
+Updated: 2026-10-08T03:15:38.364Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | openai/math | Lean | 3013 | [Open](https://github.com/openai/math) |
-| 2 | QingYunA/answer-me-with-html | JavaScript | 1806 | [Open](https://github.com/QingYunA/answer-me-with-html) |
-| 3 | kargulstudio/sales-crm | TypeScript | 1590 | [Open](https://github.com/kargulstudio/sales-crm) |
-| 4 | facebookincubator/muse-gadget-sdk | C | 1564 | [Open](https://github.com/facebookincubator/muse-gadget-sdk) |
-| 5 | deadinside28/bloodborne_pc | C++ | 1286 | [Open](https://github.com/deadinside28/bloodborne_pc) |
-| 6 | storytold/effectcraft | Rust | 880 | [Open](https://github.com/storytold/effectcraft) |
-| 7 | sganggs/Stronghold-Protocol | JavaScript | 835 | [Open](https://github.com/sganggs/Stronghold-Protocol) |
-| 8 | lucasmarkes/hairline | TypeScript | 827 | [Open](https://github.com/lucasmarkes/hairline) |
-| 9 | StayLameBro/backburner | Python | 778 | [Open](https://github.com/StayLameBro/backburner) |
-| 10 | alchaincyf/huashu-art-motion | JavaScript | 744 | [Open](https://github.com/alchaincyf/huashu-art-motion) |
+| 1 | openai/math | Lean | 9955 | [Open](https://github.com/openai/math) |
+| 2 | QingYunA/answer-me-with-html | JavaScript | 2109 | [Open](https://github.com/QingYunA/answer-me-with-html) |
+| 3 | alchaincyf/huashu-art-motion | JavaScript | 1786 | [Open](https://github.com/alchaincyf/huashu-art-motion) |
+| 4 | facebookincubator/muse-gadget-sdk | C | 1672 | [Open](https://github.com/facebookincubator/muse-gadget-sdk) |
+| 5 | kargulstudio/sales-crm | TypeScript | 1637 | [Open](https://github.com/kargulstudio/sales-crm) |
+| 6 | mizorewww/x_gift_bot | Go | 961 | [Open](https://github.com/mizorewww/x_gift_bot) |
+| 7 | sganggs/Stronghold-Protocol | JavaScript | 928 | [Open](https://github.com/sganggs/Stronghold-Protocol) |
+| 8 | Jakeschincariol/replica-skill | Python | 895 | [Open](https://github.com/Jakeschincariol/replica-skill) |
+| 9 | rauchg/gdp-ts | TypeScript | 741 | [Open](https://github.com/rauchg/gdp-ts) |
+| 10 | elstongun/leviathan | Rust | 672 | [Open](https://github.com/elstongun/leviathan) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
