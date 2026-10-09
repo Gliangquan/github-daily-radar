@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-08T03:15:38.364Z
+Updated: 2026-10-09T03:21:24.082Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | openai/math | Lean | 9955 | [Open](https://github.com/openai/math) |
-| 2 | QingYunA/answer-me-with-html | JavaScript | 2109 | [Open](https://github.com/QingYunA/answer-me-with-html) |
-| 3 | alchaincyf/huashu-art-motion | JavaScript | 1786 | [Open](https://github.com/alchaincyf/huashu-art-motion) |
-| 4 | facebookincubator/muse-gadget-sdk | C | 1672 | [Open](https://github.com/facebookincubator/muse-gadget-sdk) |
-| 5 | kargulstudio/sales-crm | TypeScript | 1637 | [Open](https://github.com/kargulstudio/sales-crm) |
-| 6 | mizorewww/x_gift_bot | Go | 961 | [Open](https://github.com/mizorewww/x_gift_bot) |
-| 7 | sganggs/Stronghold-Protocol | JavaScript | 928 | [Open](https://github.com/sganggs/Stronghold-Protocol) |
-| 8 | Jakeschincariol/replica-skill | Python | 895 | [Open](https://github.com/Jakeschincariol/replica-skill) |
-| 9 | rauchg/gdp-ts | TypeScript | 741 | [Open](https://github.com/rauchg/gdp-ts) |
-| 10 | elstongun/leviathan | Rust | 672 | [Open](https://github.com/elstongun/leviathan) |
+| 1 | openai/math | Lean | 12259 | [Open](https://github.com/openai/math) |
+| 2 | alchaincyf/huashu-art-motion | JavaScript | 2525 | [Open](https://github.com/alchaincyf/huashu-art-motion) |
+| 3 | kargulstudio/sales-crm | TypeScript | 1659 | [Open](https://github.com/kargulstudio/sales-crm) |
+| 4 | nullmoth/nvidia-macos-driver | Rust | 1208 | [Open](https://github.com/nullmoth/nvidia-macos-driver) |
+| 5 | Jakeschincariol/replica-skill | Python | 1115 | [Open](https://github.com/Jakeschincariol/replica-skill) |
+| 6 | alejandrobujan/tendedero | Swift | 1045 | [Open](https://github.com/alejandrobujan/tendedero) |
+| 7 | LoreanXavier/pt-pc | C++ | 1022 | [Open](https://github.com/LoreanXavier/pt-pc) |
+| 8 | mhtsec/ARTEX | Go | 948 | [Open](https://github.com/mhtsec/ARTEX) |
+| 9 | storytold/wordcraft | Rust | 885 | [Open](https://github.com/storytold/wordcraft) |
+| 10 | storytold/cadcraft | Rust | 829 | [Open](https://github.com/storytold/cadcraft) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
