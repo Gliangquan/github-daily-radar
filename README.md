@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-09T03:21:24.082Z
+Updated: 2026-10-10T03:01:18.028Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | openai/math | Lean | 12259 | [Open](https://github.com/openai/math) |
-| 2 | alchaincyf/huashu-art-motion | JavaScript | 2525 | [Open](https://github.com/alchaincyf/huashu-art-motion) |
-| 3 | kargulstudio/sales-crm | TypeScript | 1659 | [Open](https://github.com/kargulstudio/sales-crm) |
-| 4 | nullmoth/nvidia-macos-driver | Rust | 1208 | [Open](https://github.com/nullmoth/nvidia-macos-driver) |
-| 5 | Jakeschincariol/replica-skill | Python | 1115 | [Open](https://github.com/Jakeschincariol/replica-skill) |
-| 6 | alejandrobujan/tendedero | Swift | 1045 | [Open](https://github.com/alejandrobujan/tendedero) |
-| 7 | LoreanXavier/pt-pc | C++ | 1022 | [Open](https://github.com/LoreanXavier/pt-pc) |
-| 8 | mhtsec/ARTEX | Go | 948 | [Open](https://github.com/mhtsec/ARTEX) |
-| 9 | storytold/wordcraft | Rust | 885 | [Open](https://github.com/storytold/wordcraft) |
-| 10 | storytold/cadcraft | Rust | 829 | [Open](https://github.com/storytold/cadcraft) |
+| 1 | openai/math | Lean | 13151 | [Open](https://github.com/openai/math) |
+| 2 | alchaincyf/huashu-art-motion | JavaScript | 2924 | [Open](https://github.com/alchaincyf/huashu-art-motion) |
+| 3 | mhtsec/ARTEX | Go | 2306 | [Open](https://github.com/mhtsec/ARTEX) |
+| 4 | storytold/wordcraft | Rust | 1964 | [Open](https://github.com/storytold/wordcraft) |
+| 5 | nullmoth/nvidia-macos-driver | Rust | 1928 | [Open](https://github.com/nullmoth/nvidia-macos-driver) |
+| 6 | zhongerxin/iPhone-use | Python | 1915 | [Open](https://github.com/zhongerxin/iPhone-use) |
+| 7 | kargulstudio/sales-crm | TypeScript | 1677 | [Open](https://github.com/kargulstudio/sales-crm) |
+| 8 | LosaLosSantos/aurelio-finance | Python | 1556 | [Open](https://github.com/LosaLosSantos/aurelio-finance) |
+| 9 | storytold/cadcraft | Rust | 1405 | [Open](https://github.com/storytold/cadcraft) |
+| 10 | storytold/gridcraft | Rust | 1238 | [Open](https://github.com/storytold/gridcraft) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
