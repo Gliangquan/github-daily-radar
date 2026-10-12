@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-11T02:31:37.868Z
+Updated: 2026-10-12T02:56:11.368Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | openai/math | Lean | 13706 | [Open](https://github.com/openai/math) |
-| 2 | storytold/wordcraft | Rust | 3240 | [Open](https://github.com/storytold/wordcraft) |
-| 3 | alchaincyf/huashu-art-motion | JavaScript | 3230 | [Open](https://github.com/alchaincyf/huashu-art-motion) |
-| 4 | mhtsec/ARTEX | Go | 2927 | [Open](https://github.com/mhtsec/ARTEX) |
-| 5 | zhongerxin/iPhone-use | Python | 2583 | [Open](https://github.com/zhongerxin/iPhone-use) |
-| 6 | nullmoth/nvidia-macos-driver | Rust | 2310 | [Open](https://github.com/nullmoth/nvidia-macos-driver) |
-| 7 | LosaLosSantos/aurelio-finance | Python | 2094 | [Open](https://github.com/LosaLosSantos/aurelio-finance) |
-| 8 | storytold/cadcraft | Rust | 1899 | [Open](https://github.com/storytold/cadcraft) |
-| 9 | storytold/gridcraft | Rust | 1877 | [Open](https://github.com/storytold/gridcraft) |
-| 10 | noahdunnagan/fsearch | Rust | 1637 | [Open](https://github.com/noahdunnagan/fsearch) |
+| 1 | openai/math | Lean | 14120 | [Open](https://github.com/openai/math) |
+| 2 | storytold/wordcraft | Rust | 6220 | [Open](https://github.com/storytold/wordcraft) |
+| 3 | wheresryan22/anatomy | JavaScript | 3581 | [Open](https://github.com/wheresryan22/anatomy) |
+| 4 | alchaincyf/huashu-art-motion | JavaScript | 3405 | [Open](https://github.com/alchaincyf/huashu-art-motion) |
+| 5 | mhtsec/ARTEX | Go | 3221 | [Open](https://github.com/mhtsec/ARTEX) |
+| 6 | zhongerxin/iPhone-use | Python | 3115 | [Open](https://github.com/zhongerxin/iPhone-use) |
+| 7 | storytold/gridcraft | Rust | 3008 | [Open](https://github.com/storytold/gridcraft) |
+| 8 | storytold/cadcraft | Rust | 2747 | [Open](https://github.com/storytold/cadcraft) |
+| 9 | nullmoth/nvidia-macos-driver | Rust | 2563 | [Open](https://github.com/nullmoth/nvidia-macos-driver) |
+| 10 | LosaLosSantos/aurelio-finance | Python | 2308 | [Open](https://github.com/LosaLosSantos/aurelio-finance) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
