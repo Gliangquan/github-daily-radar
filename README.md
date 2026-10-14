@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-13T04:11:34.180Z
+Updated: 2026-10-14T02:24:28.608Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | storytold/wordcraft | Rust | 9453 | [Open](https://github.com/storytold/wordcraft) |
-| 2 | wheresryan22/anatomy | JavaScript | 6577 | [Open](https://github.com/wheresryan22/anatomy) |
-| 3 | storytold/gridcraft | Rust | 3927 | [Open](https://github.com/storytold/gridcraft) |
-| 4 | mhtsec/ARTEX | Go | 3648 | [Open](https://github.com/mhtsec/ARTEX) |
-| 5 | storytold/cadcraft | Rust | 3568 | [Open](https://github.com/storytold/cadcraft) |
-| 6 | nullmoth/nvidia-macos-driver | Rust | 2774 | [Open](https://github.com/nullmoth/nvidia-macos-driver) |
-| 7 | storytold/deckcraft | Rust | 2651 | [Open](https://github.com/storytold/deckcraft) |
-| 8 | t4t5/omdrop-owl | Shell | 2463 | [Open](https://github.com/t4t5/omdrop-owl) |
-| 9 | storytold/soundcraft | Rust | 2298 | [Open](https://github.com/storytold/soundcraft) |
-| 10 | alejandrobujan/tendedero | Swift | 2027 | [Open](https://github.com/alejandrobujan/tendedero) |
+| 1 | wheresryan22/anatomy | JavaScript | 8342 | [Open](https://github.com/wheresryan22/anatomy) |
+| 2 | mhtsec/ARTEX | Go | 3895 | [Open](https://github.com/mhtsec/ARTEX) |
+| 3 | t4t5/omdrop-owl | Shell | 2594 | [Open](https://github.com/t4t5/omdrop-owl) |
+| 4 | ARahim3/DigUp | Swift | 2505 | [Open](https://github.com/ARahim3/DigUp) |
+| 5 | storytold/craft-launcher | Rust | 2330 | [Open](https://github.com/storytold/craft-launcher) |
+| 6 | liseami/CCBaga | Rust | 2071 | [Open](https://github.com/liseami/CCBaga) |
+| 7 | noahdunnagan/fsearch | Rust | 2031 | [Open](https://github.com/noahdunnagan/fsearch) |
+| 8 | onehumanbeing/esp32-iphone-agent | Python | 1579 | [Open](https://github.com/onehumanbeing/esp32-iphone-agent) |
+| 9 | trhhubsd/ARTEXX | Go | 1191 | [Open](https://github.com/trhhubsd/ARTEXX) |
+| 10 | NVIDIA-Omniverse/usd-brep | C++ | 1184 | [Open](https://github.com/NVIDIA-Omniverse/usd-brep) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
