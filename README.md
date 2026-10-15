@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-14T02:24:28.608Z
+Updated: 2026-10-15T02:05:02.651Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | wheresryan22/anatomy | JavaScript | 8342 | [Open](https://github.com/wheresryan22/anatomy) |
-| 2 | mhtsec/ARTEX | Go | 3895 | [Open](https://github.com/mhtsec/ARTEX) |
-| 3 | t4t5/omdrop-owl | Shell | 2594 | [Open](https://github.com/t4t5/omdrop-owl) |
-| 4 | ARahim3/DigUp | Swift | 2505 | [Open](https://github.com/ARahim3/DigUp) |
-| 5 | storytold/craft-launcher | Rust | 2330 | [Open](https://github.com/storytold/craft-launcher) |
-| 6 | liseami/CCBaga | Rust | 2071 | [Open](https://github.com/liseami/CCBaga) |
-| 7 | noahdunnagan/fsearch | Rust | 2031 | [Open](https://github.com/noahdunnagan/fsearch) |
-| 8 | onehumanbeing/esp32-iphone-agent | Python | 1579 | [Open](https://github.com/onehumanbeing/esp32-iphone-agent) |
-| 9 | trhhubsd/ARTEXX | Go | 1191 | [Open](https://github.com/trhhubsd/ARTEXX) |
-| 10 | NVIDIA-Omniverse/usd-brep | C++ | 1184 | [Open](https://github.com/NVIDIA-Omniverse/usd-brep) |
+| 1 | storytold/craft-launcher | Rust | 2665 | [Open](https://github.com/storytold/craft-launcher) |
+| 2 | liseami/CCBaga | Rust | 2260 | [Open](https://github.com/liseami/CCBaga) |
+| 3 | jhaizhou-ops/d2r-mobile | C | 2197 | [Open](https://github.com/jhaizhou-ops/d2r-mobile) |
+| 4 | onehumanbeing/esp32-iphone-agent | C | 2106 | [Open](https://github.com/onehumanbeing/esp32-iphone-agent) |
+| 5 | Arekejoker/qwen21-nsfw-pose-skill | Python | 1271 | [Open](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) |
+| 6 | shaongitbd/doory | TypeScript | 1206 | [Open](https://github.com/shaongitbd/doory) |
+| 7 | opengeos/RustGIS | Rust | 1065 | [Open](https://github.com/opengeos/RustGIS) |
+| 8 | rociiu/talorys | TypeScript | 1002 | [Open](https://github.com/rociiu/talorys) |
+| 9 | zhuyansen/new-term-radar | Python | 963 | [Open](https://github.com/zhuyansen/new-term-radar) |
+| 10 | storytold/figcraft | Rust | 948 | [Open](https://github.com/storytold/figcraft) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
