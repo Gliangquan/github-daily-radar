@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-15T02:05:02.651Z
+Updated: 2026-10-16T01:55:37.686Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | storytold/craft-launcher | Rust | 2665 | [Open](https://github.com/storytold/craft-launcher) |
-| 2 | liseami/CCBaga | Rust | 2260 | [Open](https://github.com/liseami/CCBaga) |
-| 3 | jhaizhou-ops/d2r-mobile | C | 2197 | [Open](https://github.com/jhaizhou-ops/d2r-mobile) |
-| 4 | onehumanbeing/esp32-iphone-agent | C | 2106 | [Open](https://github.com/onehumanbeing/esp32-iphone-agent) |
-| 5 | Arekejoker/qwen21-nsfw-pose-skill | Python | 1271 | [Open](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) |
-| 6 | shaongitbd/doory | TypeScript | 1206 | [Open](https://github.com/shaongitbd/doory) |
-| 7 | opengeos/RustGIS | Rust | 1065 | [Open](https://github.com/opengeos/RustGIS) |
-| 8 | rociiu/talorys | TypeScript | 1002 | [Open](https://github.com/rociiu/talorys) |
-| 9 | zhuyansen/new-term-radar | Python | 963 | [Open](https://github.com/zhuyansen/new-term-radar) |
-| 10 | storytold/figcraft | Rust | 948 | [Open](https://github.com/storytold/figcraft) |
+| 1 | jhaizhou-ops/d2r-mobile | C | 3172 | [Open](https://github.com/jhaizhou-ops/d2r-mobile) |
+| 2 | onehumanbeing/esp32-iphone-agent | C | 2495 | [Open](https://github.com/onehumanbeing/esp32-iphone-agent) |
+| 3 | liseami/CCBaga | Rust | 2342 | [Open](https://github.com/liseami/CCBaga) |
+| 4 | Arekejoker/qwen21-nsfw-pose-skill | Python | 2066 | [Open](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) |
+| 5 | HeyPuter/everything | JavaScript | 1328 | [Open](https://github.com/HeyPuter/everything) |
+| 6 | shaongitbd/doory | TypeScript | 1313 | [Open](https://github.com/shaongitbd/doory) |
+| 7 | opengeos/RustGIS | Rust | 1226 | [Open](https://github.com/opengeos/RustGIS) |
+| 8 | ahwootech/BRUTAL | C# | 1185 | [Open](https://github.com/ahwootech/BRUTAL) |
+| 9 | rociiu/talorys | TypeScript | 1162 | [Open](https://github.com/rociiu/talorys) |
+| 10 | chenglou/handwired | TypeScript | 1088 | [Open](https://github.com/chenglou/handwired) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
