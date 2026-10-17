@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-16T01:55:37.686Z
+Updated: 2026-10-17T01:50:12.898Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | jhaizhou-ops/d2r-mobile | C | 3172 | [Open](https://github.com/jhaizhou-ops/d2r-mobile) |
-| 2 | onehumanbeing/esp32-iphone-agent | C | 2495 | [Open](https://github.com/onehumanbeing/esp32-iphone-agent) |
-| 3 | liseami/CCBaga | Rust | 2342 | [Open](https://github.com/liseami/CCBaga) |
-| 4 | Arekejoker/qwen21-nsfw-pose-skill | Python | 2066 | [Open](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) |
-| 5 | HeyPuter/everything | JavaScript | 1328 | [Open](https://github.com/HeyPuter/everything) |
-| 6 | shaongitbd/doory | TypeScript | 1313 | [Open](https://github.com/shaongitbd/doory) |
-| 7 | opengeos/RustGIS | Rust | 1226 | [Open](https://github.com/opengeos/RustGIS) |
-| 8 | ahwootech/BRUTAL | C# | 1185 | [Open](https://github.com/ahwootech/BRUTAL) |
-| 9 | rociiu/talorys | TypeScript | 1162 | [Open](https://github.com/rociiu/talorys) |
-| 10 | chenglou/handwired | TypeScript | 1088 | [Open](https://github.com/chenglou/handwired) |
+| 1 | jhaizhou-ops/d2r-mobile | C | 3541 | [Open](https://github.com/jhaizhou-ops/d2r-mobile) |
+| 2 | onehumanbeing/esp32-iphone-agent | C | 2862 | [Open](https://github.com/onehumanbeing/esp32-iphone-agent) |
+| 3 | Arekejoker/qwen21-nsfw-pose-skill | Python | 2525 | [Open](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) |
+| 4 | liseami/CCBaga | Rust | 2403 | [Open](https://github.com/liseami/CCBaga) |
+| 5 | HeyPuter/everything | JavaScript | 1748 | [Open](https://github.com/HeyPuter/everything) |
+| 6 | ahwootech/BRUTAL | C# | 1575 | [Open](https://github.com/ahwootech/BRUTAL) |
+| 7 | chenglou/handwired | TypeScript | 1565 | [Open](https://github.com/chenglou/handwired) |
+| 8 | deeplethe/solid-glass | TypeScript | 1409 | [Open](https://github.com/deeplethe/solid-glass) |
+| 9 | zhuyansen/new-term-radar | Python | 1066 | [Open](https://github.com/zhuyansen/new-term-radar) |
+| 10 | feder-cr/git-ai | Go | 1062 | [Open](https://github.com/feder-cr/git-ai) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
