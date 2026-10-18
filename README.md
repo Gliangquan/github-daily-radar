@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-17T01:50:12.898Z
+Updated: 2026-10-18T01:48:43.840Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | jhaizhou-ops/d2r-mobile | C | 3541 | [Open](https://github.com/jhaizhou-ops/d2r-mobile) |
-| 2 | onehumanbeing/esp32-iphone-agent | C | 2862 | [Open](https://github.com/onehumanbeing/esp32-iphone-agent) |
-| 3 | Arekejoker/qwen21-nsfw-pose-skill | Python | 2525 | [Open](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) |
-| 4 | liseami/CCBaga | Rust | 2403 | [Open](https://github.com/liseami/CCBaga) |
-| 5 | HeyPuter/everything | JavaScript | 1748 | [Open](https://github.com/HeyPuter/everything) |
-| 6 | ahwootech/BRUTAL | C# | 1575 | [Open](https://github.com/ahwootech/BRUTAL) |
-| 7 | chenglou/handwired | TypeScript | 1565 | [Open](https://github.com/chenglou/handwired) |
-| 8 | deeplethe/solid-glass | TypeScript | 1409 | [Open](https://github.com/deeplethe/solid-glass) |
-| 9 | zhuyansen/new-term-radar | Python | 1066 | [Open](https://github.com/zhuyansen/new-term-radar) |
-| 10 | feder-cr/git-ai | Go | 1062 | [Open](https://github.com/feder-cr/git-ai) |
+| 1 | jhaizhou-ops/d2r-mobile | C | 3714 | [Open](https://github.com/jhaizhou-ops/d2r-mobile) |
+| 2 | Arekejoker/qwen21-nsfw-pose-skill | Python | 2646 | [Open](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) |
+| 3 | HeyPuter/everything | JavaScript | 2055 | [Open](https://github.com/HeyPuter/everything) |
+| 4 | ahwootech/BRUTAL | C# | 1796 | [Open](https://github.com/ahwootech/BRUTAL) |
+| 5 | deeplethe/solid-glass | TypeScript | 1738 | [Open](https://github.com/deeplethe/solid-glass) |
+| 6 | chenglou/handwired | TypeScript | 1679 | [Open](https://github.com/chenglou/handwired) |
+| 7 | Supermedo/uncharted_pc | C++ | 1267 | [Open](https://github.com/Supermedo/uncharted_pc) |
+| 8 | Caho1/open-claude-ui | TypeScript | 1138 | [Open](https://github.com/Caho1/open-claude-ui) |
+| 9 | feder-cr/git-ai | Go | 1137 | [Open](https://github.com/feder-cr/git-ai) |
+| 10 | zhuyansen/new-term-radar | Python | 1082 | [Open](https://github.com/zhuyansen/new-term-radar) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
