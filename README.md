@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-19T02:05:34.402Z
+Updated: 2026-10-20T02:21:53.842Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | Arekejoker/qwen21-nsfw-pose-skill | Python | 2876 | [Open](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) |
-| 2 | feder-cr/git-ai | Go | 2301 | [Open](https://github.com/feder-cr/git-ai) |
-| 3 | HeyPuter/everything | JavaScript | 2222 | [Open](https://github.com/HeyPuter/everything) |
-| 4 | Gathin23/tv-vibehack | Java | 2107 | [Open](https://github.com/Gathin23/tv-vibehack) |
-| 5 | ahwootech/BRUTAL | C# | 1905 | [Open](https://github.com/ahwootech/BRUTAL) |
-| 6 | chenglou/handwired | TypeScript | 1732 | [Open](https://github.com/chenglou/handwired) |
-| 7 | Supermedo/uncharted_pc | C++ | 1457 | [Open](https://github.com/Supermedo/uncharted_pc) |
-| 8 | Caho1/open-claude-ui | TypeScript | 1210 | [Open](https://github.com/Caho1/open-claude-ui) |
-| 9 | outcrawlai/scout | TypeScript | 945 | [Open](https://github.com/outcrawlai/scout) |
-| 10 | xscreensaver-official/xscreensaver | Unknown | 868 | [Open](https://github.com/xscreensaver-official/xscreensaver) |
+| 1 | Gathin23/cleanyourtv | Java | 5680 | [Open](https://github.com/Gathin23/cleanyourtv) |
+| 2 | feder-cr/git-ai | Go | 2461 | [Open](https://github.com/feder-cr/git-ai) |
+| 3 | ahwootech/BRUTAL | C# | 1997 | [Open](https://github.com/ahwootech/BRUTAL) |
+| 4 | ly05010419/MacNativeGames | C | 1822 | [Open](https://github.com/ly05010419/MacNativeGames) |
+| 5 | chenglou/handwired | TypeScript | 1816 | [Open](https://github.com/chenglou/handwired) |
+| 6 | Supermedo/uncharted_pc | C++ | 1593 | [Open](https://github.com/Supermedo/uncharted_pc) |
+| 7 | Leonxlnx/earshot | Python | 1562 | [Open](https://github.com/Leonxlnx/earshot) |
+| 8 | Caho1/open-claude-ui | TypeScript | 1255 | [Open](https://github.com/Caho1/open-claude-ui) |
+| 9 | aicodeking/leanrea | Python | 1001 | [Open](https://github.com/aicodeking/leanrea) |
+| 10 | xscreensaver-official/xscreensaver | Unknown | 1000 | [Open](https://github.com/xscreensaver-official/xscreensaver) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
