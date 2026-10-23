@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-22T02:09:28.990Z
+Updated: 2026-10-23T02:15:13.735Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | Gathin23/cleanyourtv | Java | 19561 | [Open](https://github.com/Gathin23/cleanyourtv) |
-| 2 | deepseek-ai/DeepInfer | Python | 18080 | [Open](https://github.com/deepseek-ai/DeepInfer) |
-| 3 | ly05010419/MacNativeGames | C | 3913 | [Open](https://github.com/ly05010419/MacNativeGames) |
-| 4 | simbasjungles/free-my-tv | Java | 2765 | [Open](https://github.com/simbasjungles/free-my-tv) |
-| 5 | pengchujin/aerial-tv | Kotlin | 2194 | [Open](https://github.com/pengchujin/aerial-tv) |
-| 6 | xiaoyang111222/cn-math-taxonomy | Python | 1999 | [Open](https://github.com/xiaoyang111222/cn-math-taxonomy) |
-| 7 | JoasASantos/REA-Prompts | Unknown | 1350 | [Open](https://github.com/JoasASantos/REA-Prompts) |
-| 8 | OpenMOSS/MOSS-Image | Python | 1299 | [Open](https://github.com/OpenMOSS/MOSS-Image) |
-| 9 | aicodeking/leanrea | Python | 1297 | [Open](https://github.com/aicodeking/leanrea) |
-| 10 | alchaincyf/huashu-motion | JavaScript | 1285 | [Open](https://github.com/alchaincyf/huashu-motion) |
+| 1 | Gathin23/cleanyourtv | Java | 24351 | [Open](https://github.com/Gathin23/cleanyourtv) |
+| 2 | ly05010419/MacNativeGames | C | 4509 | [Open](https://github.com/ly05010419/MacNativeGames) |
+| 3 | simbasjungles/free-my-tv | Java | 3474 | [Open](https://github.com/simbasjungles/free-my-tv) |
+| 4 | pengchujin/aerial-tv | Kotlin | 3179 | [Open](https://github.com/pengchujin/aerial-tv) |
+| 5 | xiaoyang111222/cn-math-taxonomy | Python | 2212 | [Open](https://github.com/xiaoyang111222/cn-math-taxonomy) |
+| 6 | tek-sys-hub/Rubix-lang | Assembly | 1902 | [Open](https://github.com/tek-sys-hub/Rubix-lang) |
+| 7 | ikow/php2shell-poc | Python | 1535 | [Open](https://github.com/ikow/php2shell-poc) |
+| 8 | JoasASantos/REA-Prompts | Unknown | 1487 | [Open](https://github.com/JoasASantos/REA-Prompts) |
+| 9 | alchaincyf/huashu-motion | JavaScript | 1449 | [Open](https://github.com/alchaincyf/huashu-motion) |
+| 10 | aicodeking/leanrea | Python | 1371 | [Open](https://github.com/aicodeking/leanrea) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
