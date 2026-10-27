@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-26T02:01:07.813Z
+Updated: 2026-10-27T02:38:39.397Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | pengchujin/aerial-tv | Kotlin | 5065 | [Open](https://github.com/pengchujin/aerial-tv) |
-| 2 | JustAResearcher/gpu-unlock-ada | C | 2697 | [Open](https://github.com/JustAResearcher/gpu-unlock-ada) |
-| 3 | xevrion/hatchzip | Rust | 1943 | [Open](https://github.com/xevrion/hatchzip) |
-| 4 | wesbos/3d-model-anything | Swift | 1934 | [Open](https://github.com/wesbos/3d-model-anything) |
-| 5 | ikow/php2shell-poc | Python | 1792 | [Open](https://github.com/ikow/php2shell-poc) |
-| 6 | Jakeschincariol/day-trader-skill | Python | 1646 | [Open](https://github.com/Jakeschincariol/day-trader-skill) |
-| 7 | oosexgang/hackios-xnu-kernel | C | 1465 | [Open](https://github.com/oosexgang/hackios-xnu-kernel) |
-| 8 | 9bie/php2shell-bypass-aslr-exp | Python | 1436 | [Open](https://github.com/9bie/php2shell-bypass-aslr-exp) |
-| 9 | openai/php2shell-checker | JavaScript | 1397 | [Open](https://github.com/openai/php2shell-checker) |
-| 10 | colinhacks/reylo | Rust | 1265 | [Open](https://github.com/colinhacks/reylo) |
+| 1 | JustAResearcher/gpu-unlock-ada | C | 3886 | [Open](https://github.com/JustAResearcher/gpu-unlock-ada) |
+| 2 | wesbos/3d-model-anything | Swift | 2083 | [Open](https://github.com/wesbos/3d-model-anything) |
+| 3 | xevrion/hatchzip | Rust | 2061 | [Open](https://github.com/xevrion/hatchzip) |
+| 4 | rddmwmddr/android-ad-cleaner | Python | 2044 | [Open](https://github.com/rddmwmddr/android-ad-cleaner) |
+| 5 | ikow/php2shell-poc | Python | 1834 | [Open](https://github.com/ikow/php2shell-poc) |
+| 6 | designfuchen/word-atlas | TypeScript | 1777 | [Open](https://github.com/designfuchen/word-atlas) |
+| 7 | oosexgang/hackios-xnu-kernel | C | 1692 | [Open](https://github.com/oosexgang/hackios-xnu-kernel) |
+| 8 | t3dotgg/tstack | Python | 1606 | [Open](https://github.com/t3dotgg/tstack) |
+| 9 | 9bie/php2shell-bypass-aslr-exp | Python | 1478 | [Open](https://github.com/9bie/php2shell-bypass-aslr-exp) |
+| 10 | openai/php2shell-checker | JavaScript | 1425 | [Open](https://github.com/openai/php2shell-checker) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
