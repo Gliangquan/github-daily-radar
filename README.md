@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-29T03:09:06.158Z
+Updated: 2026-10-30T03:12:59.978Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | JustAResearcher/gpu-unlock-ada | C | 4432 | [Open](https://github.com/JustAResearcher/gpu-unlock-ada) |
-| 2 | rddmwmddr/android-ad-cleaner | Python | 4368 | [Open](https://github.com/rddmwmddr/android-ad-cleaner) |
-| 3 | unclebob/ub-mode | Unknown | 3881 | [Open](https://github.com/unclebob/ub-mode) |
-| 4 | designfuchen/word-atlas | TypeScript | 3078 | [Open](https://github.com/designfuchen/word-atlas) |
-| 5 | interplains/Zero-Breach-Toolkit | Python | 2844 | [Open](https://github.com/interplains/Zero-Breach-Toolkit) |
-| 6 | t3dotgg/tstack | Python | 2280 | [Open](https://github.com/t3dotgg/tstack) |
-| 7 | anhao/ai-pose-gallery-zh | HTML | 2037 | [Open](https://github.com/anhao/ai-pose-gallery-zh) |
-| 8 | enesozturk/dimensional-drawing | HTML | 1419 | [Open](https://github.com/enesozturk/dimensional-drawing) |
-| 9 | morganlinton/BeautifulRust | Python | 1371 | [Open](https://github.com/morganlinton/BeautifulRust) |
-| 10 | andyhuo520/digital-human-koubo | TypeScript | 1325 | [Open](https://github.com/andyhuo520/digital-human-koubo) |
+| 1 | unclebob/ub-mode | Unknown | 4792 | [Open](https://github.com/unclebob/ub-mode) |
+| 2 | rddmwmddr/android-ad-cleaner | Python | 4784 | [Open](https://github.com/rddmwmddr/android-ad-cleaner) |
+| 3 | interplains/Zero-Breach-Toolkit | Python | 3640 | [Open](https://github.com/interplains/Zero-Breach-Toolkit) |
+| 4 | anhao/ai-pose-gallery-zh | HTML | 3281 | [Open](https://github.com/anhao/ai-pose-gallery-zh) |
+| 5 | designfuchen/word-atlas | TypeScript | 3260 | [Open](https://github.com/designfuchen/word-atlas) |
+| 6 | t3dotgg/tstack | Python | 2406 | [Open](https://github.com/t3dotgg/tstack) |
+| 7 | andyhuo520/digital-human-koubo | TypeScript | 1487 | [Open](https://github.com/andyhuo520/digital-human-koubo) |
+| 8 | DenisSergeevitch/ex-ussr-kinship-research | Python | 1270 | [Open](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) |
+| 9 | Motionsites-AI/claude-skill | Python | 1094 | [Open](https://github.com/Motionsites-AI/claude-skill) |
+| 10 | KillaBoi/StealMyBitcoin-PoC | Python | 1007 | [Open](https://github.com/KillaBoi/StealMyBitcoin-PoC) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
