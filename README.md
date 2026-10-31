@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-30T03:12:59.978Z
+Updated: 2026-10-31T02:57:37.984Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | unclebob/ub-mode | Unknown | 4792 | [Open](https://github.com/unclebob/ub-mode) |
-| 2 | rddmwmddr/android-ad-cleaner | Python | 4784 | [Open](https://github.com/rddmwmddr/android-ad-cleaner) |
-| 3 | interplains/Zero-Breach-Toolkit | Python | 3640 | [Open](https://github.com/interplains/Zero-Breach-Toolkit) |
-| 4 | anhao/ai-pose-gallery-zh | HTML | 3281 | [Open](https://github.com/anhao/ai-pose-gallery-zh) |
-| 5 | designfuchen/word-atlas | TypeScript | 3260 | [Open](https://github.com/designfuchen/word-atlas) |
-| 6 | t3dotgg/tstack | Python | 2406 | [Open](https://github.com/t3dotgg/tstack) |
-| 7 | andyhuo520/digital-human-koubo | TypeScript | 1487 | [Open](https://github.com/andyhuo520/digital-human-koubo) |
-| 8 | DenisSergeevitch/ex-ussr-kinship-research | Python | 1270 | [Open](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) |
-| 9 | Motionsites-AI/claude-skill | Python | 1094 | [Open](https://github.com/Motionsites-AI/claude-skill) |
-| 10 | KillaBoi/StealMyBitcoin-PoC | Python | 1007 | [Open](https://github.com/KillaBoi/StealMyBitcoin-PoC) |
+| 1 | unclebob/ub-mode | Unknown | 5417 | [Open](https://github.com/unclebob/ub-mode) |
+| 2 | anhao/ai-pose-gallery-zh | TypeScript | 4024 | [Open](https://github.com/anhao/ai-pose-gallery-zh) |
+| 3 | interplains/Zero-Breach-Toolkit | Python | 3882 | [Open](https://github.com/interplains/Zero-Breach-Toolkit) |
+| 4 | designfuchen/word-atlas | TypeScript | 3392 | [Open](https://github.com/designfuchen/word-atlas) |
+| 5 | ccch1mneyyy/dsh-Go | Dart | 2639 | [Open](https://github.com/ccch1mneyyy/dsh-Go) |
+| 6 | valentderah/totk-pc-recomp | C | 1677 | [Open](https://github.com/valentderah/totk-pc-recomp) |
+| 7 | andyhuo520/digital-human-koubo | TypeScript | 1558 | [Open](https://github.com/andyhuo520/digital-human-koubo) |
+| 8 | wangzan101/Mika | Kotlin | 1504 | [Open](https://github.com/wangzan101/Mika) |
+| 9 | qybaihe/bla | TypeScript | 1445 | [Open](https://github.com/qybaihe/bla) |
+| 10 | heydamir/unslop | JavaScript | 1394 | [Open](https://github.com/heydamir/unslop) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
