@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-10-31T02:57:37.984Z
+Updated: 2026-11-01T02:52:37.935Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | unclebob/ub-mode | Unknown | 5417 | [Open](https://github.com/unclebob/ub-mode) |
-| 2 | anhao/ai-pose-gallery-zh | TypeScript | 4024 | [Open](https://github.com/anhao/ai-pose-gallery-zh) |
-| 3 | interplains/Zero-Breach-Toolkit | Python | 3882 | [Open](https://github.com/interplains/Zero-Breach-Toolkit) |
-| 4 | designfuchen/word-atlas | TypeScript | 3392 | [Open](https://github.com/designfuchen/word-atlas) |
-| 5 | ccch1mneyyy/dsh-Go | Dart | 2639 | [Open](https://github.com/ccch1mneyyy/dsh-Go) |
-| 6 | valentderah/totk-pc-recomp | C | 1677 | [Open](https://github.com/valentderah/totk-pc-recomp) |
-| 7 | andyhuo520/digital-human-koubo | TypeScript | 1558 | [Open](https://github.com/andyhuo520/digital-human-koubo) |
-| 8 | wangzan101/Mika | Kotlin | 1504 | [Open](https://github.com/wangzan101/Mika) |
-| 9 | qybaihe/bla | TypeScript | 1445 | [Open](https://github.com/qybaihe/bla) |
-| 10 | heydamir/unslop | JavaScript | 1394 | [Open](https://github.com/heydamir/unslop) |
+| 1 | anhao/ai-pose-gallery-zh | TypeScript | 4732 | [Open](https://github.com/anhao/ai-pose-gallery-zh) |
+| 2 | heydamir/unslop | JavaScript | 3614 | [Open](https://github.com/heydamir/unslop) |
+| 3 | deepseek-ai/dsh-superagent-prototype | TypeScript | 3019 | [Open](https://github.com/deepseek-ai/dsh-superagent-prototype) |
+| 4 | wangzan101/Mika | Kotlin | 2833 | [Open](https://github.com/wangzan101/Mika) |
+| 5 | valentderah/totk-pc-recomp | C | 2666 | [Open](https://github.com/valentderah/totk-pc-recomp) |
+| 6 | paipiange/nvzhuang | Go | 1740 | [Open](https://github.com/paipiange/nvzhuang) |
+| 7 | aschmelyun/print-my-profile-pic | Unknown | 1648 | [Open](https://github.com/aschmelyun/print-my-profile-pic) |
+| 8 | andyhuo520/digital-human-koubo | TypeScript | 1594 | [Open](https://github.com/andyhuo520/digital-human-koubo) |
+| 9 | patch-gg/pixelfx | JavaScript | 1493 | [Open](https://github.com/patch-gg/pixelfx) |
+| 10 | lexifina/global-law | HTML | 1426 | [Open](https://github.com/lexifina/global-law) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
