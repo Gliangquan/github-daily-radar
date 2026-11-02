@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-11-01T02:52:37.935Z
+Updated: 2026-11-02T02:59:31.871Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | anhao/ai-pose-gallery-zh | TypeScript | 4732 | [Open](https://github.com/anhao/ai-pose-gallery-zh) |
-| 2 | heydamir/unslop | JavaScript | 3614 | [Open](https://github.com/heydamir/unslop) |
-| 3 | deepseek-ai/dsh-superagent-prototype | TypeScript | 3019 | [Open](https://github.com/deepseek-ai/dsh-superagent-prototype) |
-| 4 | wangzan101/Mika | Kotlin | 2833 | [Open](https://github.com/wangzan101/Mika) |
-| 5 | valentderah/totk-pc-recomp | C | 2666 | [Open](https://github.com/valentderah/totk-pc-recomp) |
-| 6 | paipiange/nvzhuang | Go | 1740 | [Open](https://github.com/paipiange/nvzhuang) |
-| 7 | aschmelyun/print-my-profile-pic | Unknown | 1648 | [Open](https://github.com/aschmelyun/print-my-profile-pic) |
-| 8 | andyhuo520/digital-human-koubo | TypeScript | 1594 | [Open](https://github.com/andyhuo520/digital-human-koubo) |
-| 9 | patch-gg/pixelfx | JavaScript | 1493 | [Open](https://github.com/patch-gg/pixelfx) |
-| 10 | lexifina/global-law | HTML | 1426 | [Open](https://github.com/lexifina/global-law) |
+| 1 | deepseek-ai/dsh-superagent-prototype | TypeScript | 8520 | [Open](https://github.com/deepseek-ai/dsh-superagent-prototype) |
+| 2 | anhao/ai-pose-gallery-zh | TypeScript | 5183 | [Open](https://github.com/anhao/ai-pose-gallery-zh) |
+| 3 | heydamir/unslop | JavaScript | 4969 | [Open](https://github.com/heydamir/unslop) |
+| 4 | wangzan101/Mika | Kotlin | 4060 | [Open](https://github.com/wangzan101/Mika) |
+| 5 | valentderah/totk-pc-recomp | C | 3257 | [Open](https://github.com/valentderah/totk-pc-recomp) |
+| 6 | patch-gg/pixelfx | JavaScript | 2744 | [Open](https://github.com/patch-gg/pixelfx) |
+| 7 | Djihads80/Eglantine | C++ | 2043 | [Open](https://github.com/Djihads80/Eglantine) |
+| 8 | paipiange/nvzhuang | Go | 1899 | [Open](https://github.com/paipiange/nvzhuang) |
+| 9 | haydenschmitty/floorplan | JavaScript | 1840 | [Open](https://github.com/haydenschmitty/floorplan) |
+| 10 | aschmelyun/print-my-profile-pic | Unknown | 1702 | [Open](https://github.com/aschmelyun/print-my-profile-pic) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
