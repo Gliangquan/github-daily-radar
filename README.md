@@ -17,20 +17,20 @@ A tiny automation project that discovers hot new GitHub repositories every day a
 
 <!-- RADAR:START -->
 
-Updated: 2026-11-02T02:59:31.871Z
+Updated: 2026-11-03T04:17:54.452Z
 
 | Rank | Repository | Language | Stars | Link |
 |---:|---|---|---:|---|
-| 1 | deepseek-ai/dsh-superagent-prototype | TypeScript | 8520 | [Open](https://github.com/deepseek-ai/dsh-superagent-prototype) |
-| 2 | anhao/ai-pose-gallery-zh | TypeScript | 5183 | [Open](https://github.com/anhao/ai-pose-gallery-zh) |
-| 3 | heydamir/unslop | JavaScript | 4969 | [Open](https://github.com/heydamir/unslop) |
-| 4 | wangzan101/Mika | Kotlin | 4060 | [Open](https://github.com/wangzan101/Mika) |
-| 5 | valentderah/totk-pc-recomp | C | 3257 | [Open](https://github.com/valentderah/totk-pc-recomp) |
-| 6 | patch-gg/pixelfx | JavaScript | 2744 | [Open](https://github.com/patch-gg/pixelfx) |
-| 7 | Djihads80/Eglantine | C++ | 2043 | [Open](https://github.com/Djihads80/Eglantine) |
-| 8 | paipiange/nvzhuang | Go | 1899 | [Open](https://github.com/paipiange/nvzhuang) |
-| 9 | haydenschmitty/floorplan | JavaScript | 1840 | [Open](https://github.com/haydenschmitty/floorplan) |
-| 10 | aschmelyun/print-my-profile-pic | Unknown | 1702 | [Open](https://github.com/aschmelyun/print-my-profile-pic) |
+| 1 | deepseek-ai/dsh-superagent-prototype | TypeScript | 14022 | [Open](https://github.com/deepseek-ai/dsh-superagent-prototype) |
+| 2 | heydamir/unslop | JavaScript | 6460 | [Open](https://github.com/heydamir/unslop) |
+| 3 | wangzan101/Mika | Kotlin | 5521 | [Open](https://github.com/wangzan101/Mika) |
+| 4 | storytold/craft-anything | Rust | 4882 | [Open](https://github.com/storytold/craft-anything) |
+| 5 | valentderah/totk-pc-recomp | C | 4101 | [Open](https://github.com/valentderah/totk-pc-recomp) |
+| 6 | patch-gg/pixelfx | JavaScript | 3624 | [Open](https://github.com/patch-gg/pixelfx) |
+| 7 | Djihads80/Eglantine | C++ | 2598 | [Open](https://github.com/Djihads80/Eglantine) |
+| 8 | paipiange/nvzhuang | Go | 2059 | [Open](https://github.com/paipiange/nvzhuang) |
+| 9 | BryceYuuu/RUN | Python | 1777 | [Open](https://github.com/BryceYuuu/RUN) |
+| 10 | lexifina/global-law | HTML | 1710 | [Open](https://github.com/lexifina/global-law) |
 
 > Data source: GitHub Search API (`created:>last-7-days`, sorted by stars).
 
